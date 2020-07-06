@@ -13,6 +13,8 @@ weight = 20  # Order that this section will appear in.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 +++
 ## The Opportunity
+
+{{% figure src="/img/m2pi-sample-logo.png" class="float-right pl-5" %}}
 Math<sup>Industry</sup> (Math to power industry) is a professional development
 school positioned to benefit Canadian industry because:
 
