@@ -23,7 +23,10 @@ education:
     institution: UC Berkeley
 # Social/Academic Networking, delete any items you don't want to use
 social:
+- icon: github
+  icon_pack: fab
   link: https://github.com/AmeliaSpivak
+
 user_groups:
 - committee: members
   role: ATCO Project member
