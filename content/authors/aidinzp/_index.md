@@ -47,5 +47,5 @@ user_groups:
 
 tags:
 - '2021'
----
 Interested in various fields of Mathematics and Data Science, specifically Machine Learning, Convolutional Neural Networks, as well as Partial Differential Equations. Have been working on some projects for the past few months.
+---
