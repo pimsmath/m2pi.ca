@@ -34,6 +34,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/NoahBolohan
+- icon: LinkedIn
+  icon_pack: fab
+  link: https://www.linkedin.com/in/noah-bolohan-2a2950109/
 
 user_groups:
 - committee: members
