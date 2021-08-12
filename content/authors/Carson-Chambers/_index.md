@@ -36,8 +36,8 @@ social:
   link: https://linkedin.com/in/carson-chambers-363767206/
 
 user_groups:
-- committee: A. Joshi, A. Khorasani, C. Chambers
-  role: Team Project 6 member
+- committee: members
+  role: Team 6 Project Member
 
 tags:
 - '2021'
