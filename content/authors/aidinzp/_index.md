@@ -43,7 +43,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Project 1 member
+  role: Team 4 
 
 tags:
 - '2021'
