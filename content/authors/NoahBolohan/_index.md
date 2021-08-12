@@ -31,18 +31,18 @@ education:
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/NoahBolohan
 - icon: github
   icon_pack: fab
   link: https://github.com/NoahBolohan
 
 user_groups:
 - committee: members
-  role: McMillan-McGee Team Member
+  role: Natural Resources Canada 1 - Team Member
 
 ---
 Noah is a recent graduate student from the University of Ottawa studying the effects of seasonaility on predator-prey scenarios. His work focuses on bistability and bifurcations
-in ordinary differential equation models as well as averaging of discontinuous systems. He works mainly with MATLAB and XPPAUTO, but is also familiar with Python and R. His
-interests lie in mathematical ecology, mainly in population dynamics, as well as mathematical modelling and numerical simulations.
+in ordinary differential equation models as well as averaging of discontinuous systems. He works mainly with MATLAB, Python, R and XPPAUTO. His
+interests lie in mathematical ecology, mainly in population dynamics, as well as mathematical modelling and numerical simulations applied to various real-world scenarios.
+
+tags:
+- '2021'
