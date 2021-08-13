@@ -43,7 +43,8 @@ social:
 user_groups:
 - committee: members
   role: Team 9 Serious Labs
-  tags:
+  
+tags:
 - '2021'
 ---
 I am a post doctoral Fellow at the University of Regina.
