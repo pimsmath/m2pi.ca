@@ -37,7 +37,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 6 Project Member
+  role: Team 6 - McMillian McGee
 
 tags:
 - '2021'
