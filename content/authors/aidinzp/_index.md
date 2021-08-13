@@ -7,13 +7,13 @@ authors:
 - aidinzp
 
 # Role/position e.g. Graduate student
-role: Recent Grad
+role: M.Sc. Graduate
 
 # Organization membership
 Organizations/Affiliations:
 organizations:
 - name: University of Manitoba
-  url: https://www.google.ca
+  url: https://www.umanitoba.ca
 
 # A list of your interests, add as many as you want
 interests:
@@ -39,13 +39,11 @@ social:
 #  link: https://twitter.com/carlosshigoto
 - icon: linkedin
   icon_pack: fab
- link: https://www.linkedin.com/in/aidinzp/
-
+ link: https://www.linkedin.com/in/aidinzp
 user_groups:
 - committee: members
-  role: Team 4 
-
+  role: Team 4 - City of Winnipeg ICB
 tags:
 - '2021'
-Interested in various fields of Mathematics and Data Science, specifically Machine Learning, Convolutional Neural Networks, as well as Partial Differential Equations. Have been working on some projects for the past few months.
 ---
+Interested in various fields of Mathematics and Data Science, specifically Machine Learning, Convolutional Neural Networks, as well as Partial Differential Equations.
