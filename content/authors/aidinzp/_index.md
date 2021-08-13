@@ -7,7 +7,7 @@ authors:
 - aidinzp
 
 # Role/position e.g. Graduate student
-role: M.Sc. Graduate
+role: M.Sc. Mathematics
 
 # Organization membership
 Organizations/Affiliations:
