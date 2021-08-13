@@ -40,7 +40,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Project 1 member
+  role: Project 8: NRCAN - CANADIAN FOREST SERVICES 2 member
 
 tags:
 - '2021'
