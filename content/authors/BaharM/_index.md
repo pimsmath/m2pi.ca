@@ -19,12 +19,11 @@ organizations:
 interests:
 - Applications of Optimization in Healthcare
 - Operations Research
+- Mathematical Analysis
 
 # Your educational history, add as many as you want
 education:
   courses:
-  - course: MSc - Mathematics
-    institution: Univerisity of Calgary
   - course: BSc - Applied Mathematics
     institution: Amirkabir University of Technology
 
@@ -39,10 +38,10 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 9 - member
+  role: Team 9 - Serious Labs
 
 tags:
 - '2021'
 ---
-This is a freeform text area which supports markdown syntax. Fill in a couple of
-sentences describing yourself.
+Bahar is a MSc student in mathematics at the University of Calgary. Her research concentrates on the optimal radiation 
+therapy planning for cancer treatment. She is also interested in the real world applications of optimization.
