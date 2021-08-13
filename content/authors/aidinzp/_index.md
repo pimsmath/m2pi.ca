@@ -34,12 +34,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/aidinzp
-#- icon: twitter
+# icon: twitter
 #  icon_pack: fab
-#  link: https://twitter.com/carlosshigoto
+#  link: https://twitter.com/
 - icon: linkedin
   icon_pack: fab
- link: https://www.linkedin.com/in/aidinzp
+  link: https://www.linkedin.com/in/aidinzp/
 user_groups:
 - committee: members
   role: Team 4 - City of Winnipeg ICB
