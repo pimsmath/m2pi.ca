@@ -1,3 +1,4 @@
+---
 # Display name
 title: Amit jha
 
@@ -49,5 +50,3 @@ tags:
 - '2021'
 ---
 Working on ML projects with PIMS math^industry
-This is a freeform text area which supports markdown syntax. Fill in a couple of
-sentences describing yourself.
