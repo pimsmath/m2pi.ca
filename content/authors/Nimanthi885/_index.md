@@ -1,4 +1,3 @@
-Here is the template we will use for the _index.md file
 ---
 # Display name
 title: Nimanthi Yaseema
@@ -46,5 +45,3 @@ user_groups:
 tags:
 - '2021'
 ---
-This is a freeform text area which supports markdown syntax. Fill in a couple of
-sentences describing yourself.
