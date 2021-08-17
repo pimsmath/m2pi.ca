@@ -19,7 +19,7 @@ organizations:
 interests:
 - Machine Learning
 - Deep Learning
-- Genomics
+- Genomics and Transcriptomics
 
 # Your educational history, add as many as you want
 education:
