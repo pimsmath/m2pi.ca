@@ -24,7 +24,6 @@ interests:
 # Your educational history, add as many as you want
 education:
   courses:
-  
   - course: B.Sc. - Electrical Engineering
     institution: Iran University of Science and Technology
 
@@ -39,10 +38,9 @@ social:
 
 user_groups:
 - committee: members
-  role: Project 1 member
+  role: Team 1 - Aerium Analytics
 
 tags:
 - '2021'
 ---
-This is a freeform text area which supports markdown syntax. Fill in a couple of
-sentences describing yourself.
+Hamid is a first-year M.Sc. student in Mathematics at the University of Calgary. His primary line of research is Machine Learning and Deep Learning applications in genomics and transcriptomics. Before joining the UoC, he was a volunteer research assistant at the Texas Biomedical Research Institute, remotely working on different research projects in collaboration with the University of New South Wales. 
