@@ -40,7 +40,7 @@ social:
 
 user_groups:
 - committee: members
-  role: ATCO
+  role: Team 2 - ATCO
 
 tags:
 - '2021'

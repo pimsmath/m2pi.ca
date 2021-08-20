@@ -38,7 +38,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Project 1 member
+  role: Team 1 - Aerium Analytics
 
 tags:
 - '2021'

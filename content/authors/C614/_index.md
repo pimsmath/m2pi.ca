@@ -50,7 +50,7 @@ social:
   link: https://sites.google.com/view/a-arman/home
 user_groups:
 - committee: members
-  role: Project 4 member
+  role: Team 4 - City of Winnipeg ICB
 
 tags:
 - '2021'

@@ -52,7 +52,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 1 - Aerium
+  role: Team 1 - Aerium Analytics
 
 tags:
 - '2021'

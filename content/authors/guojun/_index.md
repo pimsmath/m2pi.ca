@@ -39,7 +39,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Project 5 member
+  role: Team 5 - IOTO
 
 tags:
 - '2021'

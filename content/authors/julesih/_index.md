@@ -37,7 +37,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 8 - NR Canada 2
+  role: Team 8 - NRCAN 2
 
 tags:
 - '2021'

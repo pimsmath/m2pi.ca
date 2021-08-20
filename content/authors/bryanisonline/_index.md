@@ -43,7 +43,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team NRCAN 1
+  role: Team 7 - NRCAN 1
 
 tags:
 - '2021'

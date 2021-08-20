@@ -45,7 +45,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 5 IOTO International
+  role: Team 5 - IOTO International
 
 tags:
 - '2021'

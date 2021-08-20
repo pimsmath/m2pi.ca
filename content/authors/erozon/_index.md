@@ -37,7 +37,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Project 3 member -- CSTS Healthcare
+  role: Team 3 - CSTS Healthcare
 
 tags:
 - '2021'

@@ -42,7 +42,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 1 - NRCAN - CANADIAN FOREST SERVICES 1
+  role: Team 7 - NRCAN 1
 
 tags:
 - '2021'

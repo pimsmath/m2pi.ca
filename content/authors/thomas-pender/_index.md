@@ -43,7 +43,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Project 10 member
+  role: Team 10 - TheoryMesh
 
 tags:
 - '2021'

@@ -44,7 +44,7 @@ social:
   link: https://www.linkedin.com/in/amit-jha-b79aba24/
 user_groups:
 - committee: members
-  role: Team 1 - Aerium
+  role: Team 1 - Aerium Analytics
 
 tags:
 - '2021'

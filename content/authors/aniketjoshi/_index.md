@@ -43,7 +43,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 5 - Ioto International Team Member
+  role: Team 5 - IOTO
 
 tags:
 - '2021'

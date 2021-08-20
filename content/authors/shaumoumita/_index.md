@@ -42,7 +42,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 9 Serious Labs
+  role: Team 9 - Serious Labs
   
 tags:
 - '2021'
