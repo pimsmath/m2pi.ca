@@ -23,6 +23,7 @@ interests:
 - Numerical Analysis of Partial Differential Equations
 - Numerical Linear Algebra
 - Partial Differential Equations
+- Spectral Methods for PDEs
 
 
 
@@ -60,5 +61,5 @@ tags:
 
 ##
 
-Avleen is a PhD Mathematics Student at the University of Manitoba.
+Avleen is currently a PhD Mathematics student at the University of Manitoba. Her supervisor is Prof. Shaun Lui. She specializes in the areas of analysis, computer science, linear algerba, numerical analysis and partial differential equations. Her current research is on developing new estimates for the minimum singular value of 2x2 block matrices, space-time spectral methods for the Stokes problem, and designing a fast solver for linear systems arising from the space-time spectral methods. She is passionate about teaching, and learning new mathematical concepts. She is seeking research oppurtunities in academia. 
 
