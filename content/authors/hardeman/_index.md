@@ -18,7 +18,6 @@ organizations:
   url: "https://www.aeriumanalytics.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
 
 interests:
 - Machine Learning
@@ -44,6 +43,8 @@ social:
 user_groups:
 - committee: mentors
   role: Mentor
+
+highlight_name: true
 
 tags:
 - '2020'

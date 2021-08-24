@@ -6,6 +6,8 @@ title: Thomas Pender
 authors:
 - thomas-pender
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Masters student
 

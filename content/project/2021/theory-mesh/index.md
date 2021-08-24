@@ -14,7 +14,16 @@ summary: |
   traditional, vertical, etc.) and sustainability indicators (green house gases,
   etc.).
 
-authors: []
+authors:
+- Chris Bunio
+- Cuneyt Ackora
+- Sebastian Moraga Scheuermann
+- EdgarPache83
+- symonyeal
+- thomas-pender
+- igorivpp-2
+
+
 tags: ['2021']
 categories: []
 date: 2021-07-10T16:58:18-07:00

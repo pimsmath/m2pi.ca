@@ -6,6 +6,8 @@ title: Bryan Kettle
 authors:
 - bryanisonline
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: PhD Student
 

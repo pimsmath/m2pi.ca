@@ -6,6 +6,8 @@ title: Arian Khorasani
 authors:
 - ArianKhorasani
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Graduate student
 

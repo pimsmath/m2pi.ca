@@ -6,6 +6,8 @@ title: Bahar Mousazadeh
 authors:
 - BaharM1997
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Graduate student
 

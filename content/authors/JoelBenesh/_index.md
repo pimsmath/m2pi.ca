@@ -6,6 +6,8 @@ title: Joel Benesh
 authors:
 - JoelBenesh
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Graduate Student
 

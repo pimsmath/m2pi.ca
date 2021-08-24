@@ -6,6 +6,8 @@ title: Adeyemi Fagbade
 authors:
 - afagbade
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: PhD candidate
 

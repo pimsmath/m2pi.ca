@@ -6,6 +6,8 @@ title: Jonathan Gallagher
 authors:
 - jonathan-il
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Postdoctoral Fellow
 
@@ -44,7 +46,7 @@ email: "jonathan@infinitylab.io"
 
 user_groups:
 - committee: members
-  role: Team 1 - Aerium Analytics
+  role: Team 4 - City of Winnipeg ICB
 
 tags:
 - '2021'

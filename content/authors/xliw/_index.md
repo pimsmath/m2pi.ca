@@ -6,6 +6,8 @@ title: Xiaowei Li
 authors:
 - xliw
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Graduate student
 
@@ -43,7 +45,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 1 - Aerium
+  role: Team 1 - Aerium Analytics
 
 tags:
 - '2021'

@@ -6,6 +6,8 @@ title: Mahsa N. Shirazi
 authors:
 - MahsaShirazi
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: PhD Candidate
 

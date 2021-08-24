@@ -21,7 +21,14 @@ summary: |
   this project, we will explore theoretical dispersion distributions and models
   to better estimate mountain pine beetle invasion speed.
 
-authors: []
+authors:
+- Devin Goodsman
+- Julien Arino
+- Sajad Fathi Hafshejani
+- bryanisonline
+- NoahBolohan
+- sjana01
+
 tags: ['2021']
 categories: []
 date: 2021-07-10T16:58:18-07:00

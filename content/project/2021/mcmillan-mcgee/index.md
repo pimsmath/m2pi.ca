@@ -20,7 +20,13 @@ summary: |
   in this project centre on solving certain boundary value problems involving
   Maxwell's equations and linking these to the laws of thermodynamics.
 
-authors: [reid]
+authors: 
+- reid
+- Shaun Lui
+- ArianKhorasani
+- Carson-Chambers
+- pjsobrevilla
+
 tags: ['2021']
 categories: []
 date: 2021-07-10T16:58:18-07:00

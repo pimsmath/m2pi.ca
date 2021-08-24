@@ -6,6 +6,8 @@ title: Aidin Zaherparandaz
 authors:
 - aidinzp
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: M.Sc. Mathematics
 

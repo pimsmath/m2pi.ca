@@ -6,6 +6,8 @@ title: Shen-Ning Tung
 authors:
 - e41406
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Postdoctoral Fellow
 

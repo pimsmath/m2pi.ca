@@ -6,6 +6,8 @@ title: Eric Rozon
 authors:
 - erozon 
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Graduate Student 
 

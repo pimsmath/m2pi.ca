@@ -6,6 +6,8 @@ title: Pedro Jose Sobrevilla Moreno
 authors:
 - Pjsobrevilla
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Graduate Student
 
@@ -43,7 +45,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 3 - CSTS Healthcare
+  role: Team 6 - McMillan-McGee
 
 tags:
 - '2021'

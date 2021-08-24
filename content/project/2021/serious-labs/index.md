@@ -19,7 +19,16 @@ summary: |
   providing a more realistic experience.
 
 
-authors: []
+authors:
+- Adam Preuss
+- Slim Ibrahim
+- shaumoumita
+- Ngopnang
+- Prabatha-T
+- BaharM
+- mneyrane
+- Leila Rabiei Fard
+
 tags: ["2021"]
 categories: []
 date: 2021-07-12T12:54:49-07:00

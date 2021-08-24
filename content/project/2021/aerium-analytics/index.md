@@ -21,7 +21,15 @@ summary: |
   and potholes, is there a way that machine learning and computer vision could
   not only detect cracks but also classify their severity? 
 
-authors: ["hardeman"]
+authors:
+ - hardeman
+ - AysaTabrizi
+ - xliw
+ - avleenk2312
+ - jha-amit
+ - parhamidi
+ - hh197
+
 tags: ["2021"]
 categories: []
 date: 2021-07-10T16:57:49-07:00
@@ -121,5 +129,3 @@ https://open.alberta.ca/dataset/d24ecf3f-d15a-4e41-b090-9e1a4c85949a/resource/d4
 [^3]: Yang C, Chen J, Li Z, Huang Y. Structural Crack Detection and Recognition
 Based on Deep Learning. Applied Sciences. 2021; 11(6):2868.
 https://doi.org/10.3390/app11062868 
-
-

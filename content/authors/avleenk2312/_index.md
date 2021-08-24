@@ -6,6 +6,8 @@ title: Avleen Kaur
 authors:
 - avleenk2312
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: PhD Student
 

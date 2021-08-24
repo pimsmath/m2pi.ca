@@ -20,6 +20,17 @@ summary: |
   from positioning etc. We will use real-life traffic, geographical and weather
   data, and subsequently investigate economic feasibility of implementation of
   this technology.
+
+authors:
+- putkaradze
+- Joshua Brinkerhoff
+- James McCurdy
+- mahsashirazi
+- afagbade
+- alexmcsw
+- Nimanthi885
+
+
 tags: ['2021']
 categories: []
 date: 2021-07-10T17:00:22-07:00

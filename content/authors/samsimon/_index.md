@@ -6,6 +6,8 @@ title: Sam Simon
 authors:
 - samsimon
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: PhD student
 

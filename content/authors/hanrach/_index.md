@@ -6,6 +6,8 @@ title: Rachel Han
 authors:
 - hanrach
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: M.Sc Student
 
@@ -40,7 +42,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 1 - Aerium Analytics
+  role: Team 8 - NRCAN 2
 
 tags:
 - '2021'

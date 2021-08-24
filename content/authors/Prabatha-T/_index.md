@@ -6,6 +6,8 @@ title: Tharindu Prabatha
 authors:
 - PRABATHAT
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: PhD Candidate
 

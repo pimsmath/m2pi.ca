@@ -6,6 +6,8 @@ title: Hui Huang
 authors:
 - hhduke2014
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: PIMS Postdoctoral Fellow
 
@@ -35,8 +37,10 @@ social:
 #  link: https://www.linkedin.com/in/carloscontrerasc/
 
 user_groups:
-- committee: members
-  role: Team 8 - NRCAN 2
+- committee: mentors
+  role: Academic Mentor
+
+highlight_name: true
 
 tags:
 - '2021'

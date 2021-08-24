@@ -22,7 +22,14 @@ summary: |
   batch analysis of the images and classify them as  marked and unmarked to
   validate the new technique.
 
-authors: []
+authors:
+- Devin Goodsman
+- hhduke2014
+- mishty-ray
+- julesih
+- joelbenesh
+- hanrach
+
 tags: ['2021']
 categories: []
 date: 2021-07-10T16:58:18-07:00

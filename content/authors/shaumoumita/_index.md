@@ -6,6 +6,8 @@ title: Moumita Shau
 authors:
 - shaumoumita
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Postdoctoral Fellow
 
