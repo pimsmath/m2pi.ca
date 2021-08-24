@@ -6,6 +6,8 @@ title: Natalia Accomazzo Scotti
 authors:
 - naccomazzo
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Postdoctoral Fellow
 

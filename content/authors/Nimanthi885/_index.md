@@ -6,6 +6,8 @@ title: Nimanthi Yaseema
 authors:
 - Nimanthi885
 
+superuser: false
+
 # Role/position e.g. Graduate student
 
 

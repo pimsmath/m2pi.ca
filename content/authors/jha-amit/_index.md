@@ -6,6 +6,8 @@ title: Amit jha
 authors:
 - jah-amit
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Master student
 

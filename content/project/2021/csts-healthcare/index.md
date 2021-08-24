@@ -20,9 +20,11 @@ summary: |
 authors:
 - Ali Hashemi
 - Peijun Sang
-- erozon
 - naccomazzo
-- pjsobrevilla
+- erozon
+- Elliethieu
+- Yiyu Yang
+- Bo Pan
 
 tags: ["2021"]
 categories: []

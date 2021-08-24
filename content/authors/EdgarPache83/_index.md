@@ -6,6 +6,8 @@ title: Edgar Pacheco Castan
 authors: Pache83
 #- YourGitHubUsername
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Graduate student
 

@@ -6,6 +6,8 @@ title: Igor Pinheiro
 authors:
 - igorivpp-2
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Master's Student
 
@@ -44,7 +46,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Project 10 - TheoryMesh
+  role: Team 10 - TheoryMesh
 
 tags:
 - '2021'

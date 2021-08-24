@@ -6,6 +6,8 @@ title: Andrii Arman
 authors:
 - C614
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Postdoctoral Fellow
 

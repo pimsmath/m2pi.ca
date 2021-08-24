@@ -40,9 +40,10 @@ social:
 
 user_groups:
 - committee: members
-  role: McMillan-McGee Team Member
+  role: Team 7 - NRCAN 1
 
 tags:
+- '2021'
 - '2020'
 ---
 Noah is a recent graduate student from the University of Ottawa studying the effects of seasonaility on predator-prey scenarios. His work focuses on bistability and bifurcations

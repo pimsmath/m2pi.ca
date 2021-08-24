@@ -6,6 +6,8 @@ title: Jules Hoepner
 authors:
 - Julesih
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Graduate Student
 

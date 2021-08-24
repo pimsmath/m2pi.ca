@@ -6,6 +6,8 @@ title: Saimon Yeal Islam
 authors:
 - symonyeal
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Graduate Student
 

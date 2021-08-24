@@ -6,6 +6,8 @@ title: Maksym Neyra-Nesterenko
 authors:
 - mneyrane
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: MSc student
 

@@ -6,6 +6,8 @@ title: Mishty Ray
 authors:
 - mishty-ray
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Graduate Student
 # Organization membership

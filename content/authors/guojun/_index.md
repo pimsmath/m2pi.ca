@@ -6,6 +6,8 @@ title: Guojun Ma
 authors:
 - guojunma
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Graduate student
 

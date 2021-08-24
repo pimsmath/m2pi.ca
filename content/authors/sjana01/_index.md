@@ -6,6 +6,8 @@ title: Santanil Jana
 authors:
 - sjana01
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Ph.D Candidate 
 

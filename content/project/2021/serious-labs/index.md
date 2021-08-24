@@ -22,11 +22,12 @@ summary: |
 authors:
 - Adam Preuss
 - Slim Ibrahim
-- ngopnang
-- baharm
-- mneyrane
 - shaumoumita
-- prabatha-t
+- Ngopnang
+- Prabatha-T
+- BaharM
+- mneyrane
+- Leila Rabiei Fard
 
 tags: ["2021"]
 categories: []

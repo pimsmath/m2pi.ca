@@ -24,15 +24,11 @@ summary: |
 authors:
  - hardeman
  - AysaTabrizi
- - jha-amit
- - avleenk2312
- - aysatabrizi
- - elliethieu
- - hh197
- - jonathan-gallagher
- - parhamidi
- - hanrach
  - xliw
+ - avleenk2312
+ - jha-amit
+ - parhamidi
+ - hh197
 
 tags: ["2021"]
 categories: []

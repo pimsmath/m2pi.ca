@@ -24,10 +24,11 @@ summary: |
 authors:
 - putkaradze
 - Joshua Brinkerhoff
-- alexmcsw
-- afagbade
+- James McCurdy
 - mahsashirazi
-- nimanthi885
+- afagbade
+- alexmcsw
+- Nimanthi885
 
 
 tags: ['2021']

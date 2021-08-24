@@ -4,7 +4,9 @@ title: Carson Chambers
 
 # Username (this should match your github username)
 authors:
-- CarsonPC
+- Carson-Chambers
+
+superuser: false
 
 # Role/position e.g. Graduate student
 role: Graduate Student

@@ -6,6 +6,8 @@ title: Aysa Fakheri Tabrizi
 authors:
 - AysaTabrizi
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Postdoctoral Fellow
 
@@ -43,8 +45,10 @@ social:
   link: https://www.linkedin.com/in/aysaft/
 
 user_groups:
-- committee: members
-  role: Team 1 - Aerium Analytics
+- committee: mentors
+  role: Academic Mentor
+
+highlight_name: true
 
 tags:
 - '2021'

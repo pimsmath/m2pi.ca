@@ -6,6 +6,8 @@ title: Aniket Joshi
 authors:
 - aniketjoshi93
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: PhD student
 

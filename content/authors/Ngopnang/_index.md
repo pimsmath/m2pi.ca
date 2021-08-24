@@ -2,6 +2,8 @@
 # Display name
 title: Arnaud Ngopnang
 
+superuser: false
+
 # Username (this should match your github username)
 authors:
 - Ngopnang

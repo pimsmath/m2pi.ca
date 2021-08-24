@@ -6,6 +6,8 @@ title: Mitch Haslehurst
 authors:
 - mjthasle
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: PhD candidate
 

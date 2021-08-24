@@ -6,6 +6,8 @@ title: Parham Hamidi
 authors:
 - parhamidi
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Postdoctoral Fellow
 
@@ -46,7 +48,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 1 - Aerium
+  role: Team 1 - Aerium Analytics
 
 tags:
 - '2021'

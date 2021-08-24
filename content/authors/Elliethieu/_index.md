@@ -6,6 +6,8 @@ title: Ellie Thieu
 authors:
 - Elliethieu
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Math Researcher, Data Analyst
 
@@ -38,7 +40,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 1 - Aerium Analytics
+  role: Team 3 - CSTS Healthcare
 
 tags:
 - '2021'

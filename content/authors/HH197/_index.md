@@ -6,6 +6,8 @@ title: Hamid Hamidi
 authors:
 - HH197
 
+superuser: false
+
 # Role/position e.g. Graduate student
 role: Graduate Student
 

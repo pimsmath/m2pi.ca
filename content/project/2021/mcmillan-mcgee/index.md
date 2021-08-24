@@ -23,8 +23,9 @@ summary: |
 authors: 
 - reid
 - Shaun Lui
-- ariankhorasani
-- carson-chambers
+- ArianKhorasani
+- Carson-Chambers
+- pjsobrevilla
 
 tags: ['2021']
 categories: []
