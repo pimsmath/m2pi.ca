@@ -20,6 +20,12 @@ summary: |
   modelling of larval development subject to changes in spring and summer
   temperatures.
 
+authors:
+- Ken Nowalsky
+- Julien Arino
+- aidinzp
+- c614
+
 
 tags: ['2021']
 categories: []

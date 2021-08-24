@@ -13,7 +13,15 @@ summary: |
   parliamentary or legislative session, providing quantitative and comparative
   performance insight.
 
-authors: []
+authors:
+- spat
+- Adam Kashlak
+- aniketjoshi
+- mjthasle
+- guojun
+- samsimon
+- e41406
+
 tags: ["2021"]
 categories: []
 date: 2021-07-12T12:54:49-07:00

@@ -17,7 +17,13 @@ summary: |
   therapies with those actually given by to a patient by their oncologists.
 
 
-authors: []
+authors:
+- Ali Hashemi
+- Peijun Sang
+- erozon
+- naccomazzo
+- pjsobrevilla
+
 tags: ["2021"]
 categories: []
 date: 2021-07-12T12:54:49-07:00
