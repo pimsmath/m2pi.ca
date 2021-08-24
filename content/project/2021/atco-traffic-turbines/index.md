@@ -23,7 +23,7 @@ summary: |
 
 authors:
 - putkaradze
-- Joshua Brinkerhoff
+- brinkerhoff
 - James McCurdy
 - mahsashirazi
 - afagbade

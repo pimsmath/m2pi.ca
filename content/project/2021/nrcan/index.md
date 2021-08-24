@@ -22,8 +22,8 @@ summary: |
   to better estimate mountain pine beetle invasion speed.
 
 authors:
-- Devin Goodsman
-- Julien Arino
+- goodsman
+- arino
 - Sajad Fathi Hafshejani
 - bryanisonline
 - NoahBolohan

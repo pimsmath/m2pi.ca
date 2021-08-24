@@ -18,8 +18,8 @@ summary: |
 
 
 authors:
-- Ali Hashemi
-- Peijun Sang
+- hashemi
+- psang
 - naccomazzo
 - erozon
 - Elliethieu
