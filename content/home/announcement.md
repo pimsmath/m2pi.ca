@@ -2,8 +2,8 @@
 # Hero widget.
 widget = "announcement"
 headless = true
-active = false
+active = true
 weight = 1
 
-title = "Now accepting participant registration for see below for more details or [Apply now](https://ubc.ca1.qualtrics.com/jfe/form/SV_0pUcOQkSMvryi8e)"
+title = "The m2pi gala and final presentations will take place on Thursday Aug 26th 12pm Pacific/1pm Mountain. Please [contact us](#contact) to join us for this event."
 +++

@@ -36,11 +36,11 @@ title = "<em>Math<sup>Industry</sup> 2021</em>"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://ubc.ca1.qualtrics.com/jfe/form/SV_0pUcOQkSMvryi8e"
-  label = "Apply"
-  icon_pack = "fas"
-  icon = "users"
+#[cta]
+#  url = "https://ubc.ca1.qualtrics.com/jfe/form/SV_0pUcOQkSMvryi8e"
+#  label = "Apply"
+#  icon_pack = "fas"
+#  icon = "users"
   
 #[cta_alt]
 #  url = "https://survey.ucalgary.ca/jfe/form/SV_7Oho3jCh8rP51nD"
@@ -49,8 +49,8 @@ title = "<em>Math<sup>Industry</sup> 2021</em>"
 #  icon = "chalkboard-teacher"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = 'August 3 to August 27, 2021 (gala August 26)'
+#[cta_note]
+#  label = 'August 3 to August 27, 2021 (gala August 26)'
 +++
 **August 3-27, 2021**
 
@@ -68,7 +68,6 @@ Attendees will gain hands-on experience as part of a team working on a
 real-world problem posed by an industry partner. Potential industry partners
 can also [contact us](#contact) to learn more or propose projects.
 
-Applications will close on **July 16 at 5 pm Pacific**.  Participants will be
-notified of their acceptance to the program no later than July 20, 2021, and
-will be expected to accept their registration immediately (no later than July
-26, 2021).
+The Gala and final presentations for the M2PI 2021 projects will take place on
+August 26th at 12/1 - 3/4 (Pacific/Mountain). Please [contact us](#contact) for
+connection details to join us for this event.

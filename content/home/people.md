@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 year = '2021'
-default_committee = "organizing"
+default_committee = "members"
 
 title = "Meet the Teams"
 subtitle = ""
