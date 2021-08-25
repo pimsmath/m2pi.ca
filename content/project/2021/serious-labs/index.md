@@ -24,7 +24,6 @@ authors:
 - slim
 - shaumoumita
 - Ngopnang
-- Prabatha-T
 - BaharM
 - mneyrane
 - Leila Rabiei Fard
