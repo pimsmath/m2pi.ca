@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: MSc - Mathematics
-    institution: Univerisity of Alberta
+    institution: University of Alberta
   - course: BS and MS - Physics
     institution: Indian Institute of Technology (IIT), Madras
 
@@ -50,4 +50,4 @@ user_groups:
 tags:
 - '2021'
 ---
-Aniket is a PhD student at the University of Alberta working on the interface of vertex operator algebras (VOAs) and enumerative geometry. He is also interested in machine learning and data science, and software development and engineering for scientific and industrial applications. 
+Aniket is a PhD student at the University of Alberta working on the interface of vertex operator algebras (VOAs) and enumerative geometry. He is also interested in  machine learning, data science, and scientific software development. 
