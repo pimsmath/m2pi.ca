@@ -45,8 +45,10 @@ email: "jonathan@infinitylab.io"
 
 
 user_groups:
-- committee: members
-  role: Team 4 - City of Winnipeg ICB
+- committee: mentors
+  role: Academic Mentor
+
+highlight_name: true
 
 tags:
 - '2021'

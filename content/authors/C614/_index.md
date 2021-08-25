@@ -51,8 +51,10 @@ social:
   icon_pack: fas
   link: https://sites.google.com/view/a-arman/home
 user_groups:
-- committee: members
-  role: Team 4 - City of Winnipeg ICB
+- committee: mentors
+  role: Academic Mentor
+
+highlight_name: true
 
 tags:
 - '2021'
