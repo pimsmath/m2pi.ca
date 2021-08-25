@@ -22,6 +22,7 @@ summary: |
 
 authors:
 - nawolsky
+- bodnarchuk
 - arino
 - jonathan-gallagher
 - c614
