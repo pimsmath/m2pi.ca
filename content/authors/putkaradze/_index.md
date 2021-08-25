@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Mathematics
+role: Vice President, Transformation, Science and Technology
 
 Organizations/Affiliations:
 organizations:
@@ -30,8 +30,16 @@ interests:
 - Tree-like structures for energy harvesting
 
 education:
+  courses:
+  - course: PhD, Physics
+    institution: University of Copenhagen
+  - course: MSc Applied Mathematics
+    institution: Moscow Physico-Technical Institute
 
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/vakhtang-putkaradze-48b08910/?originalSubdomain=ca
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "bauerk@ucalgary.ca"
