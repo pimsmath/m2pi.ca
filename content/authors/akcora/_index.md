@@ -34,9 +34,18 @@ education:
       institution: State University of New York at Buffalo
     - course: B.Sc in Electrical and Electronics Engineering
       institution: Karadeniz Technical University, Turkey
-    - course: 
 
 social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/cuneytgurcan
+- icon: github
+  icon_pack: fab
+  link: https://github.com/cakcora
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=QZLZSb8AAAAJ
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "bauerk@ucalgary.ca"
@@ -47,10 +56,14 @@ user_groups:
 - committee: mentors
   role: Mentor
 
+highlight_name: true
+
 tags:
+- '2021'
 - '2020'
+
 ---
-Cuneyt Gurcan Akcora is an Assistant Professor of Computer Science and
+Cüneyt Gürcan Akçora is an Assistant Professor of Computer Science and
 Statistics at the University of Manitoba, Canada. Before that, he was a
 Postdoctoral Fellow in the departments of Computer Science and Statistics at the
 University of Texas at Dallas. He received his Ph.D. from Università degli studi

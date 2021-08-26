@@ -21,8 +21,8 @@ summary: |
   temperatures.
 
 authors:
-- Ken Nowalsky
-- Julien Arino
+- nawolsky
+- bodnarchuk
 - jonathan-gallagher
 - c614
 - aidinzp

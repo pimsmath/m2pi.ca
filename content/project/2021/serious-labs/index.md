@@ -20,8 +20,8 @@ summary: |
 
 
 authors:
-- Adam Preuss
-- Slim Ibrahim
+- preuss
+- slim
 - shaumoumita
 - Ngopnang
 - BaharM

@@ -15,8 +15,8 @@ summary: |
   etc.).
 
 authors:
-- Chris Bunio
-- Cuneyt Ackora
+- bunio
+- akcora
 - Sebastian Moraga Scheuermann
 - EdgarPache83
 - symonyeal

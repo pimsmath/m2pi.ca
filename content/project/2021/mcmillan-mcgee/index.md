@@ -22,7 +22,7 @@ summary: |
 
 authors: 
 - reid
-- Shaun Lui
+- slui
 - ArianKhorasani
 - Carson-Chambers
 - pjsobrevilla

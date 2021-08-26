@@ -15,7 +15,7 @@ summary: |
 
 authors:
 - spat
-- Adam Kashlak
+- kashlak
 - e41406
 - mjthasle
 - samsimon

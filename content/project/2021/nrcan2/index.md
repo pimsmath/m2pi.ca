@@ -23,7 +23,7 @@ summary: |
   validate the new technique.
 
 authors:
-- Devin Goodsman
+- goodsman
 - hhduke2014
 - mishty-ray
 - julesih
