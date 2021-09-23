@@ -33,6 +33,9 @@ education:
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
+- icon: globe
+  icon_pack: fas
+  link: https://mneyrane.com/
 - icon: github
   icon_pack: fab
   link: https://github.com/mneyrane
