@@ -39,12 +39,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mneyrane
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/maksym-neyra-nesterenko-401b0a222
 
 user_groups:
 - committee: members
