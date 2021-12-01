@@ -26,7 +26,19 @@ date_format = "2006"
   date_start = "2021-08-01"
   date_end = ""
   description = """
-We are currently accepting proposals for new projects. Please <a href="#contact">contact us</a> for more information.
+The [final-report](/home/final-report/M2PI-2021-Final-Report.pdf) for m2pi 2021 is
+[now available](/home/final-report/M2PI-2021-Final-Report.pdf). It features projects
+from
+
+* Aerium Analytics
+* ATCO
+* CSTS Healthcare
+* City of Winnipeg - Insect Control Branch
+* IOTO International 
+* McMillan-McGee
+* Natural Resources Canada
+* Serious Labs
+* TheoryMesh
   """
 
 [[edition]]
