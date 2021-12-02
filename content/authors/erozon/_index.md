@@ -42,5 +42,5 @@ user_groups:
 tags:
 - '2021'
 ---
-I am interested in solving real world problems using math. My personal website is https://erozon.github.io 
+I am interested in solving real world problems using math. 
 
