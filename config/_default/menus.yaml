@@ -1,0 +1,23 @@
+main:
+  - name: Home
+    url: '#'
+    weight: 10
+  - name: Team
+    url: '#people'
+    weight: 20
+  - name: Editions
+    url: '#editions'
+    weight: 30
+  - name: Courses
+    url: '#courses'
+    weight: 35
+  - name: Projects
+    url: '#projects'
+    weight: 40
+  - name: Partners
+    url: '#partners'
+    weight: 60
+  - name: Contact
+    url: '#contact'
+    weight: 80
+
