@@ -1,13 +1,12 @@
-+++
-widget = "blank"
-headless = true
-active = true
-weight = 80
+---
+widget: blank
+headless: true
+active: true
+weight: 80
+design:
+  columns: '1'
+---
 
-[design]
-  columns = "1"
-
-+++
 ## The Opportunity
 <em>Math<sup>Industry</sup></em> (Math to power industry) is a professional development
 school positioned to benefit Canadian industry because:
