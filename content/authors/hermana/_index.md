@@ -56,7 +56,7 @@ user_groups:
 tags:
 - '2020'
 - '2021'
-
+- '2022'
 ---
 Currently my research activity revolves around realization problems in ordinary
 and integral representation theory of groups and closely-related rings, which

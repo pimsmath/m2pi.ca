@@ -1,7 +1,7 @@
 ---
 widget: portfolio
 headless: true
-active: true
+active: false
 weight: 65
 title: ''
 subtitle: ''
@@ -9,8 +9,8 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: '2021'
-      tag: '2021'
+    - name: '2022'
+      tag: '2022'
 design:
   columns: '1'
   view: 3
