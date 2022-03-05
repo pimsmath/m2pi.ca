@@ -26,5 +26,5 @@
     Content-Type = "application/rss+xml"
 
 [[ redirects ]]
-  from = "/2021"
+  from = "/2022"
   to   = "/"
