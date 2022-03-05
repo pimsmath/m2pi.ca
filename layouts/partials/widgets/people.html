@@ -33,13 +33,12 @@
       <div class="row auto-clear">
         {{ range $people := where site.Pages "Section" "authors" }}
         {{ if in .Params.tags $page.Params.year }}
-        {{ if isset .Params "user_groups" }}
         {{ range $groups := .Params.user_groups }}
         {{ if eq .committee $committee.id }}
         {{ $avatar := ($people.Resources.ByType "image").GetMatch "*avatar*" }}
         {{/* Get link to user's profile page. */}}
         {{ $link := "" }}
-        {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split $people.Path).Dir)) }}
+        {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
           {{ $link = .RelPermalink }}
         {{ end }} {{/* end with site.GetPage */}}
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 people-person">
@@ -61,7 +60,6 @@
         </div><!-- people-person -->
         {{ end }} {{/* end if condition on committee membership */}}
         {{ end }} {{/* end loop on user groups */}}
-        {{ end }} {{/* end if condition on group existence */}}
         {{ end }} {{/* end if condition on tags */}}
         {{ end }} {{/* end range over authors */}}
       </div> <!-- row -->

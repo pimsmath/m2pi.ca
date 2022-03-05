@@ -3,6 +3,7 @@ module github.com/wowchemy/wowchemy-hugo-modules
 go 1.15
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201016182837-be0fa17ac006 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201016182837-be0fa17ac006 // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/v5 v5.3.0
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220303211751-d75dbe7f3d22 // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220303211751-d75dbe7f3d22 // indirect
 )
