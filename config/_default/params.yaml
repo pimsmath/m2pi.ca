@@ -49,7 +49,7 @@ features:
     gravatar: false
     shape: circle
   search:
-    engine: wowchemy
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''

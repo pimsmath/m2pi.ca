@@ -1,6 +1,6 @@
 ---
 headless: true
-active: true
+active: false
 weight: 90
 title: Partners
 subtitle: ''
