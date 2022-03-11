@@ -1,0 +1,69 @@
+appearance:
+  theme_day: minimal
+  font: minimal
+  font_size: L
+
+marketing:
+  seo:
+    site_type: EducationalOrganization
+    local_business_type: ''
+    org_name: Math to Power Industry
+    description: ''
+    twitter: 'pimsmath'
+
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+footer:
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  diagram:
+    enable: false
+  privacy_pack:
+    enable: true
+  repository:
+    url: 'https://github.com/pimsmath/m2pi.ca'
+    content_dir: ''
+    branch: master
+  avatar:
+    gravatar: false
+    shape: circle
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'google'
+    api_key: ''
+    zoom: 15
+
+extensions:
+  cms:
+    netlify_cms: true
+  isotope:
+    enable: true
+  academicicons:
+    enable: true

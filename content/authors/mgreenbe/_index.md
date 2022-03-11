@@ -46,4 +46,5 @@ user_groups:
   role: Co-Organizer
 tags:
 - '2021'
+- '2022'
 ---
