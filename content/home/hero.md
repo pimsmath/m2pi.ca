@@ -17,8 +17,10 @@ design:
 **July 11-29, 2022**
 
 In July 2022 PIMS is holding a virtual workshop called Math to Power
-Industry(M2PI 2022) which will run from July 11 - 29. We are currently inviting
-non-academic partner organizations to consider participation in this workshop.
+Industry(M2PI 2022) which will run from July 11 - 29. Participant applications
+are now open. Please complete the [registration
+form](https://survey.ucalgary.ca/jfe/form/SV_037g0Fw5r9qS3cy) before May 27@5pm if you
+would like to participate.
 
 ### How it works
  
