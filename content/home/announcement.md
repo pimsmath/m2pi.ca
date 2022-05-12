@@ -1,10 +1,9 @@
 ---
 widget: announcement
 headless: true
-active: false
+active: true
 weight: 1
 title: >-
-  The m2pi gala and final presentations will take place on Thursday Aug 26th
-  12pm Pacific/1pm Mountain. Please [contact us](#contact) to join us for this
-  event.
+  Participant applications are now open. Please complete the
+  [registration form](https://survey.ucalgary.ca/jfe/form/SV_037g0Fw5r9qS3cy) by May 27 @5pm (PDT) to apply.
 ---
