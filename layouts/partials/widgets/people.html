@@ -41,7 +41,7 @@
         {{ with site.GetPage (printf "/authors/%s" (path.Base $people.File.Dir)) }}
           {{ $link = .RelPermalink }}
         {{ end }}
-        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 people-person">
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 pb-3 people-person">
         {{ $src := "" }}
         {{ if site.Params.avatar.gravatar }}
           {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
@@ -56,7 +56,6 @@
           <div class="portrait-title">
             <h2>{{with $link}}<a href="{{.}}">{{end}}{{ $people.Title }}{{if $link}}</a>{{end}}</h2>
             <p>{{ $groups.role }}</p>
-            <p>Link: {{ $link }}</p>
            </div>
         </div><!-- people-person -->
         {{ end }} {{/* end if condition on committee membership */}}
