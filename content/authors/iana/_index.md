@@ -42,7 +42,7 @@ email: "iana@pims.math.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: instructors
-  role: Jupyter Instructor
+  role: Numpy & Pandas (Python) Instructor
 
 tags:
   - '2020'
