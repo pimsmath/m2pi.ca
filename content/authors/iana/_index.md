@@ -15,7 +15,7 @@ role: Technology Manager
 Organizations/Affiliations:
 organizations:
 - name: Pacific Institute for the Mathematical Sciences
-  url: "https://www.pims.math.ca"
+  url: https://www.pims.math.ca
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
