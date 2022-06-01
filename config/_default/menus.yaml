@@ -9,7 +9,7 @@ main:
     url: '#editions'
     weight: 30
   - name: Courses
-    url: #courses'
+    url: '#courses'
     weight: 35
   - name: Projects
     url: '#projects'

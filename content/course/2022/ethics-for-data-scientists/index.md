@@ -1,14 +1,14 @@
 ---
 title: "Ethics for Data Scientists"
-authors: [lgf]
+authors: 
 
 summary: | 
   Participants will explore some of the pitfalls of artificial intelligence when
-  it is used to make decisisons which will impacting people and also how to
+  it is used to make decisions which will impacting people and also how to
   design ethical models.
 
 
-tags: ['2021']
+tags: ['2022']
 categories: []
 date: 2021-07-25T16:58:18-07:00
 

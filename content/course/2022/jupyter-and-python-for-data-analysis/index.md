@@ -1,15 +1,18 @@
 ---
-title: "Using Jupyter and Python for Data Analysis"
+title: "Python Training in Numpy and Pandas"
 authors: [iana]
 
 summary: |
-  Participants will use python and jupyter to explore real world datasets and
-  extract insights from them.
+  Participants will be trained in the use of [numpy](https://numpy.org/) and
+  [pandas](https://pandas.pydata.org/) python libraries. Together these
+  libraries form the foundation of most Python data-analysis and data-science
+  pipelines.
 
 
-tags: ['2021']
+
+tags: ['2021', '2022']
 categories: []
-date: 2021-07-25T16:58:18-07:00
+date: 2022-05-25T16:58:18-07:00
 
 external_link: ""
 
@@ -43,23 +46,10 @@ slides: ""
 ---
 ### Course Description
 This course will build on your knowledge of Python to sharpen your skills for
-data manipulation and analysis. We will use libraries such as pandas, numpy and
-matplotlib to ingest, tidy and explore real world datasets and extract insights
-from them. We will leverage the Jupyter notebook interface to help us work with
-public APIs, combine multiple datasets and perform exploratory analysis. At the
-end of the course you should feel comfortable working with unfamiliar datasets,
+data manipulation and analysis. We will use libraries such as pandas, numpy 
+to ingest, tidy and explore real world datasets and extract insights from them.
+We will leverage the Jupyter notebook interface to help us work with public
+APIs, combine multiple datasets and perform exploratory analysis. At the end of
+the course you should feel comfortable working with unfamiliar datasets,
 spotting common data errors and using visualizations to understand your data and
 plan more detailed analysis.
-
-
-### Programming Challenges
-
-#### Session 1 
-In this session we will review some basic programming problems and solve them
-using python
-
-
-#### Session 2
-In this session we will build on the content of the python/jupyter course as
-well as the first problem session and explore some more complex problems which
-include external data sources.
