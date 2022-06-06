@@ -1,6 +1,6 @@
 ---
 title: "Parallel Coding with Julia"
-authors:  [onganga]
+authors:  [razoumov]
 
 summary: | 
   This session will show you how to get started with
