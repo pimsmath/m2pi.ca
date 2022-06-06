@@ -47,7 +47,7 @@ slides: ""
 Julia is a high-level programming language well suited for scientific computing
 and data science. Just-in-time compilation, among other things, makes Julia
 really fast yet interactive. For heavy computations, Julia supports
-multi-threaded and multi-process parallelism, both naïvely and via a number of
+multi-threaded and multi-process parallelism, both natively and via a number of
 external packages. It also supports memory arrays distributed across multiple
 processes either on the same or different nodes. In this hands-on workshop, we
 will start with a quick review of Julia’s multi-threading features but will
