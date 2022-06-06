@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Charlotte Ong'ang'a
+title: Charlotte Anyango Ong'ang'a
 
 # Username (this should match the folder name)
 authors:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: M.A. Teaching English to Speakers of Other Languages (TESOL)
     institution: Middlesex University
-  - course: Ph.D
+  - course: Ph.D Linguistics
     institution: Jaramogi Oginga Odinga University of Science and Technology
 
 social:

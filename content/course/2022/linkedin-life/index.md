@@ -49,5 +49,5 @@ Learners will be able to:
 * Determine their LinkedIn goals, target audience and keywords,
 * Choose a professional profile picture and create a compelling headline,
 * Get found on LinkedIn, and
-* Detail their career trajectory and create the ultimate first impressio
+* Detail their career trajectory and create the ultimate first impression
 
