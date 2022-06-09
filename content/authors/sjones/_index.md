@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Research Assistant, Individual and Team Performance Lab
 
 Organizations/Affiliations:
 organizations:
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D
+  - course: Ph.D (in progress)
     institution: University of Calgary
   - course: M.Sc
     institution: University of Calgary
