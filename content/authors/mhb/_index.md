@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marie-Helene Burle
+title: Marie-Hélène Burle
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Computing Training Assistant
+role: 
 
 Organizations/Affiliations:
 organizations:
-- name: Westgrid/Compute Canada
-  url: "https://westgrid.ca"
+- name: Simon Fraser University
+  url: "https://sfu.ca"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: |
@@ -56,17 +56,6 @@ user_groups:
 
 tags:
 - '2021'
+- '2022'
 ---
-Prior to entering the realm of computing, Marie-Helene Burle spent 15 years
-roaming the globe from the Arctic to Sub-Antarctic islands or tropical
-atolls, conducting bird and mammal research. As a PhD candidate in
-behavioural and evolutionary biology at Simon Fraser University, she "fell"
-into Emacs, R, and Linux. This turned Marie into an advocate for open
-source tools and improved computing literacy for all, as well as better
-coding practices and more reproducible workflows in science. She started to
-contribute to the open source community, became a Software and Data
-Carpentry Instructor, and worked at the SFU Research Commons providing
-programming support to researchers. She now teaches research computing
-tools and machine learning at WestGrid. When not behind a computer, Marie
-loves reading history books and looking for powder in the British Columbia
-backcountry on skis.
+Evolutionary and behavioural ecologist by training, Software/Data Carpentry instructor, and open source proponent, Marie-Hélène Burle develops and delivers training for researchers on computing tools (R, Python, Julia, Git, Bash scripting, machine learning, parallel scientific programming, HPC) for Simon Fraser University and the Digital Research Alliance of Canada.

@@ -27,25 +27,35 @@
     .auto-clear .col-xs-6:nth-child(odd){clear:left;}
 }
 
-.nav-fill.nav-justified {
-    width: 100%;
-    display: inline-flex;
-    margin-bottom: 2em;
+.nav-pills {
+
+    &.nav-justified {
+      width: 100%;
+      display: inline-flex;
+      margin-bottom: 2em;
+    }
+
+    li.nav-item {
+      margin: 0.5rem;
+    }
+
+    .nav-link {
+      font-size: 120%;
+      line-height: 1.6em;
+      width: 100%;
+      letter-spacing: 1px;
+      color: #2962ff;
+      border: 1px solid #2962ff;
+      border-radius: 0.3rem;
+
+      &.active, &.active:focus {
+        background-color: #2962ff;
+        color: #fff;
+      }
+    }
+
 }
 
-.nav-pills .nav-link {
-  font-size: 120%;
-  line-height: 1.6em;
-  width: 100%;
-  letter-spacing: 1px;
-  margin-top: 10px;
-  color: #2962ff;
-}
-
-.nav-pills .nav-link.active, .nav-pills .nav-link.active:focus {
-  background-color: #2962ff;
-  color: #fff;
-}
 .tab-pane.fade {
     transition: opacity .5s linear;
 }

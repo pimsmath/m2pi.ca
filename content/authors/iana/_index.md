@@ -15,7 +15,7 @@ role: Technology Manager
 Organizations/Affiliations:
 organizations:
 - name: Pacific Institute for the Mathematical Sciences
-  url: "https://www.pims.math.ca"
+  url: https://www.pims.math.ca
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -42,7 +42,7 @@ email: "iana@pims.math.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: instructors
-  role: Jupyter Instructor
+  role: Numpy & Pandas (Python) Instructor
 
 tags:
   - '2020'

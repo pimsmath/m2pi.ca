@@ -1,16 +1,15 @@
 ---
 widget: portfolio
 headless: true
-active: false
+active: true
 weight: 65
 title:
 subtitle:
 content:
   page_type: course
-  filter_default: 0
-  filter_button:
-    - name: '2022'
-      tag: '2022'
+  filters:
+    tags:
+      - '2022'
 design:
   columns: '1'
   view: 3

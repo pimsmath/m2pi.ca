@@ -44,6 +44,8 @@ email: "mgreenbe@ucalgary.ca"
 user_groups:
 - committee: organizing
   role: Co-Organizer
+- committee: instructors
+  role: Numpy & Pandas (Python) Instructor
 tags:
 - '2021'
 - '2022'

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Research Assistant, Individual and Team Performance Lab
 
 Organizations/Affiliations:
 organizations:
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D
+  - course: Ph.D (in progress)
     institution: University of Calgary
   - course: M.Sc
     institution: University of Calgary
@@ -37,7 +37,7 @@ education:
 social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "ruths@pims.math.ca"
+#email: "samantha.jones3@ucalgary.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -47,4 +47,5 @@ user_groups:
 
 tags:
 - '2021'
+- '2022'
 ---

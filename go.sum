@@ -9,8 +9,14 @@ github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220303211751-
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220303211751-d75dbe7f3d22/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220309000624-acd5e742afea h1:UPqm5eboprYRGvsHXDwVXmRXRG+saSnWSiKpqA5KUso=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220309000624-acd5e742afea/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220524234201-98932fcf9688 h1:p03qDUTtZgOcRiNka5m6ofkCx7E1juXxSygKgCVZCaU=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220524234201-98932fcf9688/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220602234052-acd74954b5dd h1:3YCQtPUPObQBsQn1Y3rK9SPSG5rbZzppGaPj6okHXPI=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220602234052-acd74954b5dd/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210629192904-559885af86b7/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220303211751-d75dbe7f3d22 h1:fLtcBw6b1d4o6IAIT0UkgVnbfmL8zn9mJKOBVQRBErM=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220303211751-d75dbe7f3d22/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220309000624-acd5e742afea h1:S93sSI3W9tQQAhCBNVOGSaZr+qx0pHI8N2IMJSVoIiI=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220309000624-acd5e742afea/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220524234201-98932fcf9688 h1:7PKAu7bgB4QiRB9WoiyTl77DU6ZXPemQIH6iFUu3QkM=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220524234201-98932fcf9688/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=
