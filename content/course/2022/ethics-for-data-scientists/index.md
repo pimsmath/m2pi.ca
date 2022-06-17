@@ -1,7 +1,7 @@
 ---
 title: "Ethics for Data Scientists"
 authors: 
- - byron
+ - zshand
 
 summary: | 
   Participants will explore some of the pitfalls of artificial intelligence when
