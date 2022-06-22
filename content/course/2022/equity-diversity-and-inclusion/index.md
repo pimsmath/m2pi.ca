@@ -1,6 +1,8 @@
 ---
 title: "Equity Diversity and Inclusion"
-authors: [lsolis,sjones]
+authors:
+  - lsolis
+  - sjones
 
 summary: |
   This workshop is intended to help students learn how to define equity,
@@ -11,7 +13,7 @@ summary: |
 
 tags: ['2022']
 categories: []
-date: 2022-07-25T16:58:18-07:00
+date: 2022-06-25T16:58:18-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
