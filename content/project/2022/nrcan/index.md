@@ -71,6 +71,8 @@ slides: ""
 final_report:
 
 ---
+![](NRCANLogo.png)
+
 ### Introduction
 Long-distance dispersal of insects in fast moving air currents is increasingly
 recognized as an important driver of their dynamics at a landscape scale.
@@ -288,3 +290,4 @@ the forest canopy. Canadian Journal of Forest Research, 38(8):2313–2327, 2008.
 * Zichao Long, Yiping Lu, Xianzhong Ma, and Bin Dong. Pde-net: Learning pdes
 from data. In International Conference on Machine Learning, pages 3208–3216.
 PMLR, 2018.
+
