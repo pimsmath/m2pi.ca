@@ -38,7 +38,7 @@ features:
   math:
     enable: false
   diagram:
-    enable: false
+    enable: true
   privacy_pack:
     enable: true
   repository:

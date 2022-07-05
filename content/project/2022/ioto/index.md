@@ -19,7 +19,7 @@ summary: |
   might be derived? How might such features help to measure political
   performance? How can topic indexes be aggregated to reflect similarities in
   political concern?
-
+  
 authors:
 
 tags:
@@ -62,7 +62,7 @@ slides: ""
 final_report:
 
 ---
-
+![](IOTOLogo.png)
 ### Situation
 Big data analytics are changing the way in which sports are played and
 understood, resulting in improved performance and increased fan engagement. Can

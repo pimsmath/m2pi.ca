@@ -45,7 +45,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -71,6 +71,8 @@ slides: ""
 final_report:
 
 ---
+
+![](EICLogo.jpg)
 
 ### Background
 Residential radon progeny exposure is the second leading cause of lung cancer,
