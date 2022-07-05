@@ -40,13 +40,6 @@ authors:
 
 tags:
   - '2022'
-  - data-analysis
-  - visualization
-  - electrical grid
-  - network connectivity
-  - time series
-  - distributed energy resources (DER)
-  - electrical vehicles (EVs)
 
 categories: []
 date: 2022-07-01T16:58:18-07:00
