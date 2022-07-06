@@ -2,7 +2,7 @@
 title: "Awesense"
 subtitle: "Building a Platform for Digital Energy"
 summary: |
-  At Awesense we've been building a platform for digital energy, with the goal
+  At [Awesense](https://www.awesense.com) we've been building a platform for digital energy, with the goal
   of allowing easy access to and use of electrical grid data in order to build a
   myriad of applications and use cases for the decarbonized grid of the future,
   which will need to include more and more distributed energy resources (DERs)
@@ -53,7 +53,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -78,8 +78,10 @@ slides: ""
 final_report:
 
 ---
+![](AwesenseLogo.png)
+
 ### Overview
-At Awesense we've been building a platform for digital energy, with the goal of
+At [Awesense](https://www.awesense.com) we've been building a platform for digital energy, with the goal of
 allowing easy access to and use of electrical grid data in order to build a
 myriad of applications and use cases for the decarbonized grid of the future,
 which will need to include more and more distributed energy resources (DERs)
@@ -171,3 +173,5 @@ code snippets in Jupyter notebooks, showcasing how to use the APIs.
 __Important note__: project participants will be given individual access
 credentials and they should not share with anyone else (including not among
 themselves), nor cache/save them in publicly posted files.
+
+For more information please visit [www.awesense.com](https://www.awesense.com)
