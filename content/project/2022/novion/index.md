@@ -37,7 +37,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -62,6 +62,8 @@ slides: ""
 final_report:
 
 ---
+![](NovionLogo.png)
+
 ### Background
 The stormwater infrastructure in many cities is facing challenges as the
 climate changes, rainfall patterns change and sea levels rise. To meet these
@@ -98,8 +100,12 @@ of the bioswale.
 
 Water level datasets for two different types of green infrastructure are
 available to download below:
-  1. Site A
-  2. Site B
+  1. [Site
+     A](https://drive.google.com/file/d/1n0o8VzmS85txUbXJzrUcCcCTP5goi6dB/view)
+  2. [Site
+     B](https://drive.google.com/file/d/1TNwAMm7QIQ8pyb72L2u6z1XVJEQiEWne/view)
+
+
 The datasets above provide water level time series data which can be analyzed
 to compute well flood duration, drawdown level, and drawdown duration for each
 rainfall event. To identify individual rainfall events, consider each rainfall
@@ -127,10 +133,11 @@ development of new green infrastructure for better performance and utilization?
 
 #### Appendix
 
-**Drawdown Level**: The height from the peak water level to the bottom.
-**Drawdown Duration**: The time it takes for the water level to go from its peak water level down
-to its baseline.
-**Well Flood Duration**: The duration for the well to fill up to its peak water level and empty out.
+  * **Drawdown Level**: The height from the peak water level to the bottom.
+  * **Drawdown Duration**: The time it takes for the water level to go from its
+    peak water level down to its baseline.
+  * **Well Flood Duration**: The duration for the well to fill up to its peak
+    water level and empty out.
 
 #### References
 
