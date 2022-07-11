@@ -112,19 +112,20 @@ rainfall event. To identify individual rainfall events, consider each rainfall
 event to have a minimum 6 hour antecedent dry period.
 
 Develop algorithms to derive the following insights for each site:
-1. Identify each rainfall event. A significant rise in the water level preceded
-by a minimum 6 hours duration of no significant change in water level signals
-the start of a new rainfall event.
-  1. What is the average duration of a rainfall event?
-1.. Compute the well flood duration (hours) for each rainfall event
-  1. What is the average well flood duration for each site?
-  1. List rainfall events where the well flood duration exceeds 72 hours
-1. Compute the drawdown level (mm) and drawdown duration (hours) for each
-rainfall event
-  1. What is the average drawdown level and average drawdown duration?
-  1. Compute the drawdown rate (mm/h) for each rainfall event as drawdown level
-divided by drawdown duration. List rainfall events where the drawdown rate is
-less than 40 mm/h.
+
+  1. Identify each rainfall event. A significant rise in the water level
+     preceded by a minimum 6 hours duration of no significant change in water
+     level signals the start of a new rainfall event.
+     * What is the average duration of a rainfall event?
+  2. Compute the well flood duration (hours) for each rainfall event
+     * What is the average well flood duration for each site?
+     * List rainfall events where the well flood duration exceeds 72 hours
+  3. Compute the drawdown level (mm) and drawdown duration (hours) for each
+     rainfall event
+     * What is the average drawdown level and average drawdown duration?
+     * Compute the drawdown rate (mm/h) for each rainfall event as drawdown
+       level divided by drawdown duration. List rainfall events where the
+       drawdown rate is less than 40 mm/h.
 
 ##### Bonus
 What other insights can be derived from the datasets that may help benchmark
