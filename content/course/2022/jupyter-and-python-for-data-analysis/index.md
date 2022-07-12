@@ -1,5 +1,5 @@
 ---
-title: "Python Training in Numpy and Pandas"
+title: "Python Training in Numpy, Pandas and Scikit-Learn"
 authors: 
   - iana
   - mgreenbe
@@ -62,3 +62,6 @@ ingest, tidy and explore real world datasets and extract insights from them.
 At the end of the course you should feel comfortable working with unfamiliar
 datasets, fixing common data errors, creating visualizations to understand your
 data, and extracting insights from models.
+
+The repository for this course is [available on
+github](https://github.com/ianabc/m2pi2022)
