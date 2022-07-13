@@ -66,3 +66,5 @@ In this workshop, we will:
  challenge, you can try to [set up SSH for your
  account](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
+### Workshop material
+  * https://westgrid-cli.netlify.app/workshops/2022_git_m2pi/
