@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Dave Dong
+title: Reil Tétreault
 
 # Username (this should match the folder name)
 authors:
-- dong
+- reiltetrault
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Analyst
+role: Economist
 
 Organizations/Affiliations:
 organizations:
-- name: Cedar Academy Society
-  url: https://cedaracademy.org
+- name: Big River Analytics
+  url: https://www.bigriveranalytics.com
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -38,6 +38,5 @@ user_groups:
 highlight_name: true
 
 tags:
-- '2020'
 - '2022'
 ---

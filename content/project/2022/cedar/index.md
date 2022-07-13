@@ -12,6 +12,7 @@ summary: |
   and to project those object counts into visualized traffic in a virtual world.
 
 authors:
+  - dong
 
 tags:
   - '2022'

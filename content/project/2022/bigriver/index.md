@@ -22,6 +22,10 @@ summary: |
   for CSDs.
 
 authors:
+  - edinger
+  - reiltetrault
+  - kevinhalasz
+  - spencerbritten
 
 tags:
   - '2022'
