@@ -55,3 +55,12 @@ focus primarily on Distributed standard library and its large array of tools. We
 will demo parallelization using two problems: a slowly converging series and a
 Julia set. We will run examples on a multi-core laptop and an HPC cluster.
 
+
+* [Notes for the m2pi Julia course by Alex Razoumov](https://rcmodules22.netlify.app/juliam2pi/julia20220715/)
+* [Notes for another (longer) Julia
+  course by the same instructor](https://rcmodules22.netlify.app/parallel_julia/)
+* [Julia Language Documentation](https://docs.julialang.org/en/v1/)
+
+  
+
+
