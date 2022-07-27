@@ -41,7 +41,7 @@ social:
 
 user_groups:
 - committee: members
-  role: IOTO Project Member
+  role: Awesense Project Member
 
 tags:
 - '2022'

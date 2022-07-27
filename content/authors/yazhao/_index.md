@@ -45,7 +45,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: members
-  role: Big River Analytics Project Member
+  role: IOTO Project Member
 
 tags:
 - '2022'

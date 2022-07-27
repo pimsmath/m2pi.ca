@@ -50,7 +50,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: members
-  role: Awesense Project member
+  role: Environmental Instruments Canada Project member
 
 tags:
 - '2022'

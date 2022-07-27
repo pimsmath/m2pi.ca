@@ -39,7 +39,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: members
-  role: IOTO Project Member
+  role: Novion Project Member
 
 tags:
 - '2022'
