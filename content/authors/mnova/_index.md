@@ -26,12 +26,6 @@ interests:
   - Financial Analysis
 
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/prab-bains-b216261a1
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Bainsprab
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email:
