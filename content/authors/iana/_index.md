@@ -34,6 +34,9 @@ education:
     institution: University of Glasgow
 
 social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ianabc
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "iana@pims.math.ca"
