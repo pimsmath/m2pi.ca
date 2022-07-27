@@ -4,7 +4,7 @@ title: Cole Priestman
 
 # Username (this should match the folder name)
 authors:
-- npriestman
+- cpriestman
 
 # Is this the primary user of the site?
 superuser: false
