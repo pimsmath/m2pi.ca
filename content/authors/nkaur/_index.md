@@ -24,7 +24,7 @@ education:
   - course: Ph.D (Mathematics)
     institution: Thapar Institute of Engineering and Technology, India
   - course: M.Sc. (Applied Mathematics and Computing)
-    institution: Punjab University, Patiala
+    institution: Punjabi University, Patiala
 
 interests:
   - Partial Differential Equations
