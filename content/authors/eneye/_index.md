@@ -51,12 +51,6 @@ user_groups:
 tags:
 - '2022'
 ---
-I have a Ph.D. degree in Mathematics from the University of Saskatchewan, and my
-advisor is Jenna Rajchgot. I had a Bachelor of Science degree in Mathematics
-from the Federal University of Agriculture, Abeokuta, Nigeria, and two master’s
-degrees in Mathematics; one from the African Institute for Mathematical
-Sciences, South Africa (AIMS) affiliated with the Department of Mathematics &
-Applied Mathematics, University of Cape Town, and the other from the Department
-of Mathematics and Statistics, University of Saskatchewan, under the supervision
-of Murray Bremner. I am passionate about Mathematics; I love it and I'd like to
-be better at it. Currently seeking a postdoctoral position.
+I have a Ph.D. degree in Mathematics from the University of Saskatchewan, and my advisor is Jenna Rajchgot. I am passionate about Mathematics; I love it and I’d like to be better at it.
+
+Currently seeking a postdoctoral position.
