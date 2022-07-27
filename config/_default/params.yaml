@@ -63,7 +63,9 @@ features:
 extensions:
   cms:
     netlify_cms: true
-  academicicons:
+  academicons:
     enable: true
   isotope:
     enable: true
+
+
