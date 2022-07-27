@@ -35,7 +35,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/emmanuel-neye-b3752764/
 - icon: google-scholar
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&authuser=4&user=tmf27g0AAAAJ
 
 
