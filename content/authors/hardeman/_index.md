@@ -52,4 +52,5 @@ highlight_name: true
 tags:
 - '2020'
 - '2021'
+- '2022'
 ---

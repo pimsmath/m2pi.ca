@@ -1,21 +1,20 @@
 ---
 # Display name
-title: Dave Dong
+title: Sean Trim
 
 # Username (this should match the folder name)
 authors:
-- dong
+- seantrim
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Analyst
+role: Technical Lead
 
 Organizations/Affiliations:
 organizations:
-- name: Cedar Academy Society
-  url: https://cedaracademy.org
+- name: Perfit
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -23,8 +22,16 @@ bio:
 interests:
 
 education:
+  courses:
+    - course: PhD in Geophysics
+      institution: University of Toronto
+    - course: MSc in Geophysics
+      institution: University of Toronto
 
 social:
+  - icon: linkdin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/hannes-edinger-8554b023
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "bauerk@ucalgary.ca"
@@ -38,6 +45,5 @@ user_groups:
 highlight_name: true
 
 tags:
-- '2020'
 - '2022'
 ---

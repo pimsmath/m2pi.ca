@@ -27,6 +27,8 @@ summary: |
   testing.
 
 authors:
+  - almeida
+  - trim
 
 tags:
   - '2022'

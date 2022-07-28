@@ -23,9 +23,18 @@ bio:
 interests:
 
 education:
+  courses:
+  - course: PhD, Congnitive Systems
+    institution: University of Edinburgh
+  - course: pensionnaire étranger, Philo
+    institution: Ecole normale supérieure
+  - course: BASc, Philosophy
+    institution: University of British Columbia
 
 social:
-
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/william-spat-8a2447/
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "bauerk@ucalgary.ca"
 
@@ -40,4 +49,5 @@ highlight_name: true
 tags:
 - '2021'
 - '2020'
+- '2022'
 ---

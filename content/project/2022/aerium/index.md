@@ -26,7 +26,7 @@ summary: |
   field of focus for this problem is that of anomaly detection.
 
 authors:
-
+  - hardeman
 tags:
   - '2022'
 
