@@ -49,3 +49,6 @@ user_groups:
 tags:
 - '2022'
 ---
+I am a first year graduate student in University of Regina pursuing a masters
+degree in Statistics . I am interested in learning and exploring the field of
+data science and see how it can be used to solve real world problems.
