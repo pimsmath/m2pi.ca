@@ -26,6 +26,10 @@ authors:
   - reiltetrault
   - kevinhalasz
   - spencerbritten
+  - mxiao
+  - pbains
+  - Hammed Olawale Fatoyinbo
+  - Catherine Antwi
 
 tags:
   - '2022'

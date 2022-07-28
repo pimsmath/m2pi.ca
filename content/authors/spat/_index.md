@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-  - course: PhD, Congnitive Systems
+  - course: PhD, Cognitive Systems
     institution: University of Edinburgh
   - course: pensionnaire étranger, Philo
     institution: Ecole normale supérieure

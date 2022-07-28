@@ -36,7 +36,7 @@ education:
 
 social:
 - icon: google-scholar
-  icon_pack: fab
+  icon_pack: ai
   link: https://scholar.google.ca/citations?user=dVcl23IAAAAJ
 - icon: twitter
   icon_pack: fas

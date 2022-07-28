@@ -31,6 +31,11 @@ summary: |
 
 authors:
   - kaletsch
+  - nehajoshi
+  - asamoah
+  - yaindrila
+  - Carlos Gabriel Valenzuela Ruiz
+  - Marieme Lasri
 
 tags: ['2022']
 categories: []

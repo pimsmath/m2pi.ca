@@ -38,6 +38,10 @@ summary: |
   
 authors:
   - elenapopovici
+  - sjana01
+  - cissokho
+  - tjanisse
+  - Arnaud Ngopnang Ngompe
 tags:
   - '2022'
 
