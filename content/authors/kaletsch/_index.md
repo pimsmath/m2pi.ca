@@ -27,6 +27,9 @@ interests:
 education:
 
 social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/kai-kaletsch-55062b38/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "bauerk@ucalgary.ca"
@@ -37,6 +40,9 @@ user_groups:
 - committee: mentors
   role: Mentor
 
+highlight_name: true
+
 tags:
 - '2020'
+- '2022'
 ---

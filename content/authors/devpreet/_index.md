@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Dave Dong
+title: Devpreet Bhullar
 
 # Username (this should match the folder name)
 authors:
-- dong
+- devpreet
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Analyst
+role: Chief Technology Officer 
 
 Organizations/Affiliations:
 organizations:
-- name: Cedar Academy Society
-  url: https://cedaracademy.org
+- name: Novion
+  url: https://www.novion.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -23,8 +23,14 @@ bio:
 interests:
 
 education:
+  courses:
+    - course: Mechatronic Systems Engineering
+      institution: Simon Fraser University
 
 social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/devb
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "bauerk@ucalgary.ca"
@@ -38,6 +44,5 @@ user_groups:
 highlight_name: true
 
 tags:
-- '2020'
 - '2022'
 ---
