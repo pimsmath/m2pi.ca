@@ -50,8 +50,3 @@ user_groups:
 tags:
 - '2022'
 ---
-I am a fourth year PhD candidate at the University of Regina. I work in
-algebraic combinatorics, which is useful for treating problems in coding and
-design theory. In particular, my PhD dissertation is based on studying different
-association schemes, checking them for fusion-primitivity and classifying their
-nontrivial fusions.
