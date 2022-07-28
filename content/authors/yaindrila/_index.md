@@ -19,7 +19,7 @@ organizations:
 
 education:
   courses:
-  - course: Ph.D in Mathematics and Statistics
+  - course: MSc in Mathematics and Statistics
     institution: University of Saskatchewan
   - course: MS in Pure Math
     institution: University of Dhaka
