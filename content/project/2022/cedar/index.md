@@ -13,6 +13,10 @@ summary: |
 
 authors:
   - dong
+  - kubal
+  - ordonez
+  - cpriestman
+  - Max Gutkin
 
 tags:
   - '2022'

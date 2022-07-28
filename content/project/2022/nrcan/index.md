@@ -30,6 +30,10 @@ summary: |
 
 authors:
   - goodsman
+  - nkaur
+  - trofimenkoff 
+  - puttipong
+  - Ben Xiao
 
 tags:
   - '2022'

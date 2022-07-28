@@ -4,7 +4,7 @@ title: Navjot Kaur
 
 # Username (this should match the folder name)
 authors:
-- nehajoshi
+- nkaur
 
 # Is this the primary user of the site?
 superuser: false

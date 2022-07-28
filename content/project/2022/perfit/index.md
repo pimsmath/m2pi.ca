@@ -29,6 +29,9 @@ summary: |
 authors:
   - almeida
   - trim
+  - oliveira
+  - nadeem
+  - sajad
 
 tags:
   - '2022'
