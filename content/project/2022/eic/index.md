@@ -35,7 +35,7 @@ authors:
   - asamoah
   - yaindrila
   - Carlos Gabriel Valenzuela Ruiz
-  - Marieme Lasri
+  - lasri
 
 tags: ['2022']
 categories: []

@@ -28,8 +28,8 @@ authors:
   - spencerbritten
   - mxiao
   - pbains
-  - Hammed Olawale Fatoyinbo
-  - Catherine Antwi
+  - fatinboyo
+  - antwi
 
 tags:
   - '2022'

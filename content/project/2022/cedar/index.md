@@ -16,7 +16,7 @@ authors:
   - kubal
   - ordonez
   - cpriestman
-  - Max Gutkin
+  - gutkin
 
 tags:
   - '2022'

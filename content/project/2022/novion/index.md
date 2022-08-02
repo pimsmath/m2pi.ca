@@ -25,7 +25,7 @@ authors:
   - loader
   - zhenyu
   - molla
-  - George Lee
+  - lee
 
 
 tags:

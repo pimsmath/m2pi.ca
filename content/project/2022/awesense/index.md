@@ -37,6 +37,8 @@ summary: |
   upgrades to support more EV chargers in the future.
   
 authors:
+  - skim
+  - satka
   - elenapopovici
   - sjana01
   - cissokho
