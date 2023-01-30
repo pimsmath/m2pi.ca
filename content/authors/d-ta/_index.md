@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Diaaeldin Taha
+draft: true
 
 # Username (this should match your github username)
 authors:
