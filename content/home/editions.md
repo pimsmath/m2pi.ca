@@ -10,7 +10,7 @@ subtitle: >-
 date_format: '2006'
 edition:
   - title: Math<sup>Industry</sup> 2022
-    edition_url: /
+    edition_url: /2022/
     location: ''
     date_start: '2022-07-11'
     date_end: ''

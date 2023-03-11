@@ -3,8 +3,8 @@ widget: people
 headless: true
 active: true
 weight: 20
-year: '2022'
-default_committee: members
+year: '2023'
+default_committee: organizing
 title: Meet the Teams
 subtitle: ''
 content:
