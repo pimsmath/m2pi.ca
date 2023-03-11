@@ -1,18 +1,18 @@
-{{ $ := .root }}
-{{ $page := .page }}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
 
 <!-- Editions widget clone of Experience widget-->
 <div class="row">
   <div class="col-12 col-lg-6 section-heading">
-    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
-    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+    <h1>{{ with $block.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $block.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
   </div>
   <div class="col-12 col-lg-6">
-    {{ with $page.Content }}{{ . }}{{ end }}
+    {{ with $block.Content }}{{ . }}{{ end }}
 
-    {{ if $page.Params.edition }}
-    {{ $exp_len := len $page.Params.edition }}
-    {{ range $idx, $key := sort $page.Params.edition ".date_start" "desc" }}
+    {{ if $block.Params.edition }}
+    {{ $exp_len := len $block.Params.edition }}
+    {{ range $idx, $key := sort $block.Params.edition ".date_start" "desc" }}
     <div class="row experience">
       <!-- Timeline -->
       <div class="col-auto text-center flex-column d-none d-sm-flex">

@@ -1,38 +1,38 @@
 {{/* People Widget */}}
 
 {{/* Initialise */}}
-{{ $ := .root }}
-{{ $page := .page }}
-{{ $show_social := $page.Params.design.show_social | default false }}
-{{ $show_interests := $page.Params.design.show_interests | default true }}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $show_social := $block.Params.design.show_social | default false }}
+{{ $show_interests := $block.Params.design.show_interests | default true }}
 
 <div class="row justify-content-center people-widget">
-  {{ with $page.Title }}
+  {{ with $block.Title }}
   <div class="col-md-12 section-heading">
     <h1>{{ . | markdownify | emojify }}</h1>
-    {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+    {{ if $block.Params.subtitle }}<p>{{ $block.Params.subtitle | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
 
-  {{ with $page.Content }}
+  {{ with $block.Content }}
   <div class="col-md-12">
     {{ . }}
   </div>
   {{ end }}
 
   <ul class="nav nav-pills nav-fill nav-justified" id="committeeTabs" role="tablist">
-  {{ range $page.Params.content.user_groups }}
+  {{ range $block.Params.content.user_groups }}
   <li class="nav-item">
-    <a class="nav-link {{ if eq .id $page.Params.default_committee }} active{{ end }}" id="{{ .id }}-tab" data-toggle="tab" href="#{{ .id }}" role="tab" aria-controls="{{ .id }}" aria-selected="{{ if eq .id $page.Params.default_committee }}true{{ else }}false{{ end }}">{{ .name }}</a>
+    <a class="nav-link {{ if eq .id $block.Params.default_committee }} active{{ end }}" id="{{ .id }}-tab" data-toggle="tab" href="#{{ .id }}" role="tab" aria-controls="{{ .id }}" aria-selected="{{ if eq .id $block.Params.default_committee }}true{{ else }}false{{ end }}">{{ .name }}</a>
   </li>
   {{ end }} 
   </ul>
   <div class="tab-content">
-    {{ range $committee := $page.Params.content.user_groups }}
-    <div class="tab-pane fade{{ if eq .id $page.Params.default_committee }} in active show{{ end }}" id="{{ .id }}" role="tabpanel" aria-labelledby="{{ .id }}-tab">
+    {{ range $committee := $block.Params.content.user_groups }}
+    <div class="tab-pane fade{{ if eq .id $block.Params.default_committee }} in active show{{ end }}" id="{{ .id }}" role="tabpanel" aria-labelledby="{{ .id }}-tab">
       <div class="row auto-clear">
         {{ range $people := where site.Pages "Section" "authors" }}
-        {{ if in .Params.tags $page.Params.year }}
+        {{ if in .Params.tags $block.Params.year }}
         {{ range $groups := .Params.user_groups }}
         {{ if eq .committee $committee.id }}
         {{ $avatar := ($people.Resources.ByType "image").GetMatch "*avatar*" }}
