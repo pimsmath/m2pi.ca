@@ -51,12 +51,12 @@ email: "aherman@math.uregina.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: organizing
-  role: Program Director
 
 tags:
 - '2020'
 - '2021'
 - '2022'
+- '2023'
 ---
 Currently my research activity revolves around realization problems in ordinary
 and integral representation theory of groups and closely-related rings, which

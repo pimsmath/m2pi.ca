@@ -44,13 +44,14 @@ email: "iana@pims.math.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- committee: organizing
 - committee: instructors
   role: Numpy & Pandas (Python) Instructor
-
 tags:
   - '2020'
   - '2021'
   - '2022'
+  - '2023'
 ---
 Ian is the Technology Manager at the Pacific Institute for the Mathematical
 Sciences, where he is responsible for the technical and computing aspects of the

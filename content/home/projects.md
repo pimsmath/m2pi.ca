@@ -9,8 +9,8 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: '2022'
-      tag: '2022'
+    - name: '2023'
+      tag: '2023'
 design:
   columns: '1'
   view: 3
