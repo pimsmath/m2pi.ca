@@ -12,42 +12,27 @@ design:
     gradient_start: '#005cb9'
     gradient_end: '#005cb9'
     text_color_light: true
+
+cta:
+  url: /2022/#projects
+  label: 2022 Projects
+  icon_pack: fas
+  icon: arrow-circle-down
 ---
 
 **July 11-29, 2022**
 
-In July 2022 PIMS is holding a virtual workshop called Math to Power
-Industry(M2PI 2022) which will run from July 11 - 29. Participant applications
-are now open. Please complete the [registration
-form](https://survey.ucalgary.ca/jfe/form/SV_037g0Fw5r9qS3cy) before June 1@5pm if you
-would like to participate.
+In July 2022 PIMS held a virtual workshop called Math to Power Industry (M2PI
+2022) for graduate students and postdoctoral fellows in the mathematical and
+statistical sciences to gain the industry skills necessary for success in their
+careers.
 
-### How it works
- 
-* Organizations are invited to submit math challenges for teams of graduate
-  students and postdoctoral fellows to tackle during the workshop.
-* PIMS matches your company to an academic researcher who can provide support
-  for developing the problem statement.
-* Companies provide an industry mentor to work closely with the team during the
-  workshop for a minimum of two hours per day during the last 10 days of the
-  workshop.  Industry mentors are welcome to work more closely with the team if
-  desired.
-* During the workshop our graduate student and postdoc participants will also
-  receive professional and technical skills training relevant to STEM careers in
-  industry.
-* Efforts will be made to link companies to talent during and beyond the
-  workshop to explore internships and other hiring needs.
+The workshop had two main objectives
 
-The intended outcome is that companies will have the opportunity to engage with
-highly skilled talent, while also receiving innovative solutions to the math
-challenge submitted to the workshop. You can see examples of successful
-projects on this website.
+1. To build technical skills in programming and computational workflows
+1. To build business skills for effective teamwork and technical report writing
 
-We ask that industry partners who would like to explore participating in the
-Math^Industry Workshop please fill this short [Industry Partner
-Survey](https://survey.ucalgary.ca/jfe/form/SV_41SJsq6pqN7gOzk).
-
- If you have questions please contact the workshop's Industry Co-Director, Dr.
-Kristine Bauer at industry@pims.math.ca. We look forward to hearing from you.
+Attendees gained hands on experience as part of a team, working on a real-world
+problem posed by an industry partner. 
 
 
