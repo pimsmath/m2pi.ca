@@ -1,0 +1,3 @@
+<p class="cta-btns">
+{{ with .Get "url" }}<a href="{{ . }}" class="btn btn-light btn-lg mb-md-1">{{ end }}{{ with .Get "text" }}{{ .}}{{ end }}{{ with .Get "url" }}</a>{{ end }}
+</p>

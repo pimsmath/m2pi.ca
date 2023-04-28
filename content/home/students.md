@@ -1,0 +1,39 @@
+---
+widget: blank
+headless: true
+title: Information for Students
+active: true
+weight: 35
+design:
+  columns: '1'
+---
+{{< announcement
+  text="Fellowship Applications now open! [Click here to apply](https://survey.ucalgary.ca/jfe/form/SV_5iD3NYJcs5TzZrg)!"
+>}}
+
+M2PI is a full-time training and work-integrated learning opportunity for
+graduate students and post-doctoral fellows in the mathematical sciences.
+Undergraduate students are also eligible to apply. Successful applicants will be
+asked to confirm their availability for full-time participation during July 10 -
+28.
+
+  * During **July 10-14**, students will receive professional and technical skills
+training relevant to non-academic STEM careers through virtual courses.
+  * During **July 17-19**, some teams may meet in person either at an employer's site or
+at a local PIMS host university. Teams will start to work on a project provided
+by the employer during this time. Travel funding will be provided.
+  * During **July 20-28**, teams continue their work virtually and have access to a
+mentor.
+  * There will be a virtual career fair where you will have the opportunity to meet
+employers, learn about careers involving mathematics, and learn about internship
+or job openings.
+
+Following the workshop, your work will be showcased at a virtual graduation
+event on July 31. Here you will showcase your skills to a large audience
+including potential employers in both academic and non-academic fields. You can
+see examples of successful projects on the [2021 Math^Industry page](/2022).
+
+{{< button-dark
+  url="https://survey.ucalgary.ca/jfe/form/SV_5iD3NYJcs5TzZrg"
+  text="Apply now"
+>}}
