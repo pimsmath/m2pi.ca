@@ -8,14 +8,14 @@ design:
   columns: '1'
 ---
 {{< announcement
-  text="Fellowship Applications now open! [Click here to apply](https://survey.ucalgary.ca/jfe/form/SV_5iD3NYJcs5TzZrg)!"
+  text="Fellowship Applications for M2PI 2023 now open! [Click here to apply](https://survey.ucalgary.ca/jfe/form/SV_5iD3NYJcs5TzZrg)!"
 >}}
 
 M2PI is a full-time training and work-integrated learning opportunity for
 graduate students and post-doctoral fellows in the mathematical sciences.
 Undergraduate students are also eligible to apply. Successful applicants will be
 asked to confirm their availability for full-time participation during July 10 -
-28.
+28, 2023.
 
   * During **July 10-14**, students will receive professional and technical skills
 training relevant to non-academic STEM careers through virtual courses.
@@ -31,7 +31,7 @@ or job openings.
 Following the workshop, your work will be showcased at a virtual graduation
 event on July 31. Here you will showcase your skills to a large audience
 including potential employers in both academic and non-academic fields. You can
-see examples of successful projects on the [2021 Math^Industry page](/2022).
+see examples of successful projects on the [2022 Math to Power Industry page](/2022).
 
 {{< button-dark
   url="https://survey.ucalgary.ca/jfe/form/SV_5iD3NYJcs5TzZrg"

@@ -39,7 +39,7 @@ program.
 The intended outcome is that partner organizations will have the opportunity to
 engage with highly skilled talent, while also receiving innovative solutions to
 the math challenge submitted to the workshop. You can see examples of successful
-projects on the 2022 M2PI website.
+projects on the [2022 M2PI website](/2022/).
 
 {{< button-dark
   url="#contact"
