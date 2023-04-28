@@ -31,6 +31,6 @@ in the realm of climate resilience.
 <div class="col">
 {{< button
   url="#employers"
-  text="Information for employers"
+  text="Information for Employers"
 >}}
 </div>
