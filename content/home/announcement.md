@@ -1,9 +1,9 @@
 ---
 widget: announcement
 headless: true
-active: false
+active: true
 weight: 1
 title: >-
   Participant applications are now open. Please complete the
-  [registration form](https://survey.ucalgary.ca/jfe/form/SV_037g0Fw5r9qS3cy) by June 1 @5pm (PDT) to apply.
+  [registration form](https://survey.ucalgary.ca/jfe/form/SV_5iD3NYJcs5TzZrg) by May 19, 2023 at 11:59 pm Mountain Time.
 ---
