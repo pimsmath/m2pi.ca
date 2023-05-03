@@ -20,10 +20,9 @@ problem or showcase a job opportunity, please contact Kristine Bauer
 * PIMS matches your organization to an academic researcher who can provide
   support for developing the problem statement.
 * Organizations provide mentors to work closely with the team during **July 17-27**.
-  During **July 17-19**, teams will meet in person either on site or at a local PIMS
-  host university.  During **July 20-27**, teams work virtually and need to have
-  access to a mentor from your organization for minimum of two hours per day.
-  Mentors are welcome to work more closely with the team if desired.
+  During **July 17-27**, teams work virtually and need to have access to a
+  mentor from your organization for minimum of two hours per day.  Mentors are
+  welcome to work more closely with the team if desired.
 * During the workshop our graduate student and postdoc participants will also
   receive professional and technical skills training relevant to non-academic
   STEM careers.
