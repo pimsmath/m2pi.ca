@@ -57,5 +57,6 @@ user_groups:
 tags:
 - '2021'
 - '2022'
+- '2023'
 ---
 Evolutionary and behavioural ecologist by training, Software/Data Carpentry instructor, and open source proponent, Marie-Hélène Burle develops and delivers training for researchers on computing tools (R, Python, Julia, Git, Bash scripting, machine learning, parallel scientific programming, HPC) for Simon Fraser University and the Digital Research Alliance of Canada.

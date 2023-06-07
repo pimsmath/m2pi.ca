@@ -9,7 +9,7 @@ content:
   page_type: course
   filters:
     tags:
-      - '2022'
+      - '2023'
 design:
   columns: '1'
   view: 3

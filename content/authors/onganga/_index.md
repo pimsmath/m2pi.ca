@@ -48,11 +48,6 @@ user_groups:
 
 tags:
 - '2022'
+- '2023'
 ---
-Charlotte Anyango Ong'ang'a holds a PhD in Linguistics, and is the Career
-Development Specialist for PhD students. Her expert linguistic knowledge is
-applied in the areas of Resume and CV Writing, Networking, Interview tips, Job
-Search Strategies, and Workplace Communication. Charlotte has taught Linguistics
-and provided career guidance at higher education institutions for over 12 years,
-and she currently facilitates Career Development workshops at the University of
-Calgary.
+Charlotte Anyango Ong'ang'a is a distinguished Author and Career Development Specialist with a deep passion for empowering individuals. Holding a Ph.D. in Linguistics and possessing over 15 years of experience at higher education institutions in Canada and abroad, Charlotte has established herself as a trusted expert in various domains. Her expertise spans a wide range of essential skills, including Resume and CV Writing, LinkedIn and Networking, Interview Techniques, Job Search Strategies, and Workplace Communication. Charlotte's extensive knowledge and experience enable her to provide invaluable guidance and support to graduate students at the University of Calgary.
