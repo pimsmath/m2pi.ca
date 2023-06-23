@@ -33,11 +33,12 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- committee: instructors
-  role: Linked-in and Netlify Course Instructor
+- committee: mentors
+  role: Academic Mentor
 
 tags:
 - '2020'
+- '2023'
 ---
 Leonard Olien is an expert in analytics, electricity markets and renewable
 energy.  Since completing an MSc. in Mathematics at McGill University, Leonard

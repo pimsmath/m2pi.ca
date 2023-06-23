@@ -1,54 +1,53 @@
 ---
 # Display name
-title: William Spat
+title: Li Xing
 
 # Username (this should match the folder name)
 authors:
-- spat
+- lixing
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Founder, IOTO International
+role: Assistant Professor
 
 Organizations/Affiliations:
 organizations:
-- name: IOTO International
-  url: https://ioto.ca
+- name: University of Saskatchewan
+  url: https://www.usask.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
+ - Analysis of Big Data
+ - Bioinformatics
+ - Machine Learning
+ - Bayesian Methods,
+ - Longitudinal Data Problem
+ - Biostatistics
+ - Experiment Design.
 
 education:
   courses:
-  - course: PhD, Cognitive Systems
-    institution: University of Edinburgh
-  - course: pensionnaire étranger, Philo
-    institution: Ecole normale supérieure
-  - course: BASc, Philosophy
+  - course: Ph.D, Statistics
     institution: University of British Columbia
-
+  - course: M.Sc. Mathematics
+    institution: University of British Columbia
+  - course: M.Sc. Statistics
+    institution: University of Saskatchewan
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/william-spat-8a2447/
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "bauerk@ucalgary.ca"
+email: "li.xing@math.usask.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: mentors
-  role: Mentor
-
-highlight_name: true
+  role: Academic Mentor
 
 tags:
-- '2021'
-- '2020'
-- '2022'
-- '2023'
+  - '2023'
 ---

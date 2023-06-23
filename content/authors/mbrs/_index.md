@@ -1,42 +1,43 @@
 ---
 # Display name
-title: William Spat
+title: Mehdi Bozzo-Rey
 
 # Username (this should match the folder name)
 authors:
-- spat
+- mbrs
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Founder, IOTO International
+role: Chief Revenue Officer
 
 Organizations/Affiliations:
 organizations:
-- name: IOTO International
-  url: https://ioto.ca
+- name: Multiverse Computing
+  url: https://multiversecomputing.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
+  - High performance Computing
+  - Quantum Computing
+  - Algorithms
+  - Distributed Systems
 
 education:
   courses:
-  - course: PhD, Cognitive Systems
-    institution: University of Edinburgh
-  - course: pensionnaire étranger, Philo
-    institution: Ecole normale supérieure
-  - course: BASc, Philosophy
-    institution: University of British Columbia
+  - course: M.Sc. Theoretical and Mathematical Physics
+    institution: Université de Sherbrooke, Institut Quantique
+  - course: B.Sc. Physics/Mathematics
+    institution: Université Sorbonne Paris Nord
+  - course: B.Sc. Mathematics/Computer Science/Physics
 
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/william-spat-8a2447/
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "bauerk@ucalgary.ca"
+email:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -47,8 +48,5 @@ user_groups:
 highlight_name: true
 
 tags:
-- '2021'
-- '2020'
-- '2022'
-- '2023'
+  - '2023'
 ---

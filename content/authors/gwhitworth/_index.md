@@ -1,42 +1,43 @@
 ---
 # Display name
-title: William Spat
+title: Garrett Whitworth
 
 # Username (this should match the folder name)
 authors:
-- spat
+- gwhitworth
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Founder, IOTO International
+role: Founder & Director
 
 Organizations/Affiliations:
 organizations:
-- name: IOTO International
-  url: https://ioto.ca
+- name: Innovatree Carbon Group
+  url: https://www.innovatreecarbongroup.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
+- Carbon Sequestration
+- Data Analysis
+- Organic Chemistry
 
 education:
   courses:
-  - course: PhD, Cognitive Systems
-    institution: University of Edinburgh
-  - course: pensionnaire étranger, Philo
-    institution: Ecole normale supérieure
-  - course: BASc, Philosophy
-    institution: University of British Columbia
+  - course: Postdoctoral Fellow
+    institution: Massachusetts Institute of Technology
+  - course: Ph.D. Organic Chemistry/Carbohydrates
+    institution: Simon Fraser University
+  - course: B.Sc. Organic Chemistry
+    institution: Thompson Rivers University
 
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/william-spat-8a2447/
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "bauerk@ucalgary.ca"
+email: "gwhitworth@aib-innovations.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -47,8 +48,5 @@ user_groups:
 highlight_name: true
 
 tags:
-- '2021'
-- '2020'
-- '2022'
-- '2023'
+  - '2023'
 ---

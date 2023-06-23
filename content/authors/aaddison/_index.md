@@ -1,42 +1,40 @@
 ---
 # Display name
-title: William Spat
+title: Angela Addison
 
 # Username (this should match the folder name)
 authors:
-- spat
+- aaddison
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Founder, IOTO International
+role: Fisheries Program Director
 
 Organizations/Affiliations:
 organizations:
-- name: IOTO International
-  url: https://ioto.ca
+- name: North Coast Skeena FirstNations Stewarship Society
+  url: https://northcoastskeenafirstnations.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
+  - Environmental Policy
+  - Environmental Science
 
 education:
   courses:
-  - course: PhD, Cognitive Systems
-    institution: University of Edinburgh
-  - course: pensionnaire étranger, Philo
-    institution: Ecole normale supérieure
-  - course: BASc, Philosophy
+  - course: B.Sc. Global Resources Management
     institution: University of British Columbia
+  - course: Technical Diploma, Applied Costal Ecology
+    institution: Northwest Community College
 
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/william-spat-8a2447/
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "bauerk@ucalgary.ca"
+email: "angela.addison@ncsfnss.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -47,8 +45,5 @@ user_groups:
 highlight_name: true
 
 tags:
-- '2021'
-- '2020'
-- '2022'
-- '2023'
+  - '2023'
 ---

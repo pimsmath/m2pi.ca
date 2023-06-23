@@ -1,42 +1,43 @@
 ---
 # Display name
-title: William Spat
+title: Tyler Ternoczi
 
 # Username (this should match the folder name)
 authors:
-- spat
+- tylert
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Founder, IOTO International
+role: Senior Specialist, Climate and Sustainability
 
 Organizations/Affiliations:
 organizations:
-- name: IOTO International
-  url: https://ioto.ca
+- name: Cenovus Energy
+  url: https://cenovus.com
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
+- Carbon Markets
+- Climate Change
+- Energy
 
 education:
   courses:
-  - course: PhD, Cognitive Systems
-    institution: University of Edinburgh
-  - course: pensionnaire étranger, Philo
-    institution: Ecole normale supérieure
-  - course: BASc, Philosophy
-    institution: University of British Columbia
+  - course: MBA, Finance
+    institution: Haskayne School of Business
+  - course: MNRM (Master of Natural Resources Management
+    institution: University of Manitoba
+  - course: B.Sc. Environmental Science, Chemistry
+    institution: University of Calgary
 
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/william-spat-8a2447/
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "bauerk@ucalgary.ca"
+email: "Tyler.Tarnoczi@cenovus.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -47,8 +48,5 @@ user_groups:
 highlight_name: true
 
 tags:
-- '2021'
-- '2020'
-- '2022'
-- '2023'
+  - '2023'
 ---
