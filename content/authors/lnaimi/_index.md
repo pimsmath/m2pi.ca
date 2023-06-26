@@ -39,6 +39,8 @@ user_groups:
 - committee: mentors
   role: Mentor
 
+highlight_name: true
+
 tags:
   - '2023'
 ---
