@@ -43,3 +43,6 @@ url_video: ""
 slides: ""
 ---
 ### Course Description
+Scikit Learn is a python library for machine learning. It builds on numpy,
+scipy and matplotlib to provide general purpose machine learning workflows in
+an efficient and easy to use way.
