@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D (in progress)
+  - course: Ph.D, Industrial and Organizational Psychology
     institution: University of Calgary
   - course: M.Sc
     institution: University of Calgary
