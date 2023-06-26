@@ -1,7 +1,7 @@
 ---
 widget: announcement
 headless: true
-active: true
+active: false
 weight: 1
 title: >-
   Participant applications are now open. Please complete the
