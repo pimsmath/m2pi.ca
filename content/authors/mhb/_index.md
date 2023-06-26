@@ -52,7 +52,7 @@ email: "marie.burle@westgrid.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: instructors
-  role: Git and GitHub instructor
+  role: Git and GitHub instructor, SKLearn Instructor
 
 tags:
 - '2021'

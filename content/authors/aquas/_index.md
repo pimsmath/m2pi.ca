@@ -48,5 +48,6 @@ user_groups:
 tags:
 - '2020'
 - '2021'
+- '2023'
 ---
 Anthony Quas is a Professor of Mathematics at the University of Victoria. He is an expert in ergodic theory and dynamical systems. Key tools in his research are probability and linear algebra. He is the Site Director of PIMS at the University of Victoria, and served as Interim Deputy Director of PIMS for the academic year 2018-19.
