@@ -2,6 +2,8 @@
 # Display name
 title: Xiaotao Bi
 
+draft: true
+
 # Username (this should match the folder name)
 authors:
 - tbi

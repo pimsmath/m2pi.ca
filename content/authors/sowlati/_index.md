@@ -6,6 +6,8 @@ title: Taraneh Sowlati
 authors:
 - sowlati
 
+draft: true
+
 # Is this the primary user of the site?
 superuser: false
 
