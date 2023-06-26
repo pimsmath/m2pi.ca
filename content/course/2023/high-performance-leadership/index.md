@@ -47,17 +47,19 @@ slides: ""
 ### Description
 
 Mitacs will offer their Leadership Skills course to our workshop participants.
-You will need to enroll for this course on the EDGE portal and complete the
-(approx. 90 minute) asynchronous portion of the course prior to the workshop. On
-completion of the asynchronous part of the course and signing up for the
-facilitated session you will receive a Zoom link from Mitacs for the facilitated
-part of the course taking place on July 13th, 2023, from 1:00 pm until 3:30 pm
-MDT. 
+You will need to enroll for this course on the [EDGE
+portal](https://edge-reg.mitacs.ca/) and complete the (approx. 90 minute)
+asynchronous portion of the course prior to the workshop. On completion of the
+asynchronous part of the course and signing up for the facilitated session you
+will receive a Zoom link from Mitacs for the facilitated part of the course
+taking place on July 13th, 2023, from 1:00 pm until 3:30 pm MDT. 
 
 Please follow the instructions below to access this course.
 
-_**N.B. If you don’t have an EDGE account yet, please see the instructions in the
-M2PI orientation guide to create an account and log in.**_
+_**N.B. This course will be provided through the [Mitacs
+EDGE](https://edge-reg.mitacs.ca/) porgal. If you don’t have an
+[EDGE](https://edge-reg.mitacs.ca/) account yet, please see the instructions in
+the M2PI orientation guide to create an account and log in.**_
 
 ### _High-performing leadership and teams!_ – Asynchronous self-paced e-learning (90 min)
 
