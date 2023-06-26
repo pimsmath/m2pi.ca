@@ -7,10 +7,6 @@ weight: 35
 design:
   columns: '1'
 ---
-{{< announcement
-  text="Fellowship Applications for M2PI 2023 now open! [Click here to apply](https://survey.ucalgary.ca/jfe/form/SV_5iD3NYJcs5TzZrg)!"
->}}
-
 M2PI is a full-time training and work-integrated learning opportunity for
 graduate students and post-doctoral fellows in the mathematical sciences.
 Undergraduate students are also eligible to apply. Successful applicants will be
