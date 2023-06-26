@@ -46,16 +46,38 @@ slides: ""
 ---
 ### Course Description
 This course will build on your knowledge of Python to sharpen your skills for
-data manipulation and analysis. We will assume that you have gone through the
-material in our [self study
-repository](https://github.com/ianabc/m2pi-python-self-study) before this course.
+data manipulation and analysis. Please read through the  material in our [self
+study repository](https://github.com/ianabc/m2pi-python-self-study) before this
+course to get an idea of the sorts of things we will be assuming.
 
-We will use Jupyter notebooks to explore foundational data-science libraries
-such as [numpy](https://numpy.org), [matplotlib](https://matplotlib.org/) and
-[pandas](https://pandas.pydata.org). We will explore how to use these libraries
-to create performant python code and then use them to tidy real world datasets
-and extract insights from them. 
+We ask that you spend some time brushing up on your Python programming skills
+before the workshop begins. Python is very user friendly and easy to learn as
+you go. The [python documentation](https://wiki.python.org/moin/BeginnersGuide)
+has lots of links to learning resources; if you have no programming experience,
+[this list](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers) should
+help you find some suitable tutorials, if you have some programming experience
+in another language, [this
+list](https://wiki.python.org/moin/BeginnersGuide/Programmers) should help you
+find some useful tutorials. Here are a few examples from those lists
 
-At the end of the course you should feel comfortable working with unfamiliar
-datasets, fixing common data errors, creating visualizations to understand your
-data, and extracting insights from models.
+* [Codeacademy](https://www.codecademy.com/learn/learn-python)
+* [Google's Python Class](https://developers.google.com/edu/python/)
+* [Learnpython.org](http://Learnpython.org)
+
+Some of these resources will let you run python snippets as part of the tutorial
+and you should also ensure you can access [google
+collab](https://research.google.com/colaboratory/) (requires a google
+account) which will persist after the workshop and can let you work
+collaboratively with other people. If you prefer to install things locally,
+[miniconda](https://docs.conda.io/en/latest/miniconda.html) or
+[anaconda](https://www.anaconda.com/products/individual) is probably the best
+way to do that. Your goals when working through the python tutorials should be
+to understand. This class will assume you are familiar with python syntax,
+loops, functions, module and classes. We will begin by exploring the [numpy
+module](https://numpy.org/) for fast numerical operations as a foundation for learning more about
+data manipulation with the [pandas module](https://pandas.pydata.org/).
+Depending on how far we get with these modules, we will try to look at some toy
+problems and more realistic applications, similar to what you might see in the
+coming weeks.
+
+
