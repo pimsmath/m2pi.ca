@@ -41,12 +41,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-### Description
-
-In today's interconnected professional landscape, LinkedIn has become an indispensable tool for career advancement and networking. Are you ready to harness the power of LinkedIn to propel your career to new heights? Join this dynamic workshop, "LinkedIn Life" to:
-
-  *   Determine your LinkedIn goals, target audience and keywords
-  *   Choose a professional profile picture and create a compelling headline
-  *   Get found on LinkedIn
-  *   Detail your career trajectory and create the ultimate first impression
