@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D (in progress)
+  - course: Ph.D, Industrial and Organizational Psychology
     institution: University of Calgary
   - course: M.A.
     institution: City University of New York - Brooklyn College
