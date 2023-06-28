@@ -50,4 +50,6 @@ tags:
   - '2022'
   - '2023'
 ---
-Patrick Walls is an instructor in the Department of Mathematics at the University of British Columbia and teaches mathematical computing, differential equations and vector calculus for mechanical engineering.
+Patrick Walls is an Associate Professor of Teaching in the Department of
+Mathematics at the University of British Columbia and teaches mathematical
+computing, applied linear algebra and mathematical modelling.
