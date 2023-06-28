@@ -38,12 +38,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/prosoitos
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/MHBurle 
 - icon: globe
   icon_pack: fas
-  link: https://marie-helene-burle.netlify.com
+  link: https://www.sfu.ca/~msb2/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "marie.burle@westgrid.ca"
