@@ -1,5 +1,5 @@
 ---
-title: "Python Training in Numpy, Pandas and Scikit-Learn"
+title: "Python Training in Numpy & Pandas"
 authors: 
   - iana
 
