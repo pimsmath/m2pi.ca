@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tyler Ternoczi
+title: Tyler Tarnoczi
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role: Senior Specialist, Climate and Sustainability
 Organizations/Affiliations:
 organizations:
 - name: Cenovus Energy
-  url: https://cenovus.com
+  url: https://www.cenovus.com/News-and-Stories/Our-stories/Tyler-Tarnoczi-Finding-opportunities-to-reduce-carbon-emissions
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
