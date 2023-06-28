@@ -49,8 +49,6 @@ final_report:
 ---
 ![](MultiverseLogo.png)
 
-## Overview
-
 This project uses machine learning techniques to analyze data regarding
 deforestation in the Amazon basin.  In a [recent blog
 post](https://vitalflux.com/machine-learning-use-cases-climate-change/#Forest_degradation),

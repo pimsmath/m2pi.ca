@@ -47,8 +47,6 @@ final_report:
 ---
 ![](AwesenseLogo.png)
 
-### Overview
-
 At [Awesense](https://www.awesense.com/), we've been building a platform for
 digital energy with the goal of allowing easy access to and use of electrical
 grid data in order to build a myriad of applications and use cases for the

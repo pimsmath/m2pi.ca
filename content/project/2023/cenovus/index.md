@@ -46,8 +46,6 @@ final_report:
 ---
 ![](CenovusLogo.svg)
 
-### Overview
-
 Cenovus is a Canadian-based integrated energy company headquartered in Calgary.
 We're committed to maximizing value by sustainably developing our assets in a
 safe, innovative and cost-efficient manner, integrating environmental, social
