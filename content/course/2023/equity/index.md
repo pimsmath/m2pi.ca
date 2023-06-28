@@ -5,14 +5,13 @@ authors:
   - sjones
 
 summary: | 
-  Socio-cultural factors such as globalization, immigration and differences in
-  cultural identity mean we are likely to be employed in more demographically
-  diverse workplaces. In this session we will
-    * Learn how to define equity, diversity and inclusion.
-    * Engage in meaningful and critical dialogues about challenges that arise in
+  This workshop, led by Lorena Solis and co-facilitator Samantha Jones, is
+  intended to create a safe and courageous space in which we can:
+  
+   1. Learn how to define equity, diversity and inclusion.
+   1. Engage in meaningful and critical dialogues about challenges that arise in
       diverse environments.
-    * Explore solutions for creating more diverse and inclusive spaces.
-
+   1. Explore solutions for creating more diverse and inclusive spaces.
 
 tags: ['2023']
 categories: []
@@ -50,10 +49,20 @@ slides: ""
 ---
 
 ### Description
+Socio-cultural factors such as globalization, immigration and differences in
+cultural identity mean we are likely to be employed in more demographically
+diverse workplaces. Diversity in race, ethnicity, nationality, gender, age,
+religion, disability and sexual orientation play a significant role in shaping
+an individual’s values, experiences, and world perceptions and influencing how
+an individual interacts with others. While our differences contribute to rich
+and innovative thinking, they can also be a source of conflict when diversity is
+not managed effectively. To thrive in diverse environments, we must engage in
+self-reflection, unpack terms such as equity, diversity and inclusion and create
+equal access to participation and opportunity in our workplaces for all
+individuals. This workshop, led by Lorena Solis and co-facilitator Samantha
+Jones, is intended to create a safe and courageous space in which we can:
 
-In today's interconnected professional landscape, LinkedIn has become an indispensable tool for career advancement and networking. Are you ready to harness the power of LinkedIn to propel your career to new heights? Join this dynamic workshop, "LinkedIn Life" to:
-
-  *   Determine your LinkedIn goals, target audience and keywords
-  *   Choose a professional profile picture and create a compelling headline
-  *   Get found on LinkedIn
-  *   Detail your career trajectory and create the ultimate first impression
+  1. Learn how to define equity, diversity and inclusion.
+  1. Engage in meaningful and critical dialogues about challenges that arise in
+     diverse environments.
+  1. Explore solutions for creating more diverse and inclusive spaces.
