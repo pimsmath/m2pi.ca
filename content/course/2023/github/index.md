@@ -2,7 +2,7 @@
 title: "Git and GitHub"
 authors: 
   - mhb
-  - razumov
+  - razoumov
 
 summary: |
   Git is a powerful version control system allowing to record, access, and
