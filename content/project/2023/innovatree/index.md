@@ -7,6 +7,8 @@ summary: |
   those costs in real time
 authors:
   - gwhitworth
+  - satyro
+  - jbaron
   - olien
 tags:
   - '2023'
