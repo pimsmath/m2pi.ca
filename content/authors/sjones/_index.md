@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant, Individual and Team Performance Lab
+role: Senior Research Assistant, Individual and Team Performance Lab
 
 Organizations/Affiliations:
 organizations:
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D (in progress)
+  - course: Ph.D, Industrial and Organizational Psychology
     institution: University of Calgary
   - course: M.Sc
     institution: University of Calgary
@@ -43,9 +43,10 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: instructors
-  role: Ethics Diversity and Inclusion Instructor
+  role: Equity, Diversity and Inclusion Instructor
 
 tags:
 - '2021'
 - '2022'
+- '2023'
 ---

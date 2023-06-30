@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PIMS Site Director
+role: Professor of Computer Science
 
 Organizations/Affiliations:
 organizations:
@@ -43,11 +43,13 @@ email: "spiteri@cs.usask.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- committee: organizing
+- committee: mentors
+  role: Academic Mentor
 
 tags:
 - '2020'
 - '2021'
+- '2023'
 ---
 My subject areas of research expertise are applied mathematics and computer
 science, in particular algorithms and software for continuous mathematics and
