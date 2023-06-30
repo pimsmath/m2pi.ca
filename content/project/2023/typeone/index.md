@@ -1,5 +1,6 @@
 ---
 title: "Type One Energy"
+draft: true
 subtitle: "Magnetic coils for stellarator fusion reactors"
 summary: |
   In a stellarator reactor, the hot fusion fuel is maintained inside the reactor
