@@ -22,7 +22,6 @@ summary: |
   configurations. We would also explore different geometric representations for
   the coils (Fourier, splines, etc.), enabling different coil topologies.
 authors:
-  - acerfon
   - spiteri
 tags:
   - '2023'
