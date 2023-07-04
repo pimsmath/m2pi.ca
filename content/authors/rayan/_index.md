@@ -54,6 +54,8 @@ user_groups:
 - committee: mentors
   role: Academic Mentor
 
+tags:
+  - '2023'
 ---
 Steven Rayan is a Professor and NSERC, NFRF, and CFI-supported researcher in the
 [Department of Mathematics & Statistics](https://math.usask.ca/) at the
