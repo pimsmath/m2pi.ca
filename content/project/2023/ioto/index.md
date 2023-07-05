@@ -112,3 +112,5 @@ Data sources will be added as the research proceeds.
   - Machine learning
   - Visualization
 
+### References
+  - [Measurement and Causal Inference Using Text as Data <i class="fa-solid fa-video"></i> <i class="fa-solid fa-arrow-up-right-from-square"></i>](https://sicss.io/overview/measurement-causal-inference) - This video provides an introductory overview which may be of some use to project participants.
