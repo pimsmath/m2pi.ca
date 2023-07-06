@@ -57,7 +57,7 @@ taking place on July 13th, 2023, from 1:00 pm until 3:30 pm MDT.
 Please follow the instructions below to access this course.
 
 _**N.B. This course will be provided through the [Mitacs
-EDGE](https://edge-reg.mitacs.ca/) porgal. If you don’t have an
+EDGE](https://edge-reg.mitacs.ca/) portal. If you don’t have an
 [EDGE](https://edge-reg.mitacs.ca/) account yet, please see the instructions in
 the M2PI orientation guide to create an account and log in.**_
 
