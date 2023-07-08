@@ -67,8 +67,10 @@ Install Git:
 * MacOS and Linux users: install Git from https://git-scm.com/downloads
 * Sign up for a free GitHub account at https://github.com/
 
-If you don't want to type your password all the time and if you feel up to the
-challenge, you can try to [set up SSH for your account](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
+
+When using git to push to GitHub you’ll need to authenticate to GitHub, one way to do this is by setting up SSH keys for your account:
+  * [set up SSH for your
+    account](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
 
 #### Workshop Material:
 * https://westgrid-cli.netlify.app/workshops/2022_git_m2pi/
