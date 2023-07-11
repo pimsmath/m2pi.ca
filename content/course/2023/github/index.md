@@ -73,5 +73,5 @@ When using git to push to GitHub you’ll need to authenticate to GitHub, one wa
     account](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
 
 #### Workshop Material:
-* https://westgrid-cli.netlify.app/workshops/2022_git_m2pi/
+* https://mint.westdri.ca/git/top_intro.html
 
