@@ -1,6 +1,6 @@
 main:
   - name: Home
-    url: '#'
+    url: '/#'
     weight: 10
   - name: Team
     url: '#people'
@@ -18,6 +18,6 @@ main:
     url: '#schedule'
     weight: 50
   - name: Contact
-    url: '#contact'
+    url: '/#contact'
     weight: 80
 
