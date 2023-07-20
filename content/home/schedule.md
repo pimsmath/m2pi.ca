@@ -143,4 +143,4 @@ document for updates. **All times are listed in MDT.**
 </table>
 
 <span style="color: red"><strong>Final Gala/graduation event: Monday July 31, 2023
-15:00-17:00</strong></span>
+15:00-17:00 (MDT)</strong></span>
