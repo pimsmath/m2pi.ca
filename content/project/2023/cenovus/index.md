@@ -4,6 +4,8 @@ subtitle: "Optimizing Future Clean Fuel Supply Chains"
 summary: |
 authors:
   - tylert
+  - cvb
+  - aamahmoud
 tags:
   - '2023'
 

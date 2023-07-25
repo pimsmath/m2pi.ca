@@ -13,6 +13,8 @@ authors:
   - aaddison
   - lewis
   - krkosek
+  - aslobodin
+  - rxu
 tags:
   - '2023'
 
