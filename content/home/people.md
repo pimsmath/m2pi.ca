@@ -9,6 +9,8 @@ title: Meet the Teams
 subtitle: ''
 content:
   user_groups:
+    - id: members
+      name: Project Members
     - id: mentors
       name: Mentors
     - id: organizing
