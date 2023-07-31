@@ -4,7 +4,7 @@ headless: true
 active: true
 weight: 20
 year: '2023'
-default_committee: organizing
+default_committee: members
 title: Meet the Teams
 subtitle: ''
 content:
