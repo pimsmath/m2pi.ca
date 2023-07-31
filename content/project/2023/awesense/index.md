@@ -6,6 +6,8 @@ authors:
   - elenapopovici
   - jsjk
   - msargent
+  - cdavies
+  - mflores
 tags:
   - '2023'
 

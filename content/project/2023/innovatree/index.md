@@ -11,6 +11,7 @@ authors:
   - jbaron
   - olien
   - kpowers
+  - agoyal
 tags:
   - '2023'
 
