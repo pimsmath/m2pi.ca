@@ -143,4 +143,6 @@ document for updates. **All times are listed in MDT.**
 </table>
 
 <span style="color: red"><strong>Final Gala/graduation event: Monday July 31, 2023
-15:00-17:00 (MDT)</strong></span>
+15:00-17:00 (MDT), <a
+href="https://ubc.zoom.us/meeting/register/u5YldOigqTstGtedoLrGj7Qqkq7WmY73AznE">register
+here</a> to participate.</strong></span>
