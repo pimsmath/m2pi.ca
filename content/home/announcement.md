@@ -1,9 +1,11 @@
 ---
 widget: announcement
 headless: true
-active: false
+active: true
 weight: 1
 title: >-
-  Participant applications are now open. Please complete the
-  [registration form](https://survey.ucalgary.ca/jfe/form/SV_5iD3NYJcs5TzZrg) by May 19, 2023 at 11:59 pm Mountain Time.
+  The gala event will take place on Monday July 31st at 3pm MDT. Please
+  [register
+  here](https://ubc.zoom.us/meeting/register/u5YldOigqTstGtedoLrGj7Qqkq7WmY73AznE)
+  to attend.
 ---
