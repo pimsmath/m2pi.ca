@@ -37,7 +37,7 @@ mediaTypes:
 outputFormats:
   m2piCertFormat:
     name: cert
-    path: cert
+    basename: cert
     mediaType: text/html
     rel: alternate
     isHTML: true

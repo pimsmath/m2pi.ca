@@ -48,4 +48,9 @@ tags:
 outputs:
 - html
 - cert
+
+cert:
+  file: './cert.pdf'
+  img: './cert.png'
+  issued: 2023-07-31T17:00:00-08:00
 ---

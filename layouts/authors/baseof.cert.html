@@ -4,22 +4,29 @@
   {{ partial "site_head" . }}
   <body id="top">
     <div class="page-body">
-      <div class="cert">
-        <div class="outer-border">
-        <div class="inner-dotted-border">
-               <span class="certification">Certificate of Completion</span>
-               <br><br>
-               <span class="certify"><i>This is to certify that</i></span>
-               <br><br>
-               <span class="name"><b>{{ .Title }}</b></span><br/><br/>
-               <span class="certify"><i>completed the 2023 M2PI program as</i></span> <br/><br/>
-               {{ $committee := index .Params.user_groups 0 }}
-               <span class="fs-30">{{ $committee.role }}</span> <br/><br/>
-               <span class="fs-30">31 July, 2023</span>
-        </div>
-        </div>
+      <div class="container">
+        <section id="certificate">
+          <div class="row align-items-center">
+            <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+              <div class="certificate-state">
+                <i class="fa-solid fa-circle-check" style="color: #009900"></i> Certificate valid, issued: <em>{{ time.Format ":date_long" .Params.cert.issued }}</em>
+              </div>
+              <div class="certificate-download">
+                <p class="mb-2">
+                  <a href="{{ .Params.cert.pdf }}" class="btn btn-primary btn-lg active">Download Certificate</a>
+                </p>
+              </div>
+            </div>
+            <div class="col-12 col-lg-8 cert">
+              {{ with .Params.cert }}
+              <a href="{{ .file }}">
+                <img class="img-responsive" src="{{ .img }}">
+              </a>
+              {{ end }}
+            </div> 
+          </div>
+        </section>
       </div>
     </div>
   </body>
-
 </html>
