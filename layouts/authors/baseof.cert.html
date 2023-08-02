@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+{{- $language_code := site.LanguageCode | default "en-us" -}}
+<html lang="{{$language_code}}" {{ if in site.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{end}}>
+  {{ partial "site_head" . }}
+  <body id="top">
+    <div class="page-body">
+      <div class="cert">
+        <div class="outer-border">
+        <div class="inner-dotted-border">
+               <span class="certification">Certificate of Completion</span>
+               <br><br>
+               <span class="certify"><i>This is to certify that</i></span>
+               <br><br>
+               <span class="name"><b>{{ .Title }}</b></span><br/><br/>
+               <span class="certify"><i>completed the 2023 M2PI program as</i></span> <br/><br/>
+               {{ $committee := index .Params.user_groups 0 }}
+               <span class="fs-30">{{ $committee.role }}</span> <br/><br/>
+               <span class="fs-30">31 July, 2023</span>
+        </div>
+        </div>
+      </div>
+    </div>
+  </body>
+
+</html>

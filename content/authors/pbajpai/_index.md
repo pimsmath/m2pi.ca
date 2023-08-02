@@ -44,4 +44,8 @@ user_groups:
 
 tags:
 - '2023'
+
+outputs:
+- html
+- cert
 ---
