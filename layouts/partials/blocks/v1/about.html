@@ -86,8 +86,8 @@
       <div class="person-certificates">
         {{ with $person_page.Params.cert }}
         <h3>Certificates</h3>
-        <ul aria-hidden="true">
-          <li><a href="{{ .file }}"><i class="fa-solid fa-file-contract fa-2xl"></i> - M2PI2023</a></li>
+        <ul class="list-group" aria-hidden="true">
+          <li class="list-group-item d-flex justify-content-between align-items-center">M2PI2023 <a href="{{ .file }}">Certificate <i class="fa-solid fa-file-contract fa-l"></i></a></li>
         </ul>
         {{ end }}
       </div>
