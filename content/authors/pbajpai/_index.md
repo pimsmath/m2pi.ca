@@ -31,7 +31,9 @@ interests:
   - Number Theory
 
 social:
-
+- icon: github
+  icon_pack: fab
+  link: https://github.com
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email:
