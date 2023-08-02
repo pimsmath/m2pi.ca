@@ -87,7 +87,9 @@
         {{ with $person_page.Params.cert }}
         <h3>Certificates</h3>
         <ul class="list-group" aria-hidden="true">
-          <li class="list-group-item d-flex justify-content-between align-items-center">M2PI2023 <a href="{{ .file }}">Certificate <i class="fa-solid fa-file-contract fa-l"></i></a></li>
+          {{ with $person_page.OutputFormats.Get "cert" }}
+          <li class="list-group-item d-flex justify-content-between align-items-center">M2PI2023 <a href="{{ .RelPermalink }}">Certificate <i class="fa-solid fa-file-contract fa-l"></i></a></li>
+          {{ end }}
         </ul>
         {{ end }}
       </div>
