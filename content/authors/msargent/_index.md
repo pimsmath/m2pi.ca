@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Meridith Sargent
+title: Meredith Sargent
 
 # Username (this should match the folder name)
 authors:
