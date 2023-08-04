@@ -20,6 +20,8 @@ authors:
   - weg
   - mamin
   - naccomazzo
+  - yyin
+  - bbruce
 tags:
   - '2023'
 

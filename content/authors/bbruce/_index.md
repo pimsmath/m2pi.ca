@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Postdoctoral Fellow
 
 Organizations/Affiliations:
 organizations:
@@ -18,8 +18,18 @@ organizations:
   url: "https://ubc.ca/"
 
 education:
+  courses:
+  - course: PhD in Mathematics
+    institution: University of Wisconsin - Madison
+  - course: MA in Mathematics
+    institution: University of Wisconsin - Madison
+  - course: BA in Mathematics & Philosophy
+    institution: St. Olaf College
 
 interests:
+- Harmonic analysis
+- Geometric measure theory
+- Combinatorics
 
 social:
 
@@ -30,9 +40,20 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- committee: members
+  role: IOTO Project Member
 
 tags:
 - '2023'
 
----
+outputs:
+- html
+- cert
 
+certificates:
+- file: './cert2023.pdf'
+  img: './cert2023.png'
+  title: 'M2PI2023'
+  date: 2023-07-31T17:00:00-08:00
+  issued: false
+---
