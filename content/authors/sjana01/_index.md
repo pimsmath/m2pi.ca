@@ -45,6 +45,24 @@ user_groups:
 
 tags:
 - '2022'
+- '2023'
+
+outputs:
+- html
+- cert
+
+certificates:
+- title: M2PI2023
+  file: './cert2023.pdf'
+  img: './cert2023.png'
+  date: 2023-07-31T17:00:00-08:00
+  issued: false
+- title: M2PI2022
+  file: './cert2022.pdf'
+  img: './cert2022.png'
+  date: 2023-07-31T17:00:00-08:00
+  issued: false
+
 ---
 I am a Ph.D. candidate at the University of British Columbia with research
 interests in the field of Algebraic Topology. More specifically I am interested

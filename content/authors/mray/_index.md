@@ -46,5 +46,17 @@ user_groups:
 
 tags:
 - '2023'
+
+outputs:
+- html
+- cert
+
+certificates:
+- file: './cert2023.pdf'
+  img: './cert2023.png'
+  title: 'M2PI2023'
+  date: 2023-07-31T17:00:00-08:00
+  issued: false
+
 ---
 I am a PhD candidate at the University of Calgary, specializing in the Langlands programme - an area of mathematics that studies the connections between harmonic analysis and number theory. My PhD thesis involves resolving a conjecture that arises in the geometric perspective on this theory. In addition to this, I have continued interest and work in the applied and computational aspects of mathematics. While doing my PhD, I have worked on collaborative projects that involved data assimilation and statistics, machine learning, and modeling. I am always interested in applying my programming, mathematical, and analytical skills to solve problems that arise in the context of climate change. I am passionate about effective mathematics/science communication, both to specialists and non-specialists. In my downtime, I like to tend to my (many) plants, photograph nature, or chill with an audio-book.

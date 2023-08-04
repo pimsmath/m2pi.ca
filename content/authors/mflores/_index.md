@@ -49,6 +49,18 @@ user_groups:
 
 tags:
 - '2023'
+
+outputs:
+- html
+- cert
+
+certificates:
+- file: './cert2023.pdf'
+  img: './cert2023.png'
+  title: 'M2PI2023'
+  date: 2023-07-31T17:00:00-08:00
+  issued: false
+
 ---
 I am a Master's student in mathematics and have a well rounded background in
 computer science. In my spare time I like to learn about design and work on

@@ -51,8 +51,10 @@ outputs:
 - html
 - cert
 
-cert:
-  file: './cert.pdf'
-  img: './cert.png'
-  issued: 2023-07-31T17:00:00-08:00
+certificates:
+- file: './cert2023.pdf'
+  img: './cert2023.png'
+  title: 'M2PI2023'
+  date: 2023-07-31T17:00:00-08:00
+  issued: false
 ---

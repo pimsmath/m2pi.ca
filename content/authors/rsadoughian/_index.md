@@ -45,6 +45,18 @@ user_groups:
 
 tags:
 - '2023'
+
+outputs:
+- html
+- cert
+
+certificates:
+- file: './cert2023.pdf'
+  img: './cert2023.png'
+  title: 'M2PI2023'
+  date: 2023-07-31T17:00:00-08:00
+  issued: false
+
 ---
 
 As a data scientist with a master’s degree from university of British Columbia specialized in algebraic statistics and experience in mathematical modeling and data science, I am passionate about the intersection of technology and business. I am eager to use my skills to unlock insights from complex data sets and drive business growth.
