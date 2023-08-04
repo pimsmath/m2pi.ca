@@ -10,6 +10,7 @@ authors:
   - mflores
   - mray
   - sjana01
+  - proy
 tags:
   - '2023'
 
