@@ -46,10 +46,23 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 3 - CSTS Healthcare
+  role: IOTO Project Member
 
 tags:
 - '2021'
+- '2023'
+
+outputs:
+- html
+- cert
+
+certificates:
+- file: './cert2023.pdf'
+  img: './cert2023.png'
+  title: 'M2PI2023'
+  date: 2023-07-31T17:00:00-08:00
+  issued: false
+
 ---
 
 I'm a postdoctoral fellow at the University of British Columbia working with the harmonic analysis group. I got my degree from the University of Buenos Aires, where I was born, and I later moved to Spain to obtain my PhD degree. Recently I've been learning Python and data science.

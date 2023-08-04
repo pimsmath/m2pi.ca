@@ -18,6 +18,8 @@ authors:
   - lnaimi
   - pwalls
   - weg
+  - mamin
+  - naccomazzo
 tags:
   - '2023'
 

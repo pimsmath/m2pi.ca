@@ -35,6 +35,15 @@ mediaTypes:
     suffixes:
       - webmanifest
 outputFormats:
+  m2piCertFormat:
+    name: cert
+    basename: cert
+    mediaType: text/html
+    rel: alternate
+    isHTML: true
+    noUgly: true
+    permalinkable: true
+
   WebAppManifest:
     mediaType: application/manifest+json
     rel: manifest

@@ -53,5 +53,17 @@ user_groups:
 
 tags:
 - '2023'
+
+outputs:
+- html
+- cert
+
+certificates:
+- file: './cert2023.pdf'
+  img: './cert2023.png'
+  title: 'M2PI2023'
+  date: 2023-07-31T17:00:00-08:00
+  issued: false
+
 ---
 I am currently a PhD candidate working in the field of optimal transportation, working under the supervision of Professor Robert McCann. Currently, my research touches on a number of aspects related to optimal transportation, including aggregation models, synthetic geometry, general relativity, and mathematical economics. In my spare time, I like to hone my coding skills by practicing on problems like those from Advent of Code. I have greatly enjoyed working on a M2PI project with Awesense this summer, as I have gotten to apply my mathematical knowledge to a real-world problem, work with a dedicated and motivated team, and learn about how to work with large amounts of data. I anticipate to graduate in August 2025 and, upon graduation, I am aiming to put my mathematical training to use in either consulting or tech. As of writing, I am open for paid internship opportunities in Summer 2024, so if my skills and work seem like a match, don't hesitate to reach out!
