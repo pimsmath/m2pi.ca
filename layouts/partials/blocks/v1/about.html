@@ -83,16 +83,28 @@
         </li>
         {{ end }}
       </ul>
+      {{ $has_cert := false }}
+      {{ if (isset $person_page.Params "certificates") }}
+        {{ range $person_page.Params.certificates }}
+          {{ if eq .issued true }}
+            {{ $has_cert = true }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      {{ if $has_cert }}
       <div class="person-certificates">
-        {{ with $person_page.Params.cert }}
         <h3>Certificates</h3>
         <ul class="list-group" aria-hidden="true">
-          {{ with $person_page.OutputFormats.Get "cert" }}
-          <li class="list-group-item d-flex justify-content-between align-items-center">M2PI2023 <a href="{{ .RelPermalink }}">Certificate <i class="fa-solid fa-file-contract fa-l"></i></a></li>
+          {{ $cert_page := $person_page.OutputFormats.Get "cert" }}
+          {{ range $person_page.Params.certificates }}
+          {{ if eq .issued true }}
+          <li class="list-group-item d-flex justify-content-between align-items-center">{{ .title }} <a href="{{ $cert_page.RelPermalink }}">Certificate <i class="fa-solid fa-file-contract fa-l"></i></a></li>
+          {{ end }}
           {{ end }}
         </ul>
-        {{ end }}
       </div>
+      {{ end }}
     </div>
   </div>
   <div class="col-12 col-lg-8">
