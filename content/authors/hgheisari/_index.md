@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student
+role: Graduate Student
 
 Organizations/Affiliations:
 organizations:
@@ -18,8 +18,18 @@ organizations:
   url: "https://www.uleth.ca/"
 
 education:
+  courses:
+  - course: Master in Mathematics
+    institution: University of Lethbridge
+  - course: Master in Mathematics
+    institution: University of Tehran
+  - course: Bachelor in Mathematics
+    institution: University of Tehran
+
 
 interests:
+- Cryptography
+- Mathematical modeling
 
 social:
 
@@ -29,6 +39,8 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- committee: members
+  role: Innovatree Project Member
 
 tags:
 - '2023'

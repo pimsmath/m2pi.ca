@@ -18,10 +18,19 @@ organizations:
   url: "https://www.uleth.ca/"
 
 education:
+  courses:
+  - course: Bacherlor's in Mathematics
+    institution: Shahid Beheshti University
 
 interests:
+  - Mathematical MOdeling
+  - Data-Science
+
 
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/golnoush-farzanfard-241067283/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email:
@@ -29,6 +38,8 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- committee: members
+  role: Cenovus Project Member
 
 tags:
 - '2023'
@@ -37,3 +48,9 @@ outputs:
 - html
 - cert
 ---
+I'm a graduate student pursuing my studies in Number Theory at Lethbridge
+University. My research is currently focussed on Zero density for the Riemann
+Zeta function. Prior to my enrolment at Lethbridge University I completed a
+bachelor's degree in Mathematics at Shahid Beheshti University which is one of
+the most prestigious universities in Iran. I am excited to contribute my
+mathematical knowledge to solve real-world problems.
