@@ -47,6 +47,14 @@ tags:
 outputs:
 - html
 - cert
+
+certificates:
+- file: './cert2023.pdf'
+  img: './cert2023.png'
+  title: 'M2PI2023'
+  date: 2023-07-31T17:00:00-07:00
+  issued: false
+
 ---
 I'm a graduate student pursuing my studies in Number Theory at Lethbridge
 University. My research is currently focussed on Zero density for the Riemann
