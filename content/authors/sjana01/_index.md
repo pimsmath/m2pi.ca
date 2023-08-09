@@ -21,6 +21,7 @@ organizations:
 interests:
 - Data Science
 - Machine Learning
+- Deep Learning
 - Mathematical Modelling
 
 
@@ -41,7 +42,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Awesense Project Member
+  role: Multiverse Project Member
 
 tags:
 - '2022'
@@ -64,11 +65,4 @@ certificates:
   issued: false
 
 ---
-I am a Ph.D. candidate at the University of British Columbia with research
-interests in the field of Algebraic Topology. More specifically I am interested
-in Spaces of Homomorphisms, Group Cohomology, and Topological Data Analysis. I
-am also an aspiring Data Scientist with added interest in Machine Learning and
-Deep Learning. I am interested in neural networks and their applications in
-Image Processing, Computer Vision, Linguistics, and NLP. I have experience with
-machine learning libraries such as Scikit-learn, Keras, TensorFlow, et cetera,
-and visualization libraries such as Matplotlib, Seaborn, and Plotly in Python.
+I am a Ph.D. candidate in Mathematics with a research focus on Algebraic Topology. I am a highly motivated and skilled individual passionate about using mathematics to solve real-world problems. With expertise in complex mathematical concepts, I am eager to apply my knowledge to solve industry problems. I have been involved in several projects over the past few years, showcasing my ability to apply mathematical concepts to real-world problems. My strong analytical skills, problem-solving ability, experience in data analysis, and expertise in Machine Learning make me a valuable asset to any team. In my Ph.D. research, I have been studying the homological properties of the "Classifying Spaces for Commutativity in Unitary Groups" and the "Unordered Flag Manifolds". I have recently found a profound interest in Quantum Computation. I believe it has the potential to impact a wide range of fields, including cryptography, drug discovery, artificial intelligence, and financial modeling. I am highly motivated and committed to continuously learning and expanding my knowledge in Data Science and Quantum Computation. I am eager to contribute my expertise to a company dedicated to using mathematics to solve real-world problems and drive innovation in these fields.
