@@ -57,7 +57,7 @@ certificates:
   img: './cert2023.png'
   title: 'M2PI2023'
   date: 2023-07-31T17:00:00-08:00
-  issued: false
+  issued: true
 ---
 I am a PhD candidate at UofT and I specialize in number theory, representation
 theory, and analysis. My research is centered around Langlands' "Beyond

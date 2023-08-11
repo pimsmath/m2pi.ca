@@ -54,7 +54,7 @@ certificates:
    title: 'M2PI 2023'
    img: './cert2023.png'
    date: 2023-07-31T17:00:00-08:00
-   issued: false
+   issued: true
 
 ---
 PhD student at the department of physics and astronomy, University of Lethbridge.

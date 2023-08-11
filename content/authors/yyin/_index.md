@@ -58,6 +58,6 @@ certificates:
   img: './cert2023.png'
   title: 'M2PI2023'
   date: 2023-07-31T17:00:00-08:00
-  issued: false
+  issued: true
 ---
 Yujia is a 2nd year PhD candidate from the University of Toronto. He is doing research on artificial neural networks, more specifically, on computational problems arising from their optimization and their implications on data privacy. More recently, he is studying these problems in the context of mathematical finance. Before starting his PhD program, he completed a MSc in pure mathematics(algebraic geometry and number theory), and had spent some time in the game development industry.

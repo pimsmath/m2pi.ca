@@ -59,7 +59,7 @@ certificates:
   img: './cert2023.png'
   title: 'M2PI2023'
   date: 2023-07-31T17:00:00-08:00
-  issued: false
+  issued: true
 
 ---
 
