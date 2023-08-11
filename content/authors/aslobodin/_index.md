@@ -58,7 +58,7 @@ certificates:
   img: './cert2023.png'
   title: 'M2PI2023'
   date: 2023-07-31T17:00:00-08:00
-  issued: false
+  issued: true
 ---
 Aaron is a 2nd year Ph.D. candidate from the University of Victoria. His work
 involves solving various optimization problems in discrete mathematics by
