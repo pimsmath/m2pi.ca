@@ -4,6 +4,7 @@ subtitle: "Building a Platform for Digital Energy"
 summary: |
 authors:
   - elenapopovici
+  - afried
   - jsjk
   - msargent
   - cdavies
