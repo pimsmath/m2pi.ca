@@ -53,7 +53,11 @@ certificates:
   img: './cert2023.png'
   title: 'M2PI2023'
   date: 2023-07-31T17:00:00-07:00
-  issued: false
+  issued: true
+
+outputs:
+- html
+- cert
 ---
 I am currently a number theory master's student at the University of Lethbridge.
 I am working on the Frobenius primality test based on cubic polynomials, which

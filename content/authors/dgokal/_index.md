@@ -40,7 +40,18 @@ user_groups:
 - committee: members
   role: Cenovus Project Member
 
+certificates:
+- file: './cert2023.pdf'
+  img: './cert2023.png'
+  title: 'M2PI2023'
+  date: 2023-07-31T17:00:00-08:00
+  issued: true
+
 
 tags:
 - '2023'
+
+outputs:
+- html
+- cert
 ---
