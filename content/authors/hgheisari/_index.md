@@ -29,7 +29,10 @@ education:
 
 interests:
 - Cryptography
+- Quantum physics
+- Machine learning
 - Mathematical modeling
+
 
 social:
 
@@ -52,3 +55,11 @@ certificates:
   date: 2023-07-31T17:00:00-07:00
   issued: false
 ---
+I am currently a number theory master's student at the University of Lethbridge.
+I am working on the Frobenius primality test based on cubic polynomials, which
+is applied to cryptographic concepts. I got my first master's and bachelor's
+from the University of Tehran, which is the first-rank university in Iran.
+Mathematics was my first passion when I was 10 years old, and I have pursued it
+since then. I believe there is no boundary in mathematics, and we can broaden
+the science horizons and enbridge scientific fields by understanding the
+mathematics concepts.
