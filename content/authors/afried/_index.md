@@ -22,14 +22,9 @@ bio:
 
 interests:
 - Data Science
-- Machine Learning
-- Visualization
-- Search and Optimization
-- Evolutionary AI
 - Modeling and Simulation
-- Graph/Network Analysis
-- Text Mining
-- Algorithms, Math, Statistics
+- Energy Transition
+- Grid Optimization and Decarbonization
 
 education:
   courses:
