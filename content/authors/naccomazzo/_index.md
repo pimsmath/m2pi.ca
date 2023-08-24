@@ -14,35 +14,25 @@ role: Postdoctoral Fellow
 # Organization membership
 Organizations/Affiliations:
 organizations:
-- name: The University of British Columbia
-  url: https://www.math.ubc.ca/
+- name: Universidad de Buenos Aires
+  url: https://www.uba.ar/
 
 # A list of your interests, add as many as you want
 interests:
-- Harmonic Analysis
-- General Purpose Data Science
-- Scientific Machine Learning
-- Boardgames
+- Data Analysis
+- Data Science
 
 # Your educational history, add as many as you want
 education:
   courses:
   - course: PhD - Mathematics
-    institution: Universidad del País Vasco - Euskal Herriko Unibertsitatea
-  - course: Licenciatura - Mathematics
-    institution: Universidad de Buenos Aires
+    institution: University of the Basque Country
     
 # Social/Academic Networking, delete any items you don't want to use
 social:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/naccomazzo
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/natalia-accomazzo/
-- icon: globe
-  icon_pack: fas
-  link: https://sites.google.com/view/nataliaaccomazzo/natalia-accomazzo
 
 user_groups:
 - committee: members
