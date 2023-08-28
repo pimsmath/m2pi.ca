@@ -35,6 +35,12 @@ interests:
 
 
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/hiva-gheisari/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/GhHiva
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email:
