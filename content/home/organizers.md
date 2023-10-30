@@ -10,8 +10,8 @@ design:
 
 We are excited to announce an open call for individuals interested in joining
 the Organizing Committee for Math to Power Industry 2024 (M2PI2024). We are
-seeking enthusiastic and dedicated mathematicians, scientists, and industry
-professionals to help shape and drive this successful program.
+seeking enthusiastic and dedicated members of the PIMS Network to join the
+dedicated team which has made this event a success since 2020.
 
 
 ### What is Math to Power Industry?
