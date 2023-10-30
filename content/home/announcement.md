@@ -4,8 +4,8 @@ headless: true
 active: true
 weight: 1
 title: >-
-  The gala event will take place on Monday July 31st at 3pm MDT. Please
-  [register
-  here](https://ubc.zoom.us/meeting/register/u5YldOigqTstGtedoLrGj7Qqkq7WmY73AznE)
-  to attend.
+  **Open call for organizing committee members**: If you think you might be
+  interested in participating in M2PI 2024 as an organizer, please see the
+  [organizers](/#organizers) section for details and to get involved (deadline
+  **November 20th, 2023**)
 ---
