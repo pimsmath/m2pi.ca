@@ -9,6 +9,17 @@ subtitle: >-
   Explore the projects and reports from previous editions
 date_format: '2006'
 edition:
+  - title: Math<sup>Industry</sup> 2023
+    edition_url: /2023/
+    location: ''
+    date_start: '2023-07-10'
+    date_end: ''
+    description: >-
+      In July 2023 PIMS is holding a hybrid workshop called Math to Power
+      Industry(M2PI 2023). M2PI 2023 is green-themed! Workshop problems will
+      involve clean energy, clean tech, problems related to climate change and
+      other problems in the realm of climate resilience.
+  
   - title: Math<sup>Industry</sup> 2022
     edition_url: /2022/
     location: ''
