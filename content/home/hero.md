@@ -17,9 +17,10 @@ design:
 **June 4-24, 2024**
 
 In June 2024 PIMS is holding a hybrid workshop called Math to Power
-Industry(M2PI 2024). M2PI 2024 is green-themed! Workshop problems will involve
-clean energy, clean tech, problems related to climate change and other problems
-in the realm of climate resilience.
+Industry(M2PI 2024). This popular workshop pairs industry problems with
+mathematical talent and aims to benefit both the trainees participating in the
+program and the industrial partners. To learn more about how M2PI works, please
+read on, or see some of the [past editions](#editions).
 
 <div class="row">
 <div class="col">

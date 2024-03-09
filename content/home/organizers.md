@@ -28,15 +28,11 @@ emerging mathematicians and contribute to industry advancements.
 
 ### Leadership for Event Planning
 
-The planning for M2PI2024 will be led by [Kristine Bauer](/authors/bauerk/),
-Chair of the Organizing Committee, and [Carrie Ragan](/authors/ragan/), Program
-Administrator.  Together with past members of the organizing committee, they
-have produced an event organizing package which will provide the framework for
-the 2024 event. We are seeking input and expertise from new organizing committee
-members to implement this framework and continue to evolve this successful
-program. Past M2PI Organizing Committee members include [Allen
-Herman](/authors/hermana/) (Chair of the 2022 Committee), [Anthony
-Quas](/authors/aquas/), [Ruth Situma](/authors/rsituma/) and [Ian
+The planning for M2PI2024 will be led by [Kristine Bauer](/authors/bauerk/), and
+we are seeking input and expertise from new organizing committee members to
+continue to evolve this successful program. Past M2PI Organizing Committee
+members include [Allen Herman](/authors/hermana/) (Chair of the 2022 Committee),
+[Anthony Quas](/authors/aquas/), [Ruth Situma](/authors/rsituma/) and [Ian
 Allison](/authors/iana/).
 
 
@@ -69,9 +65,9 @@ If you are passionate about fostering connections between the emerging
 generation of mathematicians and industry professionals, eager to contribute
 your expertise, and excited about promoting the value of mathematics in solving
 real-world problems, we encourage you to apply to join the Organizing Committee.
-To express your interest, please email us at industry@pims.math.ca by **Monday,
-November 20** with your name, a brief statement of your background and interests,
-and how you would like to contribute to the Math to Power Industry 2024 event.
+To express your interest, please email us at industry@pims.math.ca with your
+name, a brief statement of your background and interests, and how you would like
+to contribute to the Math to Power Industry 2024 event.
 
 
 This is your chance to make a substantial impact on the mathematical community
