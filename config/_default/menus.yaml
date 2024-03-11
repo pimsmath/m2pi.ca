@@ -8,15 +8,6 @@ main:
   - name: Editions
     url: '#editions'
     weight: 30
-  - name: Courses
-    url: '#courses'
-    weight: 35
-  - name: Projects
-    url: '#projects'
-    weight: 40
-  - name: Schedule
-    url: '#schedule'
-    weight: 50
   - name: Contact
     url: '/#contact'
     weight: 80
