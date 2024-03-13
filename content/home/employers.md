@@ -27,12 +27,6 @@ a problem or showcase a job opportunity, please contact us by completing the
 * Efforts will be made to link organizations to talent during and beyond the
   workshop for the purpose of filling internship or permanent positions.
 
-We suggest that organizations provide a $1000 stipend for each of the four
-students on their team, similar to an intern salary.  This will help to recruit
-exceptional teams of students.  This is not a requirement for participating in
-M2PI, and there is no other cost for employer partners to participate in the
-program.
-
 The intended outcome is that partner organizations will have the opportunity to
 engage with highly skilled talent, while also receiving innovative solutions to
 the math challenge submitted to the workshop. You can see examples of successful
