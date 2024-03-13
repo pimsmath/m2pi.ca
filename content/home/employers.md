@@ -29,8 +29,11 @@ a problem or showcase a job opportunity, please contact us by completing the
 
 The intended outcome is that partner organizations will have the opportunity to
 engage with highly skilled talent, while also receiving innovative solutions to
-the math challenge submitted to the workshop. You can see examples of successful
-projects on the [2023 M2PI website](/2023/).
+the math challenge submitted to the workshop.  Mentors from your organization
+are encouraged to meet student participants face-to-face during a graduation
+event on June 25, 2024 in Calgary, AB.  There will also be an opportunity for
+all partner organizations to present job openings, internships, or other
+opportunities to students at this event.
 
 {{< button-dark
   url="#contact"

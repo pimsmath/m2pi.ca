@@ -18,10 +18,11 @@ asked to confirm their availability for full-time participation during June
     courses.
   * Following training, teams continue their work virtually and have access to a
     mentor.
-  * At the conclusion, there will be an in-person career fair at the University
-    of Calgary on June 25th. Students will receive a travel grant to attend this
-    event. Students will have the opportunity to meet employers, learn about
-    careers involving mathematics, and learn about internship or job openings.
+  * At the conclusion, there will be an in-person graduate event with a career
+    fair in Calgary on June 25th.  Students and postdoctoral fellows who have
+    been admitted to the M2PI program will receive a travel grant to attend this
+    event.  M2PI Fellows will have the opportunity to meet employers, learn
+    about careers involving mathematics, and learn about job opportunities.
 
 Following the workshop, your work will be showcased at a virtual graduation
 event. Here you will showcase your skills to a large audience including
