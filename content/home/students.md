@@ -10,23 +10,31 @@ design:
 M2PI is a full-time training and work-integrated learning opportunity for
 graduate students and post-doctoral fellows in the mathematical sciences.
 Undergraduate students are also eligible to apply. Successful applicants will be
-asked to confirm their availability for full-time participation during July 10 -
-28, 2023.
+asked to confirm their availability for full-time participation during June
+4-24, 2024
 
-  * During **July 10-14**, students will receive professional and technical skills
-training relevant to non-academic STEM careers through virtual courses.
-  * During **July 20-28**, teams continue their work virtually and have access to a
-mentor.
-  * There will be a virtual career fair where you will have the opportunity to meet
-employers, learn about careers involving mathematics, and learn about internship
-or job openings.
+  * In the first two weeks, students will receive professional and technical
+    skills training relevant to non-academic STEM careers through virtual
+    courses.
+  * Following training, teams continue their work virtually and have access to a
+    mentor.
+  * At the conclusion, there will be an in-person graduate event with a career
+    fair in Calgary on June 25th.  Students and postdoctoral fellows who have
+    been admitted to the M2PI program will receive a travel grant to attend this
+    event.  M2PI Fellows will have the opportunity to meet employers, learn
+    about careers involving mathematics, and learn about job opportunities.
 
 Following the workshop, your work will be showcased at a virtual graduation
-event on July 31. Here you will showcase your skills to a large audience
-including potential employers in both academic and non-academic fields. You can
-see examples of successful projects on the [2022 Math to Power Industry page](/2022).
+event. Here you will showcase your skills to a large audience including
+potential employers in both academic and non-academic fields. You can see
+examples of successful projects on the [2023 Math to Power Industry
+page](/2023).
+
+If you are interested in participating as a student, please complete the
+[Contact Form](#contact) below. And consider registering for the [M2PI Mailing
+List](http://eepurl.com/hF9Wnf)
 
 {{< button-dark
-  url="https://survey.ucalgary.ca/jfe/form/SV_5iD3NYJcs5TzZrg"
-  text="Apply now"
+  url="#contact"
+  text="Participate as an M2PI Student"
 >}}

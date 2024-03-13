@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-active: false
+active: true
 weight: 70
 design:
   columns: '1'

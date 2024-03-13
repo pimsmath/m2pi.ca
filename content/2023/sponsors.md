@@ -17,3 +17,5 @@ columns = "2"
     <a href="https://www.pims.math.ca" target="_blank"><img src="/media/pims-logo.png" alt="Pacific Institute for the Mathematical Sciences" /></a>
 </div>
 <div class="col-lg-2"></div>
+
+M2PI 2023 is part of the [2023 PIMS Action on Climate Thematic Summer (PIMS-ACTS)](https://www.pims.math.ca/pims-acts-2023).

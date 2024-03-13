@@ -3,7 +3,7 @@ widget: hero
 headless: true
 active: true
 weight: 10
-title: "<em>Math<sup>Industry</sup> 2024</em>"
+title: "<em>Math<sup>Industry</sup> 2023</em>"
 #cta:
 #  url: https://survey.ucalgary.ca/jfe/form/SV_41SJsq6pqN7gOzk
 #  label: Industry Partner Survey
@@ -14,13 +14,12 @@ design:
     text_color_light: true
 ---
 
-**June 4-24, 2024**
+**July 10-28, 2023**
 
-In June 2024 PIMS is holding a hybrid workshop called Math to Power
-Industry(M2PI 2024). This popular workshop pairs industry problems with
-mathematical talent and aims to benefit both the trainees participating in the
-program and the industrial partners. To learn more about how M2PI works, please
-read on, or see some of the [past editions](#editions).
+In July 2023 PIMS is holding a hybrid workshop called Math to Power
+Industry(M2PI 2023). M2PI 2023 is green-themed! Workshop problems will involve
+clean energy, clean tech, problems related to climate change and other problems
+in the realm of climate resilience.
 
 <div class="row">
 <div class="col">
