@@ -2,9 +2,6 @@ main:
   - name: Home
     url: '/#'
     weight: 10
-  - name: Team
-    url: '#people'
-    weight: 20
   - name: Editions
     url: '#editions'
     weight: 30

@@ -51,14 +51,14 @@ mentor or student participant, please complete this form.  </p>
 
 <form name="contact" method="POST" data-netlify="true">
   <div class="form-group">
-    <input type="text" class="form-control" id="contactName" aria-describedby="contactHelp" placeholder="Your name">
+    <input type="text" class="form-control" id="contactName" aria-describedby="contactHelp" name="name" placeholder="Your name">
   </div>
   <div class="form-group">
-    <input type="text" class="form-control" id="contactEmail" aria-describedby="contactHelp" placeholder="Your email">
+    <input type="text" class="form-control" id="contactEmail" aria-describedby="contactHelp" name="email" placeholder="Your email">
   </div>
   <div class="form-group">
     <label for="roleSelect">Reason you are getting in touch:</label>
-    <select class="form-control" id="roleSelect">
+    <select class="form-control" id="roleSelect" name="role">
       <option selected disabled>Choose...</option>
       <option>I have a question</option>
       <option>I'm interested in participating as an Industry Mentor</option>
@@ -67,8 +67,12 @@ mentor or student participant, please complete this form.  </p>
   </div>
   <div class="form-group">
     <label for="contactMessage">Message</label>
-    <textarea class="form-control" id="contactMessage" rows="3"></textarea>
+    <textarea class="form-control" id="contactMessage" name="message" rows="3"></textarea>
   </div>
+  <div class="d-none">
+    <label>Do not fill this field unless you are a bot: <input name="_gotcha"></label>
+  </div>
+  <div class="form-group" data-netlify-recaptcha="true"></div>
   <button type="submit" class="btn btn-primary">Send</button>
 </form>
 
