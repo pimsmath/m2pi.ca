@@ -1,16 +1,16 @@
 ---
 widget: portfolio
 headless: true
-active: false
-weight: 65
+active: true
+weight: 25
 title: ''
 subtitle: ''
 content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: '2023'
-      tag: '2023'
+    - name: '2024'
+      tag: '2024'
 design:
   columns: '1'
   view: 3
@@ -21,3 +21,4 @@ advanced:
   css_class: ''
 ---
 # Projects
+Information about projects for the 2024 edition will be added here soon.

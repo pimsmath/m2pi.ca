@@ -5,6 +5,9 @@ main:
   - name: Editions
     url: '#editions'
     weight: 30
+  - name: Projects
+    url: '#people'
+    weight: 40
   - name: Contact
     url: '/#contact'
     weight: 80

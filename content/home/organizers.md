@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 title: "**Open Call**: Organizing Committee for M2PI2024"
-active: true
+active: false
 weight: 34
 design:
   columns: '1'
