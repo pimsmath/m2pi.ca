@@ -10,12 +10,14 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Mathematics
+role: Professor of Mathematics, Director of Centre for Quantum Topology and its applications (quanTA)
 
 # Organizations/Affiliations
 organizations:
  - name: University of Saskatchewan
    url: "https://usask.ca"
+ - name: quanTA
+   url: "https://artsandscience.usask.ca/quanta/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: (`add a short bio in authors/carolinecolijn`)
@@ -51,11 +53,10 @@ email: "rayan@math.usask.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- committee: mentors
-  role: Academic Mentor
+- committee: organizing
 
 tags:
-  - '2023'
+  - '2024'
 ---
 Steven Rayan is a Professor and NSERC, NFRF, and CFI-supported researcher in the
 [Department of Mathematics & Statistics](https://math.usask.ca/) at the
