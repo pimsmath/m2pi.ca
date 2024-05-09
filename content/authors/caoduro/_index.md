@@ -72,8 +72,8 @@ Shepherd](https://bshepherd.ca/). My research focuses on the combinatorial
 properties of geometric objects, as well as linear and integer programming,
 graph theory, and discrete geometry.
 
-I recently completed my PhD studies at Université Grenoble Alpes, where I was
-supervised by [András Sebő](https://pagesperso.g-scop.grenoble-inp.fr/~seboa/)
-and [Matěj Stehlík](https://www.irif.fr/en/users/matej/index). During my time
-there, I developed a keen interest in exploring the mathematical structures of
-geometric intersection graphs, which has become a central theme in my research.
+I completed my PhD studies at Université Grenoble Alpes, where I was supervised
+by [András Sebő](https://pagesperso.g-scop.grenoble-inp.fr/~seboa/) and [Matěj
+Stehlík](https://www.irif.fr/en/users/matej/index). During my time there, I
+developed a keen interest in exploring the mathematical structures of geometric
+intersection graphs, which has become a central theme in my research.
