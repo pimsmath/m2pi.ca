@@ -23,6 +23,7 @@ organizations:
 # bio: (`add a short bio in authors/carolinecolijn`)
 
 interests:
+  - Quantum computing, quantum information, and quantum materials
   - Algebraic Geometry, topology and representation theory of moduli spaces
   - Geometric and Topological techniques in mathematical physics and quantum theory
 
