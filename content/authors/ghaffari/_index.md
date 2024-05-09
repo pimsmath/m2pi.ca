@@ -24,11 +24,9 @@ organizations:
 bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
 
 interests:
-- Magnetospheric Physics
-- Ionospheric Physics
-- Ionospheric chemistry modeling
-- Space Weather
-- Space Plasma Physics- 
+ - Space weather
+ - Geospace remote sensing
+ - Atmospheric modelling
 
 education:
   courses:
