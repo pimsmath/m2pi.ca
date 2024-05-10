@@ -25,12 +25,14 @@ bio: # James Colliander serves as the Director of the Pacific Institute for the 
 
 interests:
 - Clustering/Co-Clustering
-- Statistical/Machine Learning, Non-parametric statistics
+- Statistical/Machine Learning
+- Non-parametric statistics
 - Time series/Functional data
 
 education:
   courses:
-
+    - course: PhD. Mathematics/Statistics
+      institution: Université Paris-Saclay
 social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
