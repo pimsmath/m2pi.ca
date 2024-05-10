@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor of Mathematics, UCalgary
+role: Assistant Professor of Mathematics
 
 Organizations/Affiliations:
 organizations:
@@ -26,6 +26,7 @@ bio: # James Colliander serves as the Director of the Pacific Institute for the 
 interests:
 - Analysis of PDEs
 - Riemannian Geometry
+- Inverse Problems
 
 education:
   courses:
