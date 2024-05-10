@@ -1,7 +1,7 @@
 ---
 widget: people
 headless: true
-active: false
+active: true
 weight: 20
 year: '2024'
 default_committee: organizing
