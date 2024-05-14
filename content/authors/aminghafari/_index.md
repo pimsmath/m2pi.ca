@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor of Mathematics, UCalgary
+role: Associate Professor of Machine Learning
 
 Organizations/Affiliations:
 organizations:
