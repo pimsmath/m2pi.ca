@@ -46,7 +46,7 @@ email: kaheydon@ucalgary.ca
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: instructors
-  role: Workshops in communication skills Instructor
+  role: Communications Skills Instructor
 
 tags:
 - '2024'
