@@ -49,6 +49,6 @@ user_groups:
 tags:
 - '2022'
 - '2023'
-- '2024
+- '2024'
 ---
 Charlotte Anyango Ong'ang'a is a distinguished Author and Career Development Specialist with a deep passion for empowering individuals. Holding a Ph.D. in Linguistics and possessing over 15 years of experience at higher education institutions in Canada and abroad, Charlotte has established herself as a trusted expert in various domains. Her expertise spans a wide range of essential skills, including Resume and CV Writing, LinkedIn and Networking, Interview Techniques, Job Search Strategies, and Workplace Communication. Charlotte's extensive knowledge and experience enable her to provide invaluable guidance and support to graduate students at the University of Calgary.
