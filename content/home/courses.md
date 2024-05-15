@@ -1,7 +1,7 @@
 ---
 widget: portfolio
 headless: true
-active: false
+active: true
 weight: 65
 title:
 subtitle:
@@ -9,7 +9,7 @@ content:
   page_type: course
   filters:
     tags:
-      - '2023'
+      - '2024'
 design:
   columns: '1'
   view: 3

@@ -46,5 +46,6 @@ tags:
   - '2021'
   - '2022'
   - '2023'
+  - '2024'
 ---
 Alex Razoumov earned his PhD in computational astrophysics from the University of British Columbia and held postdoctoral positions in Urbana-Champaign, San Diego, Oak Ridge, and Halifax. He spent five years as HPC Analyst in SHARCNET and in 2014 moved back to Vancouver to focus on scientific visualization and training researchers to use advanced computing tools. Alex is currently at Simon Fraser University.
