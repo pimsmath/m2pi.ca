@@ -1,7 +1,7 @@
 ---
 widget: announcement
 headless: true
-active: true
+active: false
 weight: 1
 title: >-
   **Student applications now being accepted**: If you would like to participate
