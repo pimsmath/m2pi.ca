@@ -30,11 +30,12 @@ potential employers in both academic and non-academic fields. You can see
 examples of successful projects on the [2023 Math to Power Industry
 page](/2023).
 
-If you are interested in participating as a student, please complete the
-[application form](https://survey.ucalgary.ca/jfe/form/SV_0fh4quJ1SWU945E) And
-consider registering for the [M2PI Mailing List](http://eepurl.com/hF9Wnf)
+Applications for M2PI 2024 are now closed. We will be accepting applications for
+the 2025 edition at the beginning of 2025. If you are interested in
+participating in future editions as a student, please consider registering for
+the [M2PI Mailing List](http://eepurl.com/hF9Wnf)
 
 {{< button-dark
-  url="https://survey.ucalgary.ca/jfe/form/SV_0fh4quJ1SWU945E"
-  text="Participate as an M2PI Student"
+  url="http://eepurl.com/hF9Wnf"
+  text="Join the M2PI mailing list"
 >}}

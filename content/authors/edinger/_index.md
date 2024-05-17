@@ -24,7 +24,7 @@ interests:
   - Econometrics
   - Statistics
   - Data Analysis
-  - Quantative Analytics
+  - Quantitative Analytics
 
 education:
   courses:
