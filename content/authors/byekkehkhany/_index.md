@@ -1,47 +1,43 @@
 ---
 # Display name
-title: Reihaneh Ghaffari
-
-# Weight
-weight: 1
+title: Bahareh Yekkehkhany
 
 # Username (this should match the folder name)
 authors:
-- ghaffari
+- byekkehkhany
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Associate, UCalgary
+role: Applied Remote Sensing Scientist, Finite Carbon
 
 Organizations/Affiliations:
 organizations:
-- name: University of Calgary
-  url: "https://ucalgary.ca"
+- name: Finite Carbon
+  url: https://www.finitecarbon.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
+bio:
 
 interests:
- - Space weather
- - Geospace remote sensing
- - Atmospheric modelling
+- Machine Learning
+- LiDAR
 
 education:
   courses:
-  - course: PhD in Space Physics
+  - course: PhD, Geomatics Engineering
     institution: University of Calgary
+  - course: MS, Geomatics
+    institution: University of Tehran
+  - course: B.A. Geomatics Engineering
+    institution: University of Tehran
 
 social:
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "reihaneh.ghaffari@ucalgary.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- committee: organizing
 - committee: mentors
   role: Mentor
 
