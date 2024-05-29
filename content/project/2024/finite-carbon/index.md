@@ -5,7 +5,6 @@ summary: |
 authors:
   - jgolinkoff
   - byekkehkhany
-  - ghaffari
 tags:
   - '2024'
 
