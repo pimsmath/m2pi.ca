@@ -13,6 +13,8 @@ content:
       name: Organizing Committee
     - id: instructors
       name: Instructors
+    - id: mentors
+      name: Project Mentors
 design:
   show_social: false
   show_interests: true
