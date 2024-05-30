@@ -21,4 +21,3 @@ advanced:
   css_class: ''
 ---
 # Projects
-Information about projects for the 2024 edition will be added here soon.
