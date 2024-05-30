@@ -2,13 +2,18 @@
 title: "Nautical Crime Investigation Services - Problem 2"
 subtitle:
 summary: |
+  This project aims to develop a strategy for determining performance indicators
+  to compare different search engines for yielding high-quality results from web
+  scraping of incidents occuring at sea.
+
 authors:
   - sghattan
 tags:
   - '2024'
 
+weight: 9
 categories: []
-date: 2024-05-22T08:58:18-07:00
+date: 2024-05-22
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

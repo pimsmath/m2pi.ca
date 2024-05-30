@@ -2,13 +2,16 @@
 title: "Nautical Crime Investigation Services - Problem 3"
 subtitle:
 summary: |
+  This project aims to develop a strategy for leveraging large language models
+  (LLMs) to identify relevant search results for incidents occuring at sea from
+  web-scraped content, and to extract key information.
 authors:
   - sghattan
 tags:
   - '2024'
-
+weight: 10
 categories: []
-date: 2024-05-22T08:58:18-07:00
+date: 2024-05-22
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

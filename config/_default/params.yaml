@@ -36,7 +36,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
     enable: true
   privacy_pack:

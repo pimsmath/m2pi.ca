@@ -2,13 +2,20 @@
 title: "Awesense"
 subtitle: "Building a Platform for Digital Energy"
 summary: |
+  The aim of this project is to create an algorithm which identifies the areas
+  of the electrical grid which are most unbalanced (across electrical phases) in
+  order to identify places where load can be easily switched from one electrical
+  phase to another in order to improve and optimize balance.
+
 authors:
   - afried
 tags:
   - '2024'
 
 categories: []
-date: 2024-05-22T08:58:18-07:00
+date: 2024-05-22
+
+weight: 5
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

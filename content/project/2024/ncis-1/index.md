@@ -2,13 +2,17 @@
 title: "Nautical Crime Investigation Services - Problem 1"
 subtitle:
 summary: |
+  This project will use natural language processing to generate
+  search engine prompts for high-quality results for incidents at sea. Quality
+  indicators include relevance, diversity, soundness, and minimizing bias.
 authors:
   - sghattan
 tags:
   - '2024'
 
+weight: 8
 categories: []
-date: 2024-05-22T08:58:18-07:00
+date: 2024-05-22
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

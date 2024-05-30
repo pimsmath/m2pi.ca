@@ -4,22 +4,20 @@ subtitle: "Tracking Involvement of Parlimentary Members on issues of
 Environmental Protection and Sustainable Development"
 
 summary: |
-  This project will track and evaluate parliamentary members and their involvement
-  and activities on environment protection and sustainable development. It will
-  leverage public data with tools such as sentiment analysis to draw conclusions
-  on these topics. The evaluation will focused on data
-  from 2021 (or 2022, depending on availability) and we will start by looking at
-  the activities of the [members of Standing Committee on Environment and
-  Sustainable
-  Development](https://www.ourcommons.ca/Committees/en/ENVI/Members?includeAssociates=True#AssociateMembers).
-  
+  This project aims to use [feature
+  engineering](https://en.wikipedia.org/wiki/Feature_engineering) to help track
+  and evaluate parliamentary and legislative members. We will leverage public data
+  and attempt to engineer new features which may enhance engagement and/or
+  predictive and decision making analytics of legislative bodies.
+
 authors:
   - spat
 tags:
   - '2024'
 
+weight: 6
 categories: []
-date: 2024-05-22T16:58:18-07:00
+date: 2024-05-22
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -98,7 +96,7 @@ concerning elections (how many voted for the legislative player?), voting (what
 bills and their topics did a legislative player vote for/against) and financial
 data (what spending did the legislature approve and how is revenue generated?)
 may be made available – depending time available, which legislative leagues the
-P2MI team elects to study, and how they choose to analyse.
+M2PI team elects to study, and how they choose to analyse.
 
   * Finance data are available from
     [OECD](https://data.oecd.org/gga/general-government-spending.htm),
@@ -117,17 +115,3 @@ P2MI team elects to study, and how they choose to analyse.
 
   * [Voting data](https://www.ourcommons.ca/members/en/votes) for bills and motions may be available for certain legislatures.
 
-### References
-
-
-[^1]: https://statsbomb.com/soccer-metrics/expected-goals-xg-explained/
-[^2]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282295
-[^3]: https://en.wikipedia.org/wiki/Feature_engineering
-[^4]: https://en.wikipedia.org/wiki/Sabermetrics
-[^5]: https://data.oecd.org/gga/general-government-spending.htm
-[^6]: https://www150.statcan.gc.ca/n1/en/type/data
-[^7]: For example https://www2.gov.bc.ca/gov/content/data/statistics/economy/bc-economic-accounts-gdp
-[^8]: https://www.comparativeagendas.net/pages/master-codebook
-[^9]: https://www.tpsgc-pwgsc.gc.ca/recgen/pceaf-gwcoa/2324/tdm-toc-eng.html
-[^10]: https://www.oecd-ilibrary.org/sites/df28fbde-en/index.html?itemId=/content/component/df28fbde-en#:~:text=Governments'%20expenditures%20by%20function%20reveal,and%20public%20order%20and%20safety
-[^11]: Example: https://www.elections.ca/content.aspx?section=res&dir=rep/

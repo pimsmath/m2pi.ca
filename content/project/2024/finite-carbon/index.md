@@ -2,14 +2,20 @@
 title: "Finite Carbon"
 subtitle: "Building a Platform for Digital Energy"
 summary: |
+  This project aims to improve machine learning models for image classification
+  of areas affected by deforestation. It will involve techniques such
+  as feature engineering, binary classifier design and the use of 
+  evaulation metrics to design models which maximize precision while minimizing
+  false positives.
 authors:
   - jgolinkoff
   - byekkehkhany
 tags:
   - '2024'
 
+weight: 7
 categories: []
-date: 2024-05-22T08:58:18-07:00
+date: 2024-05-22
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
