@@ -1,16 +1,19 @@
 ---
 # Display name
-title: Lorena Solis
+title: Kendell Heydon
+
+# Weight
+weight: 1
 
 # Username (this should match the folder name)
 authors:
-- lsolis
+- kaheydon
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant, Individual and Team Performance Lab
+role: Instructor, Department of Classics and Religion
 
 Organizations/Affiliations:
 organizations:
@@ -18,35 +21,33 @@ organizations:
   url: "https://ucalgary.ca"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: |
+bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
 
 interests:
-- Industrial and Organizational Psychology
-- Team Dynamics
+- Cultural studies
+- Gender and sexuality studies
+- Spartan studies
 
 education:
   courses:
-  - course: Ph.D, Industrial and Organizational Psychology
+  - course: Ph.D. Classics
+    institution: University of Nottingham
+  - course: MA Greek and Roman Studies
     institution: University of Calgary
-  - course: M.A.
-    institution: City University of New York - Brooklyn College
-  - course: B.Sc
-    institution: State University of New York at Buffalo
+  - course: BA (Hons) First Class Honours Greek and Roman Studies
+    institution: University of Calgary
 
 social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: "lorena.solis@ucalgary.ca"
+email: kaheydon@ucalgary.ca
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: instructors
-  role: Ethics, Diversity and Inclusion Instructor
+  role: Communications Skills Instructor
 
 tags:
-- '2021'
-- '2022'
-- '2023'
 - '2024'
 ---
