@@ -57,12 +57,13 @@ state, and company for any vessel involved in the report. This information will
 be used to create comprehensive profiles of the reported vessels.
 
 ### Proposed Problem
-Note that this problem is independent of the other problem statements submitted
-by NCIS.
-
 This project aims to develop a strategy for determining performance indicators
 to compare different search engines for yielding high-quality results from web
 scraping.
+
+Note that this problem is independent of the other problem statements submitted
+by NCIS.
+
 
 #### Context for quality indicators
 For each assigned topic, NCIS will have 100+ search engine prompts to yield

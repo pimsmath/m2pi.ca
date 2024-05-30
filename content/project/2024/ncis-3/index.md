@@ -57,12 +57,12 @@ state, and company for any vessel involved in the report. This information will
 be used to create comprehensive profiles of the reported vessels.
 
 ### Proposed Problem
-Note that this problem is independent of the other problem statements submitted
-by NCIS.
-
 This project aims to develop a strategy for leveraging large language models
 (LLMs) to identify relevant incidents from web-scraped content and extract key
 information.
+
+_Note that this problem is independent of the other problem statements submitted
+by NCIS._
 
 #### Context for LLM utilization
 For a given topic, NCIS will have 100+ search engine prompts to yield relevant

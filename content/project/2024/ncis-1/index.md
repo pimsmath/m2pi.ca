@@ -60,6 +60,10 @@ This project aims to leverage natural language processing techniques to generate
 search engine prompts that yield high-quality results. Quality indicators
 include relevance, diversity, soundness, and minimizing bias.
 
+_Note that this problem is independent of the other problem statements
+submitted by NCIS._
+
+
 #### Context on web -scraping
 With our current algorithm, users can specify how many of the top n search
 results should be scraped when a prompt is entered into the search engine. Any
