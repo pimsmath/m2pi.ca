@@ -10,7 +10,8 @@ summary: |
 
 tags: ['2024']
 categories: []
-date: 2024-06-01T12:00:00-07:00
+date: 2024-06-06T09:00:00-07:00
+publishDate: 2024-05-03
 
 external_link: ""
 
