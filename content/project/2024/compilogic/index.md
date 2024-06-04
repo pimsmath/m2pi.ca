@@ -2,11 +2,9 @@
 title: "Complilogic"
 subtitle: Automated BC Building Codes Compliance
 summary: |
-  The intention for this problem is to develop a digital platform to assist
-  architects to develop designs that will comply with the BC Building Code.  In
-  later stages, same platform will be utilized by municipalities to verify
-  submitted designs comply with the building code. 
-
+  The goal of the Math to Power Industry Problem is to develop an algorithm that
+  will determine the construction requirements per Sub-section 3.2.2 of the BC
+  Building Code
 authors:
 tags:
   - '2024'
@@ -49,7 +47,7 @@ slides: ""
 final_report:
 
 ---
-## Problem Statement
+### Background
 The British Columbia Building Code (BCBC) is a provincial regulation that
 establishes minimum requirements for safety, health, accessibility, fire and
 structural protection of buildings and energy and water efficiency.  This code
@@ -67,60 +65,45 @@ Code a non-trivial problem.
 At CompliLogic, we are designing a digital platform to assist architects to
 develop designs that will comply with the BC Building Code.   In the future, the
 same platform will be utilized by municipalities to verify submitted designs
-comply with the building code.
+comply with the building code. 
 
 ### Goal
-The goal of the Math to Power Industry Problem is to investigate and incorporate
-mathematical models which can be used to prove that the performance of the
-submitted design can equally meet or exceed the objective and intention of the
-building code requirements.
-
-More specifically, the goal of this project will be to model human exiting
-behaviour and smoke travel time using fluid mechanic and finite element models.
-
-### Details
-In this project, we will focus on one feature of the digital platform:
-determining the required construction per Sub-section 3.2.2 of the [BC Building
+The goal of the Math to Power Industry Problem is to develop an algorithm that
+will determine the construction requirements per Sub-section 3.2.2 of the [BC
+Building
 Code](https://free.bcpublications.ca/civix/document/id/public/bcbc2018/bcbc_2018dbp3s32r2)
 
-The construction Articles 3.2.2.20 to 3.2.2.90 determine the basic construction
-requirements of any building.  There are 5 factors used to determine whether or
-not a building is compliant with the building code.  CompliLogic’s digital
-platform should receive these 5 factors from the user, and determine the
-required construction articles referenced in Subsection 3.2.2 of the building
-code.
-
-The 5 factors are "building grade", "building height", "building occupancy",
-"number of facing streets" and "occupancy". The platform is required to extract
-the required information about these factors from architectural drawings
-submitted by the user.
-
 ### Main Problem
+The construction requirements in Sub-section 3.2.2 are listed through
+Construction Articles 3.2.2.20 to 3.2.2.90.  There are 5 factors used to
+determine the Construction Articles. The 5 factors are "building grade",
+"building height", "number of facing streets", "building occupancy", and
+"Sprinkler".  Of the above factors, "building grade", "building height", and
+"number of facing streets" must be extracted from the architectural drawings
+while "building occupancy" and "Sprinkler" can be submitted by the user of the
+CompliLogic digital platform. CompliLogic’s digital platform will use the
+extracted information to determine the required construction article
+referenced in Subsection 3.2.2 of the building code.
 
-The intention is to develop alternative solutions for the situations where the
-design does not meet the prescriptive requirements of the code.
-
-If the architects do not prefer to build according to the prescriptive
-requirements of the building code, the code allows alternative solutions to be
-submitted. The Alternative solutions purpose is to prove the performance of the
-submitted design can equally meet or exceed the objective and intention of the
-building code requirements.
-
-The alternative solutions are required to be supported by mathematical models.
-For example, if the code requires a floor area to have two exit doors but the
-architect prefers to have 1 exit door, it may be possible to submit an
-alternative solution that will prove 1 exit door may be as safe as two exit
-doors given the specific shape and other features of the building. This can be
-achieved by modeling human exiting behaviour and smoke travel time using fluid
-mechanic and finite element models.
 
 ### Skillset
+
 The main skillset required for progress on this problem is some familiarity with
-mathematical modelling.  Specific experience with fluid mechanics and finite
-element models would be beneficial to solving this problem.
+reading architectural drawings, understanding building code and the referenced
+terminology.
+
+The program can be coded in any software program required for this type of
+problem and suited to extract the information from architectural drawing.
 
 The architectural drawings which are submitted by the user will be generated in
 Autocad, but these drawing can be changed to other formats (such as Adobe) as
 well.
 
+### Support
 No prior experience with architectural design or building codes will be assumed.
+If the participants don’t have any building science background, CompliLogic will
+be available to provide resources and assist.
+
+A successful project will consist of an algorithm and a set of visuals answering
+the questions posed above for the sandbox dataset, accompanied by any BI tool
+files or notebook code used to produce them.
