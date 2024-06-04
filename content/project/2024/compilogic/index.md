@@ -57,16 +57,22 @@ with the building code.
 
 ### Problem Statements
 We will focus on one feature of the platform which is determining the required
-construction Article per Sub-section 3.2.2 of the BC Building Code.
-bcbc_2018dbp3s32r2 (bcpublications.ca) The construction Articles 3.2.2.20 to
-3.2.2.90 determine the basic construction requirements of any building.  Main
-Problem: The platform should receive the 5 factors from the user and determine
-the required construction articles referenced in Subsection 3.2.2 of the
-building code.  The 5 factors are “building grade”, “building height”, “building
-occupancy”, “number of facing streets” and “occupancy”. The platform is required
+construction Article per Sub-section 3.2.2 of the [BC Building
+Code](https://free.bcpublications.ca/civix/document/id/public/bcbc2018/bcbc_2018dbp3s32r2).
+
+The construction Articles 3.2.2.20 to 3.2.2.90 determine the basic construction
+requirements of any building.
+
+### Main Problem
+
+The platform should receive the 5 factors from the user and determine the
+required construction articles referenced in Subsection 3.2.2 of the building
+code.  The 5 factors are "building grade", "building height", "building
+occupancy", "number of facing streets" and "occupancy". The platform is required
 to extract the above information from the submitted architectural drawings. The
 drawings will be generated in Autocad but can be changed to other formats such
 as Adobe as well. 
+
 
 ### Subcategory of the main problem (Alternative Solutions):
 
@@ -85,4 +91,4 @@ architect prefers to have 1 exit door, it may be possible to submit an
 alternative solution that will prove 1 exit door may be as safe as two exit
 doors given the specific shape and other features of the building. This can be
 achieved by modeling human exiting behaviour and smoke travel time using fluid
-mechanic and finite element models. 
+mechanics and finite element models. 
