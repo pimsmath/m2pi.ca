@@ -1,6 +1,5 @@
 ---
-title: "Git and GitHub"
-authors: 
+title: "Git and GitHub" authors: 
   - junling
 
 summary: |
@@ -79,3 +78,7 @@ Windows or MacOS users:
 You should also [Sign up for a free GitHub account](https://github.com/)
 When using git to push to GitHub you’ll need to authenticate to GitHub, one way
 to do this is by setting up [SSH keys for your account](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+
+### Resources
+  * [Slides](https://docs.google.com/presentation/d/1Hw78_EM1xLZ1L0ihl7ju_pryHzRyi1ErNyYGG3J-o3w/edit#slide=id.g2e1e561b3ed_0_114)
+
