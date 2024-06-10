@@ -1,5 +1,6 @@
 ---
-title: "Git and GitHub" authors: 
+title: "Git and GitHub"
+authors: 
   - junling
 
 summary: |
