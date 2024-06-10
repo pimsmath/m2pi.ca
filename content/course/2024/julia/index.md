@@ -57,3 +57,6 @@ will start with a quick review of Julia’s multi-threading features but will
 focus primarily on Distributed standard library and its large array of tools. We
 will demo parallelization using two problems: a slowly converging series and a
 Julia set. We will run examples on a multi-core laptop and an HPC cluster.
+
+The lecture notes for this course are available on [Alex's
+website](https://wgpages.netlify.app/julia/)
