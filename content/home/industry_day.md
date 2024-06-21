@@ -2,16 +2,16 @@
 widget: blank
 headless: true
 active: true
-weight: 9 
+weight: 11
 title: "<em>PIMS Industry Day</em>"
 #cta:
 #  url: https://survey.ucalgary.ca/jfe/form/SV_41SJsq6pqN7gOzk
 #  label: Industry Partner Survey
-design:
-  background:
-    gradient_start: '#005cb9'
-    gradient_end: '#005cb9'
-    text_color_light: true
+#design:
+#  background:
+#    gradient_start: '#005cb9'
+#    gradient_end: '#005cb9'
+#    text_color_light: true
 ---
 
 On **June 25, 2024** PIMS will host its first [PIMS Industry

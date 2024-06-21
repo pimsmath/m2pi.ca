@@ -7,11 +7,11 @@ title: "<em>Math<sup>Industry</sup> 2024</em>"
 #cta:
 #  url: https://survey.ucalgary.ca/jfe/form/SV_41SJsq6pqN7gOzk
 #  label: Industry Partner Survey
-# design:
-#   background:
-#     gradient_start: '#005cb9'
-#     gradient_end: '#005cb9'
-#     text_color_light: true
+design:
+  background:
+    gradient_start: '#005cb9'
+    gradient_end: '#005cb9'
+    text_color_light: true
 ---
 
 **June 4-24, 2024**

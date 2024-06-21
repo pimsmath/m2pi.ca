@@ -1,7 +1,7 @@
 ---
 widget: announcement
 headless: true
-active: false
+active: true
 weight: 1
 title: >-
   **On June 25, 2024 PIMS will host its first [PIMS Industry
