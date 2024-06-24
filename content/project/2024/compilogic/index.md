@@ -6,6 +6,10 @@ summary: |
   will determine the construction requirements per Sub-section 3.2.2 of the BC
   Building Code
 authors:
+ - mlewis
+ - awright
+ - akuperus
+ - kmirzaei
 tags:
   - '2024'
 

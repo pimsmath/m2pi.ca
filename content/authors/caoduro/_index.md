@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow in Combinatorial Optimization
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -21,18 +21,18 @@ organizations:
 # bio: (`add a short bio in authors/carolinecolijn`)
 
 interests:
-  - Combinatorial properties of geometric objects
   - Linear and integer programming
-  - Graph theory
+  - Discrete Optimization
   - Discrete Geometry
+  - Graph Theory
 
 education:
   courses:
-  - course: Ph.D in Combinatorial Optimization
-    institution: University of Grenoble Alpes, France
-  - course: M.Sc in Mathematics
+  - course: Ph.D in Computer Science
+    institution: Université Grenoble Alpes
+  - course: Master's Degree in Mathematics
     institution: Università Degli Studi di Verona
-  - course: B.Sc in Applied Mathematics
+  - course: Bachelor's Degree in Applied Mathematics
     institution: Università Degli Studi di Verona
 
 # Social/Academic Networking
@@ -59,6 +59,7 @@ email: "marco.caoduro@ubc.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: organizing
+- committee: members
 
 tags:
 - '2024'
@@ -66,14 +67,8 @@ tags:
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-I'm currently a postdoctoral fellow at UBC Sauder, working under the guidance of
-[Joseph Paat](https://sites.google.com/site/josephspaat/) and [Bruce
-Shepherd](https://bshepherd.ca/). My research focuses on the combinatorial
-properties of geometric objects, as well as linear and integer programming,
-graph theory, and discrete geometry.
-
-I completed my PhD studies at Université Grenoble Alpes, where I was supervised
-by [András Sebő](https://pagesperso.g-scop.grenoble-inp.fr/~seboa/) and [Matěj
-Stehlík](https://www.irif.fr/en/users/matej/index). During my time there, I
-developed a keen interest in exploring the mathematical structures of geometric
-intersection graphs, which has become a central theme in my research.
+I am a postdoctoral fellow at UBC, with a joint appointment at the Sauder School
+of Business and the Department of Computer Science. I completed my PhD at
+Université Grenoble Alpes under the supervision of András Sebő, where I
+developed a deep interest in discrete geometry and integer programming—central
+themes in my research.

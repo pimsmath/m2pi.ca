@@ -9,6 +9,9 @@ summary: |
 
 authors:
   - afried
+  - belazar
+  - eau
+  - caoduro
 tags:
   - '2024'
 
