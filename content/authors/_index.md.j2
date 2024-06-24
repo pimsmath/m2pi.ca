@@ -1,0 +1,63 @@
+---
+# Display name
+title: {{ name }}
+
+# Username (this should match the folder name)
+authors:
+- {{ username }}
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: {{ role }}
+
+Organizations/Affiliations:
+organizations:
+- name: {{ affiliation }}
+  url: {{ affiliation_url }}
+
+education:
+  courses:
+  {% for course in courses -%}
+  - course: {{ course.name }}
+    institution: {{ course.institution }}
+  {% endfor %}
+
+
+interests:
+  {% for interest in interests -%}
+  - {{ interest }}
+  {% endfor %}
+
+social:
+  {% for social in socials -%}
+  - icon: {{ social.icon }}
+    icon_pack: {{ social.icon_pack }}
+    link: {{ social.link }}
+  {% endfor %} 
+
+user_groups:
+- committee: members
+  role: {{ project_name }}
+
+tags:
+- '2024'
+
+outputs:
+- html
+{% if certificate -%}
+- cert
+{% endif %}
+
+{% if certificate %}
+certificates:
+- file: {{ cert.pdf }}
+  img: {{ cert.png }}
+  title: {{ m2pi_edition }}
+  date: {{ date }}
+  issued: {{ cert.issued }}
+{% endif %}
+---
+
+{{ bio }}
