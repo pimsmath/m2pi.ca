@@ -4,11 +4,13 @@ headless: true
 active: true
 weight: 20
 year: '2024'
-default_committee: instructors
+default_committee: members
 title: Meet the Teams
 subtitle: ''
 content:
   user_groups:
+    - id: members
+      name: Project Members
     - id: organizing
       name: Organizing Committee
     - id: instructors

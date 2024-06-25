@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Founder, IOTO International
+role: Founder & CEO, IOTO International
 
 Organizations/Affiliations:
 organizations:
@@ -21,6 +21,9 @@ organizations:
 bio:
 
 interests:
+  - Data Science
+  - Sports Analytics
+  - Politics
 
 education:
   courses:

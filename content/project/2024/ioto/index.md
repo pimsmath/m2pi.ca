@@ -12,6 +12,8 @@ summary: |
 
 authors:
   - spat
+  - csong
+  - amane
 tags:
   - '2024'
 

@@ -7,6 +7,10 @@ summary: |
   web-scraped content, and to extract key information.
 authors:
   - sghattan
+  - makbari
+  - fhasheminejad
+  - jhe
+  - cdjuikem
 tags:
   - '2024'
 weight: 10
