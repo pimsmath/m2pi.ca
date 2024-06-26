@@ -14,8 +14,8 @@ role: PhD student
 
 Organizations/Affiliations:
 organizations:
-- name: University of Victoria
-  url: https://uvic.ca
+- name: University of Ottawa
+  url: https://uottawa.ca
 
 education:
   courses:
