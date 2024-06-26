@@ -7,6 +7,7 @@ summary: |
   indicators include relevance, diversity, soundness, and minimizing bias.
 authors:
   - sghattan
+  - jkendrick
 tags:
   - '2024'
 

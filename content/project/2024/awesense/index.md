@@ -12,6 +12,7 @@ authors:
   - belazar
   - eau
   - caoduro
+  - snaqvi
 tags:
   - '2024'
 
