@@ -4,11 +4,9 @@ headless: true
 active: true
 weight: 1
 title: >-
-  **On June 25, 2024 PIMS will host its first [PIMS Industry
-  Day](https://pims.math.ca/events/240625-pid). PIMS Industry
-  Day will bring together top students and postdoctoral fellows and industry
-  professionals. This event is the culmination of the Math to Power Industry
-  Workshop (M2PI), and is also an opportunity to celebrate the accomplishments
-  of the M2PI teams. [Register
-  here](https://pims.math.ca/events/240625-pid)**
+  Thank you to everyone involved in the 2024 edition of Math to Power
+  Industry. The 2025 edition will take place **May 5 - 23, 2025**. If you are
+  interested in participating, either as a [mentor](#employers) or a
+  [student](#students), please [contact us](/#contact) or join the [M2PI Mailing
+  List](http://eepurl.com/hF9Wnf) for the latest information.
 ---
