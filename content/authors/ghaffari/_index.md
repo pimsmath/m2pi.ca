@@ -46,8 +46,6 @@ email: "reihaneh.ghaffari@ucalgary.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: organizing
-- committee: mentors
-  role: Mentor
 - committee: members
   role:
 #highlight_name: true
