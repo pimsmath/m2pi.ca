@@ -8,6 +8,8 @@ summary: |
 authors:
   - sghattan
   - jkendrick
+  - gfarzanfard
+  - ymousaaid
 tags:
   - '2024'
 

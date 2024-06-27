@@ -45,7 +45,6 @@ social:
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

@@ -10,7 +10,7 @@ authors:
   - makbari
   - fhasheminejad
   - jhe
-  - cdjuikem
+  - mamin
 tags:
   - '2024'
 weight: 10
