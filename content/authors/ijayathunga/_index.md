@@ -36,7 +36,7 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/masoomeh-akbari-659406201/?originalSubdomain=ca
+    link: https://www.linkedin.com/in/irushi-jayathunga-b4181b1b0
   - icon: github
     icon_pack: fab
     link: https://github.com/Irushi12
