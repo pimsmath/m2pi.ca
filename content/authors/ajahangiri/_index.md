@@ -34,7 +34,7 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/arman-jahangiri
+    link: https://www.linkedin.com/in/arman-jahangiri
    
 
 user_groups:
