@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-active: true
+active: false
 weight: 11
 title: "<em>PIMS Industry Day</em>"
 #cta:
