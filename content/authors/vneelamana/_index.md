@@ -14,8 +14,8 @@ role: Graduate student
 
 Organizations/Affiliations:
 organizations:
-- name: University of Alberta
-  url: https://ualberta.ca
+- name: University of Regina
+  url: https://uregina.ca
 
 education:
   courses:
@@ -38,18 +38,17 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/varun-neelamana-03b746240/
+    link: 'https://www.linkedin.com/in/varun-neelamana-03b746240/'
   - icon: github
     icon_pack: fab
-    link: https://github.com/varunneelamana
+    link: 'https://github.com/varunneelamana'
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Varun-Neelamana
+    link: 'https://www.researchgate.net/profile/Varun-Neelamana'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'
@@ -61,4 +60,4 @@ outputs:
 
 ---
 
-I finished my Ph.D in physics from University of Regina in June 2024.  I worked in GlueX experiment at Jefferson Lab in U.S.A. My research interests include experimental nuclear and particle physics, detector development, data science and machine learning. 
+I finished my Ph.D in physics from University of Regina in June 2024.  I worked in GlueX experiment at Jefferson Lab in U.S.A. My research interests include experimental nuclear and particle physics, detector development, data science and machine learning.

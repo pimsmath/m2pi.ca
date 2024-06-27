@@ -34,15 +34,14 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/canzhu-song-3a21852aa/?originalSubdomain=ca
+    link: 'https://www.linkedin.com/in/akina-kuperus-a597bb293/'
   - icon: github
     icon_pack: fab
-    link: https://github.com/akinakuperus
+    link: 'https://github.com/akinakuperus'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

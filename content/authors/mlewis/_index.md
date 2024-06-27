@@ -35,12 +35,11 @@ interests:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/mdblewis
+    link: 'https://github.com/mdblewis'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

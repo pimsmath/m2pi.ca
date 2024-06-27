@@ -35,15 +35,14 @@ interests:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/B-A-Zambrano-Luna
+    link: 'https://github.com/B-A-Zambrano-Luna'
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/B-A-Zambrano-Luna
+    link: 'https://www.researchgate.net/profile/B-A-Zambrano-Luna'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

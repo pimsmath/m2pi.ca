@@ -34,12 +34,11 @@ social:
   {% for social in socials -%}
   - icon: {{ social.icon }}
     icon_pack: {{ social.icon_pack }}
-    link: {{ social.link }}
+    link: '{{ social.link }}'
   {% endfor %} 
 
 user_groups:
 - committee: members
-  role: {{ project_name }}
 
 tags:
 - '2024'

@@ -26,22 +26,21 @@ education:
 
 interests:
   - Data Science
-  - Deep Learning 
+  - Deep Learning
   - Healthcare Technology
   
 
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/jialin-he-5123842b4/
+    link: 'https://www.linkedin.com/in/jialin-he-5123842b4/'
   - icon: github
     icon_pack: fab
-    link: https://github.com/wertherHe
+    link: 'https://github.com/wertherHe'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

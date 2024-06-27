@@ -14,8 +14,8 @@ role: PhD Student
 
 Organizations/Affiliations:
 organizations:
-- name: University of Alberta
-  url: https://ualberta.ca
+- name: University of Washington
+  url: https://uw.edu
 
 education:
   courses:
@@ -35,15 +35,14 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/jack-kendrick-5258b1171/
+    link: 'https://www.linkedin.com/in/jack-kendrick-5258b1171/'
   - icon: github
     icon_pack: fab
-    link: https://github.com/j4ck-k
+    link: 'https://github.com/j4ck-k'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

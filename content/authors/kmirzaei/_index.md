@@ -20,7 +20,7 @@ organizations:
 education:
   courses:
   - course: PhD in mathematics
-    institution: University of Calgary 
+    institution: University of Calgary
   - course: Master’s in mathematics
     institution: Sharif University of Technology
   - course: Bachelor’s in mathematics
@@ -38,15 +38,14 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/k1-mirzaei
+    link: 'https://www.linkedin.com/in/k1-mirzaei'
   - icon: github
     icon_pack: fab
-    link: https://github.com/keivan-mirzaei
+    link: 'https://github.com/keivan-mirzaei'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

@@ -36,15 +36,14 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/aniket-c-mane/
+    link: 'https://www.linkedin.com/in/aniket-c-mane/'
   - icon: github
     icon_pack: fab
-    link: https://github.com/acme92
+    link: 'https://github.com/acme92'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

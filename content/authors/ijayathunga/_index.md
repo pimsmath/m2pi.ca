@@ -19,14 +19,14 @@ organizations:
 
 education:
   courses:
-  - course: B. Sc. (Hons) in Mathematics 
+  - course: B. Sc. (Hons) in Mathematics
     institution: University of Kelaniya, Sri Lanka
   
 
 
 interests:
   - Numerical Methods for PDE
-  - Numerical Methods 
+  - Numerical Methods
   - Numerical Analysis
   - Mathematical Modeling
   - Data Science
@@ -36,15 +36,14 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/irushi-jayathunga-b4181b1b0
+    link: 'https://www.linkedin.com/in/irushi-jayathunga-b4181b1b0'
   - icon: github
     icon_pack: fab
-    link: https://github.com/Irushi12
+    link: 'https://github.com/Irushi12'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

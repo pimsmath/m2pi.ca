@@ -37,10 +37,10 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/nazanin-hasheminejad/
+    link: 'https://www.linkedin.com/in/nazanin-hasheminejad/'
   - icon: github
     icon_pack: fab
-    link: https://github.com/Nazanin-Hasheminejad/
+    link: 'https://github.com/Nazanin-Hasheminejad/'
    
 
 user_groups:

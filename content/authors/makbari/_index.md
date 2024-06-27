@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student 
+role: PhD student
 
 Organizations/Affiliations:
 organizations:
@@ -20,28 +20,27 @@ organizations:
 education:
   courses:
   - course: M.Sc.
-    institution: University of Ottawa 
+    institution: University of Ottawa
   - course: B.Sc.
-    institution: Isfahan University of Technology 
+    institution: Isfahan University of Technology
   
 
 
 interests:
   - Discrete Mathematics
   - Graph Theory
-  - Machine Learning 
+  - Machine Learning
   - Data-Science
   
 
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/masoomeh-akbari-659406201/?originalSubdomain=ca
+    link: 'https://www.linkedin.com/in/masoomeh-akbari-659406201/?originalSubdomain=ca'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

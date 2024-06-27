@@ -31,12 +31,11 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/canzhu-song-3a21852aa/?originalSubdomain=ca
+    link: 'https://www.linkedin.com/in/canzhu-song-3a21852aa/?originalSubdomain=ca'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

@@ -14,8 +14,8 @@ role: Former Post Doctoral Fellow at UBC
 
 Organizations/Affiliations:
 organizations:
-- name: University of Alberta
-  url: https://ualberta.ca
+- name: 
+  url: 
 
 education:
   courses:
@@ -33,15 +33,14 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/boaz-elazar-779196190/
+    link: 'https://www.linkedin.com/in/boaz-elazar-779196190/'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=6Qa65kgAAAAJ
+    link: 'https://scholar.google.com/citations?hl=en&user=6Qa65kgAAAAJ'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

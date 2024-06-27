@@ -34,15 +34,14 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/ashna-wright-54a058139/
+    link: 'https://www.linkedin.com/in/ashna-wright-54a058139/'
   - icon: github
     icon_pack: fab
-    link: https://github.com/ashnawright
+    link: 'https://github.com/ashnawright'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'
@@ -54,4 +53,4 @@ outputs:
 
 ---
 
-Ashna Wright is a recent graduate of University of Victoria, having completed her M.Sc. at the University of Victoria in June 2024. Her research focused on extremal combinatorics. She is interesting in the applications of mathematical concepts to real world problems. 
+Ashna Wright is a recent graduate of University of Victoria, having completed her M.Sc. at the University of Victoria in June 2024. Her research focused on extremal combinatorics. She is interesting in the applications of mathematical concepts to real world problems.

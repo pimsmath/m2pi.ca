@@ -35,15 +35,14 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/emily-au-535084229/
+    link: 'https://www.linkedin.com/in/emily-au-535084229/'
   - icon: github
     icon_pack: fab
-    link: https://github.com/hea0516
+    link: 'https://github.com/hea0516'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'

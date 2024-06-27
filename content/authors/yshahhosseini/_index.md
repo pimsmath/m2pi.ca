@@ -14,20 +14,20 @@ role: Graduate Student
 
 Organizations/Affiliations:
 organizations:
-- name: University of Alberta
-  url: https://ualberta.ca
+- name: University of Victoria
+  url: https://uvic.ca
 
 education:
   courses:
   - course: PhD in statistics
-    institution: University of Victoria 
+    institution: University of Victoria
   - course: Master in Industrial Engineering
     institution: Sharif University of Technology
   
 
 
 interests:
-  - Bayesian Statistics 
+  - Bayesian Statistics
   - MCMC algorithms
   - Linear Regression
   - Spatiotemporal data
@@ -37,12 +37,11 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yasaman-shahhosseini/
+    link: 'https://www.linkedin.com/in/yasaman-shahhosseini/'
    
 
 user_groups:
 - committee: members
-  role: 
 
 tags:
 - '2024'
