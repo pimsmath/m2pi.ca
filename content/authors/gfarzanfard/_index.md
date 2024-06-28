@@ -47,6 +47,7 @@ tags:
 
 outputs:
 - html
+- cert
 
 certificates:
 - file: './cert2023.pdf'
