@@ -52,6 +52,18 @@ user_groups:
 
 tags:
 - '2024'
+outputs:
+- html
+- cert
+
+certificates:
+- file: './cert2024.pdf'
+  img: './cert2024.png'
+  title: 'M2PI2024'
+  date: 2024-07-02T17:00:00-08:00
+  issued: true
+
+
 ---
 Doctoral degree (Ph.D.) in Space Physics specializing in geospace physics- a
 complex and highly dynamic environment with no direct access- by processing and

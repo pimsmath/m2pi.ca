@@ -65,6 +65,19 @@ tags:
 - '2024'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+
+outputs:
+- html
+- cert
+
+certificates:
+- file: './cert2024.pdf'
+  img: './cert2024.png'
+  title: 'M2PI2024'
+  date: 2024-07-02T17:00:00-08:00
+  issued: true
+
+
 ---
 
 I am a postdoctoral fellow at UBC, with a joint appointment at the Sauder School

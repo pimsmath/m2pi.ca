@@ -14,6 +14,7 @@ authors:
   - bluna
   - ajahangiri
   - iasamoah
+  - pcoulibaly
 tags:
   - '2024'
 
