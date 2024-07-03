@@ -50,11 +50,15 @@ outputs:
 - cert
 
 certificates:
- - file: './cert2023.pdf'
-   title: 'M2PI 2023'
-   img: './cert2023.png'
-   date: 2023-07-31T17:00:00-08:00
-   issued: true
-
+- file: './cert2024.pdf'
+  img: './cert2024.png'
+  title: 'M2PI2024'
+  date: 2024-07-02T17:00:00-08:00
+  issued: true
+- file: './cert2023.pdf'
+  title: 'M2PI2023'
+  img: './cert2023.png'
+  date: 2023-07-31T17:00:00-08:00
+  issued: true
 ---
 PhD student at the department of physics and astronomy, University of Lethbridge.

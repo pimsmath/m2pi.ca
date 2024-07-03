@@ -53,12 +53,16 @@ outputs:
 - cert
 
 certificates:
+- file: './cert2024.pdf'
+  img: './cert2024.png'
+  title: 'M2PI2024'
+  date: 2024-07-02T17:00:00-08:00
+  issued: true
 - file: './cert2023.pdf'
   img: './cert2023.png'
   title: 'M2PI2023'
   date: 2023-07-31T17:00:00-08:00
   issued: true
-
 ---
 Youssef received, in 2022, a PhD in mathematics from the University of Ottawa.
 He is currently a postdoctoral researcher at the Perimeter Institute doing

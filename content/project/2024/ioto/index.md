@@ -15,6 +15,8 @@ authors:
   - csong
   - amane
   - ghaffari
+  - syadegarzadeh
+  - hghadjari
 tags:
   - '2024'
 

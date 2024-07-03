@@ -55,6 +55,11 @@ tags:
 - '2024'
 
 certificates:
+- file: './cert2024.pdf'
+  img: './cert2024.png'
+  title: 'M2PI2024'
+  date: 2024-07-02T17:00:00-07:00
+  issued: true
 - file: './cert2023.pdf'
   img: './cert2023.png'
   title: 'M2PI2023'
@@ -64,6 +69,7 @@ certificates:
 outputs:
 - html
 - cert
+
 ---
 I am currently a number theory master's student at the University of Lethbridge.
 I am working on the Frobenius primality test based on cubic polynomials, which
