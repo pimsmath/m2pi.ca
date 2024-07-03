@@ -1,6 +1,9 @@
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import pandas as pd
+import segno
+
+YEAR = 2024
 
 env = Environment(
     loader=FileSystemLoader("."),
@@ -115,8 +118,18 @@ for index, user in fellows.iterrows():
         'interests': interests,
         'socials': socials,
         'bio': user['bio'] if pd.notna(user['bio']) else '',
+        'cert': {
+            'file': f"./{YEAR}/cert.pdf",
+            'img': f"./{YEAR}/cert.png",
+            'title': f"M2PI{YEAR}",
+            'date': '2024-06-26T10:00:00-07:00',
+            'issued': 'true',
+        },
     }
 
     with open(f"{context['username']}_index.md", 'w', encoding='utf-8') as f:
         f.write(user_template.render(context))
 
+    cert_url = f"https://m2pi.ca/authors/{context['username']}/cert"
+    qr = segno.make(cert_url)
+    qr.save(f"{context['username']}_qr.png", scale=10, border=4)
