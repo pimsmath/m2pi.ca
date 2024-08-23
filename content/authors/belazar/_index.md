@@ -61,6 +61,6 @@ certificates:
 
 ---
 
-Boaz was a Post Doctoral Fellow in the Mathematics department at UBC.
-He has some background as a Data Scientist and as a DeFi Quantitative Researcher.
-He resides in Vancouver.
+I completed a postdoctoral fellowship at the Mathematics department of UBC,
+focusing on real algebraic geometry. I’ve also worked as a data scientist in
+both a rapidly growing startup and a large public sector organization.
