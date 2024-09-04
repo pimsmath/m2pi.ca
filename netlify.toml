@@ -28,3 +28,11 @@
 [[ redirects ]]
   from = "/2022"
   to   = "/"
+
+[[ redirects ]]
+  from = "/authors/rghaffari/cert"
+  to = "/authors/ghaffari/cert"
+
+[[ redirects ]]
+  from = "/authors/mcaoduro/cert"
+  to = "/authors/caoduro/cert"
