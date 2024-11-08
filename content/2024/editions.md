@@ -9,18 +9,6 @@ subtitle: >-
   Explore the projects and reports from previous editions
 date_format: '2006'
 edition:
-  - title: Math<sup>Industry</sup> 2024
-    edition_url: /2024/
-    location: ''
-    date_start: '2024-06-10'
-    date_end: ''
-    description: >-
-      In June 2024 PIMS is holding a hybrid workshop called Math to Power
-      Industry(M2PI 2024). This popular workshop pairs industry problems with
-      mathematical talent and aims to benefit both the trainees participating in
-      the program and the industrial partners. To learn more about how M2PI
-      works, please read on.
-  
   - title: Math<sup>Industry</sup> 2023
     edition_url: /2023/
     location: ''

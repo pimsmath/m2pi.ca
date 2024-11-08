@@ -53,6 +53,7 @@ tags:
   - '2022'
   - '2023'
   - '2024'
+  - '2025'
 ---
 Ian is the Technology Manager at the Pacific Institute for the Mathematical
 Sciences, where he is responsible for the technical and computing aspects of the
