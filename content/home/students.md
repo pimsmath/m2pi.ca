@@ -10,8 +10,9 @@ design:
 M2PI is a full-time training and work-integrated learning opportunity for
 graduate students and post-doctoral fellows in the mathematical sciences
 (undergraduate students are also eligible to apply). Successful applicants will
-be asked to commit to full-time participation during **May 5-23, 2025**. The
-M2PI program consists of...
+be asked to commit to full-time participation during **May 5-23, 2025**, during
+which time they will participate in training and work in groups on their
+industry problems.
 
   * In the first two weeks, students will receive professional and technical
     skills training relevant to non-academic STEM careers through virtual
