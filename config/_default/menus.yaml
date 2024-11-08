@@ -2,21 +2,21 @@ main:
   - name: Home
     url: '/#'
     weight: 10
-  - name: Editions
-    url: '#editions'
+  - name: Students
+    url: '#students'
     weight: 30
-  - name: People
-    url: '#people'
+  - name: Employers
+    url: '#employers'
     weight: 40
   - name: Stories
     url: '#posts'
-    weight: 45
-  - name: Students
-    url: '/#students'
     weight: 50
-  - name: Employers
-    url: '/#employers'
+  - name: People
+    url: '#people'
     weight: 60
+  - name: Editions
+    url: '#editions'
+    weight: 70
   - name: Contact
     url: '/#contact'
     weight: 80
