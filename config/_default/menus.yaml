@@ -2,18 +2,18 @@ main:
   - name: Home
     url: '/#'
     weight: 10
-  - name: Editions
-    url: '#editions'
-    weight: 30
+  - name: Students
+    url: '#students'
+    weight: 50
+  - name: Employers
+    url: '#employers'
+    weight: 60
   - name: People
     url: '#people'
-    weight: 40
-  - name: Projects
-    url: '#projects'
-    weight: 50
-  - name: Courses
-    url: '#courses'
-    weight: 60
+    weight: 70
+  - name: Editions
+    url: '#editions'
+    weight: 75
   - name: Contact
     url: '/#contact'
     weight: 80
