@@ -8,11 +8,14 @@ main:
   - name: People
     url: '#people'
     weight: 40
-  - name: Projects
-    url: '#projects'
+  - name: Stories
+    url: '#posts'
+    weight: 45
+  - name: Students
+    url: '/#students'
     weight: 50
-  - name: Courses
-    url: '#courses'
+  - name: Employers
+    url: '/#employers'
     weight: 60
   - name: Contact
     url: '/#contact'
