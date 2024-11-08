@@ -20,7 +20,7 @@ In May 2025 PIMS is holding a hybrid workshop called Math to Power
 Industry(M2PI 2025). This popular workshop pairs industry problems with
 mathematical talent and aims to benefit both the trainees participating in the
 program and the industrial partners. To learn more about how M2PI works, please
-read on, or see some of the [past editions](#editions).
+read on, or see some examples from [past editions](#editions).
 
 <div class="row">
 <div class="col">
