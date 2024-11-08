@@ -28,7 +28,7 @@ industry mentor.
     opportunity to network with employers, explore careers that leverage
     mathematical skills, and learn about available job opportunities.
 
-Following the workshop, participants work will be showcased at a virtual graduation
+Following the workshop, participants' work will be showcased at a virtual graduation
 event and published in the form of a report. At the graduation event,
 participants will showcase their skills to a large audience including potential
 employers in both academic and non-academic fields.
