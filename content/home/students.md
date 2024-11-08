@@ -19,7 +19,7 @@ industry mentor.
   * In the first two weeks, students will receive professional and technical
     skills training relevant to non-academic STEM careers via virtual
     courses.
-  * Following the training, teams will convene virtually to work intensively on
+  * Following the training, teams will convene virtually and work intensively on
     their projects. During this time, they will have access to a mentor for
     guidance.
   * The program will conclude with an in-person graduation event and career
@@ -28,7 +28,7 @@ industry mentor.
     opportunity to network with employers, explore careers that leverage
     mathematical skills, and learn about available job opportunities.
 
-Following the workshop, your work will be showcased at a virtual graduation
+Following the workshop, participants work will be showcased at a virtual graduation
 event and published in the form of a report. At the graduation event,
 participants will showcase their skills to a large audience including potential
 employers in both academic and non-academic fields.
@@ -44,5 +44,5 @@ to date and to be notified as soon as applications are open.
 
 &nbsp;
 
-For examples of previous successful projects and details of the training
-program, please see our [previous editions of m2pi](/#editions).
+_For examples of previous successful projects and details of the training
+program, please see our [previous editions](/#editions) pages._
