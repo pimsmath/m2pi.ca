@@ -3,15 +3,15 @@ widget: blank
 headless: true
 title: Information for Students
 active: true
-weight: 35
+weight: 15
 design:
   columns: '1'
 ---
 M2PI is a full-time training and work-integrated learning opportunity for
-graduate students and post-doctoral fellows in the mathematical sciences.
-Undergraduate students are also eligible to apply. Successful applicants will be
-asked to confirm their availability for full-time participation during June
-4-24, 2024
+graduate students and post-doctoral fellows in the mathematical sciences
+(undergraduate students are also eligible to apply). Successful applicants will
+be asked to commit to full-time participation during **May 5-23, 2025**. The
+M2PI program consists of...
 
   * In the first two weeks, students will receive professional and technical
     skills training relevant to non-academic STEM careers through virtual
@@ -19,23 +19,23 @@ asked to confirm their availability for full-time participation during June
   * Following training, teams continue their work virtually and have access to a
     mentor.
   * At the conclusion, there will be an in-person graduate event with a career
-    fair in Calgary on June 25th.  Students and postdoctoral fellows who have
-    been admitted to the M2PI program will receive a travel grant to attend this
-    event.  M2PI Fellows will have the opportunity to meet employers, learn
-    about careers involving mathematics, and learn about job opportunities.
+    fair tentatively scheduled for May 26th.  Students and postdoctoral fellows
+    who have been admitted to the M2PI program will receive a travel grant to
+    attend this event.  M2PI Fellows will have the opportunity to meet
+    employers, learn about careers involving mathematics, and learn about job
+    opportunities.
 
 Following the workshop, your work will be showcased at a virtual graduation
 event. Here you will showcase your skills to a large audience including
 potential employers in both academic and non-academic fields. You can see
-examples of successful projects on the [2023 Math to Power Industry
-page](/2023).
+examples of successful projects on the [2024 Math to Power Industry
+page](/2024/#projects).
 
-Applications for M2PI 2024 are now closed. We will be accepting applications for
-the 2025 edition at the beginning of 2025. If you are interested in
-participating in future editions as a student, please consider registering for
-the [M2PI Mailing List](http://eepurl.com/hF9Wnf)
+Applications will open in January 2025.  Students should [join our mailing
+list](https://eepurl.com/hF9Wnf) to be notified when applications open
+
 
 {{< button-dark
-  url="http://eepurl.com/hF9Wnf"
+  url="https://eepurl.com/hF9Wnf"
   text="Join the M2PI mailing list"
 >}}

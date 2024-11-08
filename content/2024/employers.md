@@ -3,24 +3,15 @@ widget: blank
 headless: true
 title: Information for Employers
 active: true
-weight: 16
+weight: 37
 design:
   columns: '1'
 ---
-During **May 5-23, 2025** PIMS is holding a virtual workshop called Math to
+During **June 4-24, 2024** PIMS is holding a virtual workshop called Math to
 Power Industry.  We are currently accepting problem statements from employers
 who would like to submit a project to the workshop.  If you would like to submit
-a problem please complete the [problem submission
-form](https://survey.ucalgary.ca/jfe/form/SV_0MVrmUR4gJ6BEpM).  If you would
-like to submit a job opportunity or have another question,, please contact us by
-completing the [contact form](#contact).
-
-{{< button-dark
-  url="https://survey.ucalgary.ca/jfe/form/SV_0MVrmUR4gJ6BEpM"
-  text="Submit an M2PI Problem"
->}}
-
-&nbsp;
+a problem or showcase a job opportunity, please contact us by completing the
+[contact form below](#contact).
 
 ### How it works
 
@@ -40,6 +31,11 @@ The intended outcome is that partner organizations will have the opportunity to
 engage with highly skilled talent, while also receiving innovative solutions to
 the math challenge submitted to the workshop.  Mentors from your organization
 are encouraged to meet student participants face-to-face during a graduation
-event tentatively scheduled for May 26, 2024. There will also be an opportunity
-for all partner organizations to present job openings, internships, or other
+event on June 25, 2024 in Calgary, AB.  There will also be an opportunity for
+all partner organizations to present job openings, internships, or other
 opportunities to students at this event.
+
+{{< button-dark
+  url="#contact"
+  text="Participate as an M2PI Mentor"
+>}}

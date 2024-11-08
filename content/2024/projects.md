@@ -1,15 +1,16 @@
 ---
 widget: portfolio
 headless: true
-active: false
-weight: 65
-title:
-subtitle:
+active: true
+weight: 25
+title: ''
+subtitle: ''
 content:
-  page_type: course
-  filters:
-    tags:
-      - '2024'
+  page_type: project
+  filter_default: 0
+  filter_button:
+    - name: '2024'
+      tag: '2024'
 design:
   columns: '1'
   view: 3
@@ -19,4 +20,4 @@ advanced:
   css_style: ''
   css_class: ''
 ---
-# Courses
+# Projects
