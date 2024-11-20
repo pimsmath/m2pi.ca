@@ -1,10 +1,10 @@
 ---
-title: "Women in AI Canada In-Person Career Fair"
+title: "M2PI at the Women in AI Career Fair"
 subtitle: 
 authors:
   - bauerk
-date: 2024-11-07T18:01:32-0800
-lastmod: 2024-11-07T18:01:32-0800
+date: 2024-11-20T12:01:32-0800
+lastmod: 2024-11-20T12:01:32-0800
 
 #featured: true
 #draft: false
@@ -13,12 +13,43 @@ header:
   caption: Caption goes here
   preview: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum, sapien a fermentum lacinia, ligula leo lacinia purus, eu molestie ante quam vitae turpis. Morbi bibendum tristique libero, ut dapibus lectus rutrum et. Proin est lorem, egestas vel ornare a, porttitor et turpis. Curabitur quis tempor odio. Donec vel risus nisi. Integer vel diam et libero ornare tincidunt sed a sapien. Duis eget viverra neque. Sed vitae ex non ipsum varius aliquet. Maecenas dignissim, leo vitae vestibulum sagittis, urna libero laoreet ex, ac blandit orci tortor non dolor. Integer eget augue viverra, suscipit nulla id, vehicula velit. Donec bibendum, eros sed aliquet consectetur, ante dui tristique nisi, ac mattis urna elit ac ligula. Vivamus laoreet aliquam iaculis.
+The in-person [Women in AI](https://www.womeninai.co/canada) Career Fair, held
+in Calgary on November 7, 2024, in partnership with the Pacific Institute for
+the Mathematical Sciences (PIMS) and our industry training program, Math to
+Power Industry (M2PI), brought together a diverse group of professionals and
+emerging talent in AI. The event featured nine industry panelists, including Dr.
+Heather Vooys, who shared insights from her role as Machine Learning Lead at
+AERIUM Analytics, and Dr. Sogol Ghattan, Director at Nautical Crime
+Investigation Services (NCIS), who spoke on the ethical use of AI. Notably, Dr.
+Vooys and Dr. Ghattan were M2PI mentors, underscoring M2PI's ongoing influence
+in shaping future leaders in the field.
 
-Etiam placerat posuere elit quis congue. Nullam non porttitor lectus. Sed efficitur augue risus, a porttitor diam fringilla in. Ut eu purus tincidunt odio mattis dapibus vitae porta dui. Praesent at tincidunt eros. In erat quam, luctus sed faucibus ac, ultricies aliquet neque. Quisque quis velit finibus, aliquet odio sit amet, tempor sem. Aenean eu neque fringilla, mattis risus sollicitudin, elementum justo. Sed elementum leo elit, ac semper diam facilisis ac. Pellentesque ultricies, est vitae posuere suscipit, est est varius augue, sit amet vehicula odio tortor vel sapien. Sed id turpis vitae dui pellentesque faucibus vitae quis velit.
+In her talk, Dr. Vooys highlighted that, in her work, she frequently encounters
+problems that could be readily solved with mathematics, without the need for a
+machine learning (ML) model. "I encouraged the audience to remember that AI and
+ML are interdisciplinary tools," she said, "but if they’re the only tools in
+your toolbox, you're likely missing other important methods." While AI and ML
+can be highly useful, Heather pointed out that relying too heavily on them can
+sometimes be inefficient. "Having a mathematics background has helped me
+determine when ML is appropriate and when it might be excessive," she added,
+"and it provides me with alternative methods to solve problems more
+effectively."
+  
+M2PI supported rising talent through travel awards for Nazanin Hasheminejad and
+Golnoush Farzanfard, enabling them to attend. Hiva Gheisari, an M2PI alum,
+connected with professionals and secured a spot at the upcoming Women in AI X
+Devfest YYC event, a coding competition to build career skills.
+ 
+The career fair offered an inspiring environment for early-career professionals
+and mid-level experts in AI, fostering a strong community focused on learning,
+networking, and mentorship—demonstrating PIMS and M2PI’s commitment to enhancing
+diversity and growth in mathematics and AI.
+ 
+The 2025 PIMS M2PI training program, set to run from May 5 to 23, 2025, offers
+graduate students and postdoctoral fellows in the mathematical sciences a unique
+chance to gain specialized professional and technical skills. Participants will
+work in teams on industry-specific challenges under the guidance of an industry
+mentor. Applications open in January 2025. For updates, sign up for our
+newsletter
+[here](https://math.us8.list-manage.com/subscribe?u=c9cc3beec9fa57d7299ac161c&id=7c5a0fc17a).
 
-Donec quis nunc tortor. Vestibulum est ipsum, venenatis ut pulvinar lacinia, rhoncus sit amet urna. Nullam pellentesque scelerisque venenatis. Nulla facilisi. Vivamus quis finibus ante. Nulla vel venenatis tortor. Pellentesque ornare augue id ullamcorper consequat. Mauris dictum elementum massa eu pulvinar. Duis eu blandit dolor, et mollis eros. Aenean egestas at ipsum vel feugiat. Donec turpis justo, consequat sed eleifend in, ultricies non justo. Ut mi lectus, tincidunt ut quam vitae, consectetur ornare nunc. Curabitur convallis commodo sagittis. In quis sagittis velit.
-
-Etiam at consectetur urna, id laoreet quam. Integer imperdiet vehicula sagittis. Nam elementum facilisis nibh. Quisque sodales id odio ultrices ultrices. Duis nec maximus justo, eget ornare erat. Etiam nec nulla sit amet sapien eleifend interdum. Pellentesque sagittis commodo scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Donec at venenatis arcu. Sed pretium lobortis ex, id placerat lacus commodo vitae. Mauris ligula justo, pellentesque sed condimentum ut, tincidunt ac neque. Nam lorem mauris, egestas et eleifend et, lobortis a orci. Suspendisse sit amet libero et diam elementum blandit vel ac sem. Morbi nisl orci, tincidunt quis purus sed, rhoncus facilisis metus. Aliquam quis mauris ut lorem lacinia dignissim. Donec rhoncus suscipit nibh tincidunt mollis. Aenean non consequat quam. Aliquam felis tellus, lacinia at consectetur in, convallis in nulla. Duis rhoncus orci eu nibh ultrices, sed sodales libero volutpat.
