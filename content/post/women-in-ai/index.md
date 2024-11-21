@@ -6,13 +6,14 @@ authors:
 date: 2024-11-20T12:01:32-0800
 lastmod: 2024-11-20T12:01:32-0800
 
-#featured: true
-#draft: false
-header:
-  image: crowd.jpg
-  caption: Caption goes here
-  preview: true
+image:
+  placement: 1
+  preview_only: true
+  focal_point: "TopLeft"
+  alt_text: Women in AI event with M2PI
 ---
+![](image.jpg)
+
 The in-person [Women in AI](https://www.womeninai.co/canada) Career Fair, held
 in Calgary on November 7, 2024, in partnership with the Pacific Institute for
 the Mathematical Sciences (PIMS) and our industry training program, Math to
