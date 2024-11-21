@@ -4,7 +4,10 @@ headless: true
 active: true
 weight: 18
 title: M2PI Stories
-subtitle: 'A subtitle describing how we want to use the M2PI section can go here. (can be removed)'
+subtitle: |
+  Discover how our M2PI program and graduates are helping to shape the world,
+  along with updates on upcoming events and opportunities designed to support
+  and celebrate our alumni.
 content:
   page_type: post
   count: 5
@@ -17,5 +20,3 @@ advanced:
   css_style: ''
   css_class: ''
 ---
-A global header above all of the M2PI stories can be placed here, it will be
-followed by cards for each of the stories. (can be removed).
