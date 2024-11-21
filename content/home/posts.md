@@ -1,23 +1,20 @@
 ---
 widget: pages
 headless: true
-active: false
-weight: 60
-title: Recent Posts
-subtitle: ''
+active: true
+weight: 18
+title: M2PI Stories
+subtitle: |
+  Discover how our M2PI program and graduates are helping to shape the world,
+  along with updates on upcoming events and opportunities designed to support
+  and celebrate our alumni.
 content:
   page_type: post
   count: 5
-  offset: 0
-  order: desc
   filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
+    publication_type: ""
 design:
-  view: 2
+  view: 3
   background: {}
 advanced:
   css_style: ''

@@ -4,16 +4,19 @@ main:
     weight: 10
   - name: Students
     url: '#students'
-    weight: 50
+    weight: 30
   - name: Employers
     url: '#employers'
-    weight: 60
+    weight: 40
+  - name: Stories
+    url: '#posts'
+    weight: 50
   - name: People
     url: '#people'
-    weight: 70
+    weight: 60
   - name: Editions
     url: '#editions'
-    weight: 75
+    weight: 70
   - name: Contact
     url: '/#contact'
     weight: 80

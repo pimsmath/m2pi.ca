@@ -43,4 +43,6 @@ partner, please select one of the options below for more details.
 
 _For examples of previous successful M2PI projects and to get an idea of how
 the
-program operates, please see the [past editions](#editions) section._
+program operates, please see the [past editions](#editions) section, or see
+our [stories section](#posts) for information about our events, our graduates and our
+partners._
