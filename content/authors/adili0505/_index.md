@@ -35,9 +35,6 @@ education:
 
 # Social/Academic Networking, delete any items you don't want to use
 social:
-- icon: linkedin
-  icon_pack: fab
-  link: www.linkedin.com/in/adili-masanika
 - icon: github
   icon_pack: fab
   link: https://github.com/adili0505
@@ -48,4 +45,4 @@ user_groups:
 tags:
 - '2020'
 ---
-With some problem solving skills, coupled with an affinity to learn. I aspire to gain admission into a mathematical-science related profession where my expertise will be an asset. I aspire to continuously enrich my knowledge and skills.
+With problem solving skills, coupled with an affinity to learn. I aspire to gain admission into a mathematical-science related profession where my expertise will be an asset. I aspire to continuously enrich my knowledge and skills.
