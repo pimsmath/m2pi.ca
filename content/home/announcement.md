@@ -8,5 +8,6 @@ title: >-
   Industry. The 2025 edition will take place **May 5 - 23, 2025**. If you are
   interested in participating, either as a [mentor](#employers) or a
   [student](#students), please [contact us](/#contact) or join the [M2PI Mailing
-  List](http://eepurl.com/hF9Wnf) for the latest information.
+  List](http://eepurl.com/hF9Wnf) for the latest information. Student
+  applications are expected to open at the end of February.
 ---
