@@ -33,7 +33,7 @@ event and published in the form of a report. At the graduation event,
 participants will showcase their skills to a large audience including potential
 employers in both academic and non-academic fields.
 
-Student applications will open in **_January 2025_**. In the
+Student applications will open in the last week of  **_February 2025_**. In the
 meantime, please [join our mailing list](https://eepurl.com/hF9Wnf) to stay up
 to date and to be notified as soon as applications are open.
 
