@@ -9,5 +9,5 @@ title: >-
   interested in participating, either as a [mentor](#employers) or a
   [student](#students), please [contact us](/#contact) or join the [M2PI Mailing
   List](http://eepurl.com/hF9Wnf) for the latest information. Student
-  applications are expected to open at the end of February.
+  applications are expected to open in March.
 ---
