@@ -23,7 +23,7 @@ intereted in participating._
 
 {{< button-dark
   url="https://survey.ucalgary.ca/jfe/form/SV_1IeXNyHc0CDpPMy"
-  text="Register for M2PI 2025"
+  text="Register for M2PI2025"
 >}}
 
 
