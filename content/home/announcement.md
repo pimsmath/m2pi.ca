@@ -4,10 +4,11 @@ headless: true
 active: true
 weight: 1
 title: >-
-  Thank you to everyone involved in the 2024 edition of Math to Power
-  Industry. The 2025 edition will take place **May 5 - 23, 2025**. If you are
-  interested in participating, either as a [mentor](#employers) or a
-  [student](#students), please [contact us](/#contact) or join the [M2PI Mailing
-  List](http://eepurl.com/hF9Wnf) for the latest information. Student
-  applications are expected to open in March.
+  The 2025 edition will take place **May 5 - 23, 2025** and student applications
+  are [NOW OPEN](https://survey.ucalgary.ca/jfe/form/SV_1IeXNyHc0CDpPMy) - the
+  deadline for student applications is **April 11th**. Prospective mentors or
+  other people
+  interested in M2PI are encouraged to [join our mailing
+  list](http://eepurl.com/hF9Wnf) or [contact us
+  directly](https://m2pi.ca/#contact).
 ---
