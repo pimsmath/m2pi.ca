@@ -15,6 +15,17 @@ time they will receive specialized professional and technical training while
 collaborating in teams on industry-specific problems under the guidance of an
 industry mentor.
 
+_Registration for students is [now
+open](https://survey.ucalgary.ca/jfe/form/SV_1IeXNyHc0CDpPMy) and will close on
+**April 11th, 11:59 (MT)**. Please complete the [application
+form](https://survey.ucalgary.ca/jfe/form/SV_1IeXNyHc0CDpPMy) if you are
+intereted in participating._
+
+{{< button-dark
+  url="https://survey.ucalgary.ca/jfe/form/SV_1IeXNyHc0CDpPMy"
+  text="Register for M2PI2025"
+>}}
+
 
   * In the first two weeks, students will receive professional and technical
     skills training relevant to non-academic STEM careers via virtual
