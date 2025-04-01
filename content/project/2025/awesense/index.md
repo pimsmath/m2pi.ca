@@ -7,12 +7,9 @@ summary: |
   instead of overloaded in some areas and underloaded in others.
 
 authors:
+  - elenapopovici
   - afried
-  - belazar
-  - eau
-  - caoduro
-  - snaqvi
-  - vneelamana
+
 tags:
   - '2025'
 
