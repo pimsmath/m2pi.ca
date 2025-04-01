@@ -73,9 +73,6 @@ overloaded in some areas and underloaded in others._
 
 ###  Background
 
-
-
-### Details
 The ongoing shift from carbon-heavy energy sources to electrical power has led
 to significant constraints on the capacity of the existing power distribution
 infrastructure, particularly at the medium-voltage (MV) level. As demands for
