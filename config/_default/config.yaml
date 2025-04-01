@@ -63,6 +63,7 @@ imaging:
   anchor: smart
 taxonomies:
   tag: tags
+  keyword: keywords
   category: categories
   publication_type: publication_types
   author: authors

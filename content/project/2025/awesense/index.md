@@ -10,6 +10,16 @@ authors:
   - elenapopovici
   - afried
 
+keywords: 
+  - data analysis
+  - visualization
+  - optimization
+  - time series
+  - networks
+  - graphs,
+  - electrical grid
+  - grid capacity
+
 tags:
   - '2025'
 
@@ -53,7 +63,6 @@ final_report:
 
 ---
 ![](AwesenseLogo.png)
-
 At Awesense, we’ve been building a platform for power grid digital twins with
 the goal of allowing easy access to and use of electrical grid data in order to
 build a myriad of applications and use cases for the decarbonized grid of the
