@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Scientific Consultant
+role: Senior Scientist, Type One Energy Group
 
 Organizations/Affiliations:
 organizations:
@@ -34,14 +34,17 @@ education:
 social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "antoine.cerfon@gmail.com"
+email: "antoine.cerfon@typeoneenergy.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- committee: mentors
+  role: Mentor
 
 highlight_name: true
 
 tags:
   - '2023'
+  - '2025'
 ---
