@@ -23,3 +23,11 @@
   {{ partial "page_links" (dict "page" $page "is_list" 0) }}
 </div>
 {{ end }}
+{{ with .Params.keywords }}
+<div class="article-tags">
+  <h4>Keywords</h4>
+  {{ range . }}
+  <a class="badge badge-light" href="/keywords/{{ . }}">{{ . }}</a>
+  {{ end }}
+</div>
+{{ end }}
