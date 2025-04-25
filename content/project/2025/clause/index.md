@@ -19,7 +19,7 @@ keywords:
  - vectorizer (transformer based or other)
 
 authors:
-  - sumin
+  - sleem
 tags:
   - '2025'
 
