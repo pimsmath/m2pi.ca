@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: (Graduated 2024)
+role: Algorithm Specialist at Clause Technology
 
 Organizations/Affiliations:
 organizations:
-- name: University of Calgary
-  url: https://ucalgary.ca
+- name: Clause Technology
+  url: https://clause.tech/
 
 education:
   courses:
