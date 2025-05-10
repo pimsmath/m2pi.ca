@@ -17,6 +17,9 @@ main:
   - name: People
     url: '#people'
     weight: 60
+  - name: Courses
+    url: '#courses'
+    weight: 65
   - name: Editions
     url: '#editions'
     weight: 70
