@@ -1,5 +1,5 @@
 ---
-title: Clause Tecnology
+title: Clause Technology
 subtitle: "Providing automated assistance for builders in British Columbia"
 
 summary: |
