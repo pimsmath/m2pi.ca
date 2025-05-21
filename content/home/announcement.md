@@ -4,11 +4,8 @@ headless: true
 active: true
 weight: 1
 title: >-
-  The 2025 edition will take place **May 5 - 23, 2025** and student applications
-  are [NOW OPEN](https://survey.ucalgary.ca/jfe/form/SV_1IeXNyHc0CDpPMy) - the
-  deadline for student applications is **April 11th**. Prospective mentors or
-  other people
-  interested in M2PI are encouraged to [join our mailing
-  list](http://eepurl.com/hF9Wnf) or [contact us
-  directly](https://m2pi.ca/#contact).
+  The 2025 Math to Power Industry event will take place Wednesday, May 28th
+  13:00-15:30 (MT). Please see the [PIMS Event
+  Page](https://www.pims.math.ca/events/250528-2mtpimge) for details or to
+  register.
 ---
