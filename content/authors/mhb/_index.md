@@ -49,11 +49,13 @@ email: "marie.burle@westgrid.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: instructors
-  role: Git and GitHub instructor, SKLearn Instructor
+  role: Git and GitHub instructor
 
 tags:
 - '2021'
 - '2022'
 - '2023'
+- '2024'
+- '2025'
 ---
 Evolutionary and behavioural ecologist by training, Software/Data Carpentry instructor, and open source proponent, Marie-Hélène Burle develops and delivers training for researchers on computing tools (R, Python, Julia, Git, Bash scripting, machine learning, parallel scientific programming, HPC) for Simon Fraser University and the Digital Research Alliance of Canada.

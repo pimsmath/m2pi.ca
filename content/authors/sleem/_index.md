@@ -25,8 +25,8 @@ education:
     institution: Ewha Womans University
   - course: BSc in Mathematics
     institution: Ewha Womans University
-  
 
+highlight_name: true
 
 interests:
   - Data Science
@@ -43,10 +43,11 @@ social:
    
 
 user_groups:
-- committee: members
+- committee: mentors
 
 tags:
 - '2024'
+- '2025'
 
 outputs:
 - html

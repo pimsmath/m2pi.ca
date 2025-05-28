@@ -42,8 +42,22 @@ social:
 
 user_groups:
 - committee: members
-  role: Project ovintiv member
+  role: Awesense Project Member
+
 tags:
 - '2020'
+- '2025'
+
+outputs:
+- html
+- cert
+
+certificates:
+- file: './cert2025.pdf'
+  img: './cert2025.png'
+  title: 'M2PI2025'
+  date: 2025-05-27T17:00:00-08:00
+  issued: true
+
 ---
 I am currently a PhD student at the University of Regina. I work on option pricing and my major field of work is Financial Mathematics. I did my bachelor and master's degree in Mathematics and I worked on Numerical Solutions of Partial Differential Equations. 

@@ -9,6 +9,12 @@ summary: |
 authors:
   - elenapopovici
   - afried
+  - cvl
+  - Elham-Soufiani
+  - molla
+  - pliu
+  - prado
+  - nguyen
 
 keywords: 
   - data analysis

@@ -36,8 +36,9 @@ social:
 
 user_groups:
 - committee: instructors
-  role: Equity, Diversity and Inclusion Instructor
+  role: Effective Teams and Conflict Resolution Instructor
 
 tags:
 - '2024'
+- '2025'
 ---

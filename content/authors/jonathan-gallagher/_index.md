@@ -46,11 +46,12 @@ email: "jonathan@infinitylab.io"
 
 user_groups:
 - committee: mentors
-  role: Academic Mentor
+  role: Mentor
 
 highlight_name: true
 
 tags:
 - '2021'
+- '2025'
 ---
 Jonathan creates meaningful and impactful collaborations in diverse areas.  He is an award winning mentor who has enjoyed working with and collaborating with undergraduate, graduate students and researchers on projects including differential computing, quantum computing, formal methods, security, and physical machine learning in the oil and gas area.  He led and organized the Peripatetic Seminar at the University of Calgary for 6 years, and worked to gain collaboration from the department of physics which led to successful collaborations with physicists.  His current research projects describe the structure and meaning of differential programs where differential programming has language level features for machine learning.  One of his current focuses is performing analysis of machine learning systems, using differential programming, to create analysis and invariants of the learners.  He is also the founder of Joinovate, LLC -- a company actively pursuing the future of work and the promise of a truly equitable future of work.

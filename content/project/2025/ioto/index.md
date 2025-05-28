@@ -18,6 +18,12 @@ summary: |
 
 authors:
   - spat
+  - marino
+  - acruz
+  - buckley
+  - sheikhmohammadi
+  - sadeghian
+  - zaitsev
 tags:
   - '2025'
 
