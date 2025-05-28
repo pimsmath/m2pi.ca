@@ -42,8 +42,21 @@ social:
 
 user_groups:
 - committee: members
-  role: Team 2 - ATCO
+  role: Clause Technology Project Member
 
 tags:
 - '2021'
+- '2025'
+
+outputs:
+- html
+- cert
+
+certificates:
+- file: './cert2025.pdf'
+  img: './cert2025.png'
+  title: 'M2PI2025'
+  date: 2025-05-27T17:00:00-08:00
+  issued: true
+
 ---

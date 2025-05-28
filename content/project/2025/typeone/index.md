@@ -9,6 +9,12 @@ summary: |
 
 authors:
   - acerfon
+  - bdesilva
+  - fridman
+  - ebrahimzade
+  - salimirzaei
+  - wdavis
+  - xwang
 
 keywords: 
  - Finite Element Method

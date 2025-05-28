@@ -9,6 +9,12 @@ summary: |
   an important library of “tactics” that Rocq uses to construct formal proofs.
 authors:
   - jonathan-gallagher
+  - mashghdoust
+  - fcicek
+  - huub
+  - kristaps
+  - markham
+  - yzhang
 
 keywords: 
  - Python

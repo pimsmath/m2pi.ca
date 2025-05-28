@@ -42,10 +42,24 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: members
-  role: Novion Project Member
+  role:  Awesense Project Member
 
 tags:
 - '2022'
+- '2025'
+
+outputs:
+- html
+- cert
+
+certificates:
+- file: './cert2025.pdf'
+  img: './cert2025.png'
+  title: 'M2PI2025'
+  date: 2025-05-27T17:00:00-08:00
+  issued: true
+
+
 ---
 Currently, I am pursuing my Ph.D. in the field of Financial Mathematics. The
 main area of my research is coupled forward-backward stochastic differential

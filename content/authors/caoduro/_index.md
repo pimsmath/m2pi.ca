@@ -60,9 +60,11 @@ email: "marco.caoduro@ubc.ca"
 user_groups:
 - committee: organizing
 - committee: members
-
+  role: Clause Technology Project Member
 tags:
 - '2024'
+- '2025'
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 
@@ -71,6 +73,11 @@ outputs:
 - cert
 
 certificates:
+- file: './cert2025.pdf'
+  img: './cert2025.png'
+  title: 'M2PI2025'
+  date: 2025-05-27T17:00:00-08:00
+  issued: true
 - file: './cert2024.pdf'
   img: './cert2024.png'
   title: 'M2PI2024'

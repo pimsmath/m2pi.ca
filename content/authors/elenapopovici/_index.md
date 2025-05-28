@@ -57,4 +57,5 @@ highlight_name: true
 tags:
 - '2022'
 - '2023'
+- '2025'
 ---
