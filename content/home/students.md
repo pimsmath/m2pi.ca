@@ -15,6 +15,7 @@ time they will receive specialized professional and technical training while
 collaborating in teams on industry-specific problems under the guidance of an
 industry mentor.
 
+<!--
 _Registration for students is [now
 open](https://survey.ucalgary.ca/jfe/form/SV_1IeXNyHc0CDpPMy) and will close on
 **April 11th, 11:59 (MT)**. Please complete the [application
@@ -25,7 +26,7 @@ intereted in participating._
   url="https://survey.ucalgary.ca/jfe/form/SV_1IeXNyHc0CDpPMy"
   text="Register for M2PI2025"
 >}}
-
+-->
 
   * In the first two weeks, students will receive professional and technical
     skills training relevant to non-academic STEM careers via virtual
@@ -33,21 +34,20 @@ intereted in participating._
   * Following the training, teams will convene virtually and work intensively on
     their projects. During this time, they will have access to a mentor for
     guidance.
-  * The program will conclude with an in-person graduation event and career
-    fair _(tentatively scheduled for May 26)_. Students and postdoctoral
-    participants will receive travel grants to attend, giving them the
-    opportunity to network with employers, explore careers that leverage
-    mathematical skills, and learn about available job opportunities.
+  * The program will conclude with an graduation event on
+    May 28 (see the [PIMS Event
+    Page](https://www.pims.math.ca/events/250528-2mtpimge) for registration details). 
 
 Following the workshop, participants' work will be showcased at a virtual graduation
 event and published in the form of a report. At the graduation event,
 participants will showcase their skills to a large audience including potential
 employers in both academic and non-academic fields.
 
+<!--
 Student applications will open in **_March 2025_**. In the
 meantime, please [join our mailing list](https://eepurl.com/hF9Wnf) to stay up
 to date and to be notified as soon as applications are open.
-
+-->
 {{< button-dark
   url="https://eepurl.com/hF9Wnf"
   text="Join the M2PI mailing list"

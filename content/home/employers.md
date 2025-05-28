@@ -48,9 +48,10 @@ opportunity to engage with highly skilled talent, while also receiving
 innovative solutions to the math challenge submitted to the workshop.
 
 We encourage mentors from your organization to connect with student participants
-face-to-face at the M2PI graduation event (_tentatively scheduled for May 26,
-2025_). This event will also offer partner organizations the chance to present job
-openings, internships, and other career opportunities to students.
-Additionally industry partners will be able leverage the M2PI network to
-help fill internship and permanent positions during and after the workshop
-through M2PI’s communication channels.
+at the M2PI graduation event on May 28th (see the [PIMS Event
+Page](https://www.pims.math.ca/events/250528-2mtpimge) for registration details)
+This event will also offer partner organizations the chance to present job
+openings, internships, and other career opportunities to students.  Additionally
+industry partners will be able leverage the M2PI network to help fill internship
+and permanent positions during and after the workshop through M2PI’s
+communication channels.
