@@ -10,23 +10,36 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: PhD Student
 
 Organizations/Affiliations:
 organizations:
 - name: University of Saskatchewan
   url: https://usask.ca
 
-# education:
-#   courses:
-#   
-# 
-# 
-# interests:
-#   
-# 
-# social:
-#    
+education:
+  courses:
+    - course: MS in Engineering Physics
+      institution: University of Saskatchewan
+    - course: MS in Physics
+      institution: Seton Hall University
+
+
+
+interests:
+  - Plasma Physics
+  - Nuclear Physics
+  - Quantum Physics and Math
+  - Data Science
+  - Electrical and Audio Engineering
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/william-d-a4658919a/'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/fermionicplants'
 
 user_groups:
 - committee: members
@@ -49,4 +62,6 @@ certificates:
   issued: true
 
 ---
-
+A PhD candidate at University of Saskatchewan, focusing on Plasma and Quantum
+Physics/Engineering, I would like to understand the many intricacies of the
+universe. If I could study all fields of science, I would.

@@ -10,23 +10,34 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Postdoctoral Fellow
 
 Organizations/Affiliations:
 organizations:
 - name: University of Lethbridge
   url: https://uleth.ca
 
-# education:
-#   courses:
-#   
-# 
-# 
-# interests:
-#   
-# 
-# social:
-#    
+education:
+  courses:
+    - course: PhD in Theoretical Physics
+      institution: University of Lethbridge
+    - course: MSc in Astrophysics
+      institution: University of Ljubijana
+    - course: BSc in Astronomy
+      institution: University of Ljubijana
+
+interests:
+  - Quantum Gravity
+  - Mathematical Modeling
+  - Gravitational Physics
+
+social:
+   - icon: linkedin
+     icon_pack: fab
+     link: https://ca.linkedin.com/in/mitja-fridman
+   - icon: github
+     icon_pack: fab
+     link: https://github.com/fridmanm
 
 user_groups:
 - committee: members
@@ -49,4 +60,10 @@ certificates:
   issued: true
 
 ---
-
+ Mitja completed his BSc and MSc in Astronomy and Astrophysics at the University
+ of Ljubljana, Slovenia. He also worked as a research assistant on the ESA
+ PRODEX Gaia transients project at the University of Nova Gorica, Slovenia,
+ after which he completed his PhD at the University of Lethbridge in Alberta,
+ Canada. Now, he is completing his term as a postdoctoral research associate at
+ the University of Lethbridge. In his research, he worked on neutrino astronomy,
+ astrometry and quantum gravity phenomenology.

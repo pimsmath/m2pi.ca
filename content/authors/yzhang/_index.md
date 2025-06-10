@@ -10,23 +10,27 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Graduate Student
 
 Organizations/Affiliations:
 organizations:
 - name: University of Alberta
   url: https://ualberta.ca
 
-# education:
-#   courses:
-#   
-# 
-# 
-# interests:
-#   
-# 
-# social:
-#    
+education:
+  courses:
+  - course: MSc in Mathematics
+    institution: University of Alberta
+  - course: BSc in Mathematics
+    institution: University of Waterloo
+
+
+interests:
+  - Data Science
+  - Mathematical Modeling
+
+social:
+    
 
 user_groups:
 - committee: members

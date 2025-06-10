@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position e.g. Graduate student
-
+role: Alumna
 
 # Organization membership
 Organizations/Affiliations:
@@ -19,9 +19,9 @@ organizations:
 
 # A list of your interests, add as many as you want
 interests:
-- Algebraic Topology
-- General Purpose Data Science
-- Machine learning
+- Data Science
+- Mathematical Modelling
+- Data Analysis
 
 # Your educational history, add as many as you want
 education:
@@ -36,9 +36,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Nimanthi885
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/nimanthi-yaseema-064863206/
+- icon: linkedin
+  icon_pack: fab
+  link: https://ca.linkedin.com/in/nimanthi-yaseema
 
 user_groups:
 - committee: members
@@ -60,3 +60,8 @@ certificates:
   issued: true
 
 ---
+Hello, I'm Nimanthi Yaseema, an MSc graduate in Mathematics from the University
+of Regina. My interests lie in applying mathematical principles to real-world
+challenges, with a focus on data science, data analysis, and mathematical
+modeling.
+

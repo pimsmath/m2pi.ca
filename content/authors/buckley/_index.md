@@ -10,23 +10,32 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: M.Sc Alumnus
 
 Organizations/Affiliations:
 organizations:
 - name: Simon Fraser University
   url: https://sfu.ca
 
-# education:
-#   courses:
-#   
-# 
-# 
-# interests:
-#   
-# 
-# social:
-#    
+education:
+  courses:
+  - course: MSc in Mathematics
+    institution: Simon Fraser University
+  - course: BMedia in 2D & Experimental Animation
+    institution: Emily Carr University
+  - course: BSc in Mathematics and Computer Science
+    institution: Simon Fraser University
+
+interests:
+  - Computer Science
+  - Combinatorics
+  - Animation
+  - Visualization
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/benjamin-buckley/'
 
 user_groups:
 - committee: members
@@ -49,4 +58,7 @@ certificates:
   issued: true
 
 ---
-
+ I'm Ben Buckley, M.Sc Mathematics alumnus from SFU, former Jr. Cinematics
+ Artist at Keywords Studios, and 2D & Experimental Animation graduate from Emily
+ Carr University. My education is primarily in computer science, mathematics,
+ and digital art/animation.

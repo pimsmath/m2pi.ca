@@ -10,23 +10,33 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Graduate Student
 
 Organizations/Affiliations:
 organizations:
 - name: University of Alberta
   url: https://ualberta.ca
 
-# education:
-#   courses:
-#   
-# 
-# 
-# interests:
-#   
-# 
-# social:
-#    
+education:
+  courses:
+  - course: BSc in Actuarial Science
+    institution: Meritorious Autonomous University of Puebla
+
+ 
+interests:
+  - Data-Science
+  - Neural Networks
+  - Prediction Models
+  - Actuarial Science
+  - Machine Learning
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/stephanie-daniella-hern%C3%A1ndez-prado-829695298/'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/Stephanie-Daniella'
 
 user_groups:
 - committee: members
@@ -48,4 +58,11 @@ certificates:
   issued: true
 
 ---
+ I have a bachelor’s degree in Actuarial Science from the Meritorious Autonomous
+ University of Puebla (BUAP), where I gained experience as a research
+ collaborator, particularly in programming and data analysis. In January 2025, I
+ began a Master’s program in Modeling, Data, and Prediction at the University of
+ Alberta. I hold several Google certifications in data analysis, covering topics
+ such as regression, machine learning, and deep learning. I am proficient in R,
+ Python, and VBA, and have basic knowledge of SQL.
 

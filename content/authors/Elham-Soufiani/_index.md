@@ -9,36 +9,37 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: Senior Data Scientist (Postdoctoral Fellow)
 
 # Organization membership
 Organizations/Affiliations:
 organizations:
-- name: University of Regina
+- name: Levene Graduate School of Business, University of Regina
   url: https://www.uregina.ca/
 
 # A list of interests
 interests:
-- Financial Mathematics
-- Option Pricing
-- Derivatives
+- Data Science
+- Machine Learning
+- Energy and Sustainability
+- Financial Modeling
+- Mathematical and Statistical Modeling
 
 # educational history
 education:
   courses:
-  - course: Msc.
-    institution: Amirkabir University of Technology
-  - course: Bsc.
+  - course: Ph.D. in Statistics
+    institution: University of Regina
+  - course: M.Sc. in Applied Mathematics
+    institution: Amirkabir University of Technology (Tehran Polytechnic)
+  - course: B.Sc. in Applied Mathematics
     institution: University of Tehran
 
 # Social/Academic Networking
 social:
-- icon: Linkedin
+- icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/elham-soufiani-20438a89/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Elham-Soufiani
+  link: 'www.linkedin.com/in/elham-ellie-soufiani'
 
 user_groups:
 - committee: members
@@ -60,4 +61,15 @@ certificates:
   issued: true
 
 ---
-I am currently a PhD student at the University of Regina. I work on option pricing and my major field of work is Financial Mathematics. I did my bachelor and master's degree in Mathematics and I worked on Numerical Solutions of Partial Differential Equations. 
+Elham (Ellie) Soufiani is an accomplished data scientist and researcher with
+broad expertise in managerial sciences, statistical modeling, machine learning,
+and applied analytics across multiple domains, including electric vehicle
+charging infrastructure, financial modeling, and healthcare analytics. She
+holds a Ph.D. in Statistics from the University of Regina, Canada, and has
+recently concluded her postdoctoral fellowship at the Levene Graduate School of
+Business, University of Regina, further expanding her applied project
+portfolio. Ellie specializes in stochastic processes, time series forecasting,
+and advanced modeling techniques, utilizing tools such as Python, SQL, R, and
+MATLAB to deliver actionable insights. She is recognized for her analytical
+depth, problem-solving skills, cross-disciplinary expertise, and ability to
+bridge complex quantitative models with real-world applications.

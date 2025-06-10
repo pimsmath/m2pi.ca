@@ -10,23 +10,34 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Graduate Student
 
 Organizations/Affiliations:
 organizations:
 - name: Simon Fraser University
   url: https://sfu.ca
 
-# education:
-#   courses:
-#   
-# 
-# 
-# interests:
-#   
-# 
-# social:
-#    
+education:
+  courses:
+  - course: PhD in Applied Mathematics
+    institution: Simon Fraser University
+  - course: MSc in Mathematics
+    institution: University of British Columbia
+  - course: BSc in Mathematics and Statistics
+    institution: Hong Kong Baptist University
+
+interests:
+  - Scientific Computing
+  - Data Science
+  - Mathematical Modeling
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/xuemeng-wang-b80200160/'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=2il9mjQAAAAJ&hl=en'
 
 user_groups:
 - committee: members

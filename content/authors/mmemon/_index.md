@@ -10,27 +10,37 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Undergraduate Student
 
 Organizations/Affiliations:
 organizations:
 - name: University of Victoria
   url: https://uvic.ca
 
-# education:
-#   courses:
-#   
-# 
-# 
-# interests:
-#   
-# 
-# social:
-#    
+education:
+  courses:
+  - course: BSc in Mathematics and Statistics (ongoing)
+    institution: University of Victoria
+
+
+interests:
+  - Mathematical Modeling
+  - Machine Learning/AI
+  - Actuarial Science
+  - Cryptography
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://ca.linkedin.com/in/minahil-memon-b349b7352?trk=people-guest_people_search-card'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/minahilmemon'
 
 user_groups:
 - committee: members
   role: Clause Technology Project Member
+
 tags:
 - '2025'
 
@@ -48,4 +58,6 @@ certificates:
   issued: true
 
 ---
-
+ Minahil Memon is an undergraduate student at the University of Victoria,
+ majoring in mathematics and statistics. She is keen on uncovering how abstract
+ mathematical ideas can inform practical, real-life decisions.

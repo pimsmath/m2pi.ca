@@ -10,23 +10,26 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Graduate Student
 
 Organizations/Affiliations:
 organizations:
 - name: University of Calgary
   url: https://ucalgary.ca
 
-# education:
-#   courses:
-#   
-# 
-# 
-# interests:
-#   
-# 
-# social:
-#    
+education:
+  courses:
+  - course: MS in Mathematics
+    institution: University of Calgary
+
+
+interests:
+  - Data Science
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'www.linkedin.com/in/peiling-liu-071119338'
 
 user_groups:
 - committee: members

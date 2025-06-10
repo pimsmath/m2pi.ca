@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Angel Cruz
+title: Angel D. Cruz
 
 # Username (this should match the folder name)
 authors:
@@ -17,16 +17,24 @@ organizations:
 - name: University of British Columbia
   url: https://ubc.ca
 
-# education:
-#   courses:
-#   
-# 
-# 
-# interests:
-#   
-# 
-# social:
-#    
+education:
+  courses:
+  - course: Ph.D. In Mathematics
+    institution: University of British Columbia
+  - course: M.A. in Mathematics
+    instiution: San Francisco State University
+  - course: B.Sc. in Applied Mathematics
+    institution: San Francisco State University
+
+interests:
+  - Harmonic Analysis
+  - Fractal Geometry
+  - Signal Processing
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/angel-c-558446161/'
 
 user_groups:
 - committee: members
@@ -49,4 +57,9 @@ certificates:
   issued: true
 
 ---
-
+I am a recent graduate from the University of British Columbia, where I studied
+harmonic analysis and fractal geometry. Although my doctoral work is rooted in
+pure mathematics, the Math to Power Industry experience opened my eyes to the
+many options in industry that I have yet to explore. Going forward, I will
+explore opportunities as they come while searching for projects that involve
+signal processing.
