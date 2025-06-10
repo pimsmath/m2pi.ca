@@ -10,23 +10,33 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Graduate Student, Sessional Instructor
 
 Organizations/Affiliations:
 organizations:
 - name: University of Manitoba
   url: https://umanitoba.ca
 
-# education:
-#   courses:
-#   
-# 
-# 
-# interests:
-#   
-# 
-# social:
-#    
+education:
+  courses:
+  - course: M.Sc. in Computer Science
+    institution: University of Manitoba
+  - course: B.Sc. in ECE (control)
+    institution: K. N. Toosi University of Technology
+
+interests:
+  - Computational Geometry
+  - Graph Algorithms & Theoretical Computer Science
+  - Machine Learining
+  - Quantum Computing
+
+social:
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/Mashghdoust'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.ca/citations?user=tE8ouBgAAAAJ&hl=en'
 
 user_groups:
 - committee: members
@@ -49,4 +59,8 @@ certificates:
   issued: true
 
 ---
-
+I’m a PhD student in Computer Science at the University of Manitoba with a
+strong background in algorithms, geometric computing, and problem-solving. I’m
+especially interested in applying AI and data-driven methods to optimize
+complex systems. Outside of research, I enjoy playing different instruments,
+building intuitive tools, and tackling real-world tech challenges.
