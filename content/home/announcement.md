@@ -4,8 +4,8 @@ headless: true
 active: true
 weight: 1
 title: >-
-  The 2025 Math to Power Industry event will take place Wednesday, May 28th
-  13:00-15:30 (MT). Please see the [PIMS Event
-  Page](https://www.pims.math.ca/events/250528-2mtpimge) for details or to
-  register.
+  The Math to Power Industry Case Studies Virtual Seminar begins on October 8th
+  at 13:30pm (PDT) with John Stockie (SFU). Please see the [PIMS event
+  webpage](https://www.pims.math.ca/events/251008-mcsvsjs)
+  to register and for future events.
 ---
