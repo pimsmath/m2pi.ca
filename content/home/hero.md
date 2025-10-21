@@ -3,7 +3,7 @@ widget: hero
 headless: true
 active: true
 weight: 11 
-title: "<em>Math<sup>Industry</sup> 2025</em>"
+title: ""
 #cta:
 #  url: https://survey.ucalgary.ca/jfe/form/SV_41SJsq6pqN7gOzk
 #  label: Industry Partner Survey
@@ -14,16 +14,20 @@ design:
     text_color_light: true
 ---
 
-**May 5-23, 2025**
+We are pleased to present the 2025-2026 Math to Power Industry: Case Studies
+Virtual Seminar Series. This initiative supports our mandate to foster
+meaningful engagement between the mathematical sciences and sectors beyond
+academia. 
 
-From May 5-23, 2025 the Pacific Institute for the Mathematical Sciences (PIMS)
-will be running our popular Math to Power Industry workshop (M2PI 2025). This
-hybrid workshop pairs industry problems with mathematical talent, aiming to
-benefit both trainees participating in the program and our industrial partners.
-If you are interested in participating as either a trainee or as an industry
-partner, please select one of the options below for more details.
+In this series we will highlight collaborative research between members of the
+PIMS academic community—graduate students, postdoctoral fellows, and faculty—and
+partners in industry, government, non-profit organizations, and other sectors
+across western Canada.   Presenters will share case studies that reflect on:
 
+ * the research process, outcomes, and lessons learned, including challenges, and unexpected results.
+ * key moments of discovery during these collaborations.
 
+<!--
 <div class="row">
 <div class="col">
 {{< button 
@@ -46,3 +50,4 @@ the
 program operates, please see the [past editions](#editions) section, or see
 our [stories section](#posts) for information about our events, our graduates and our
 partners._
+-->

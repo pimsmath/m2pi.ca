@@ -1,7 +1,7 @@
 ---
 widget: announcement
 headless: true
-active: true
+active: false
 weight: 1
 title: >-
   The Math to Power Industry Case Studies Virtual Seminar begins on October 8th

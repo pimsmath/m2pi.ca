@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 title: Information for Employers
-active: true
+active: false
 weight: 16
 design:
   columns: '1'

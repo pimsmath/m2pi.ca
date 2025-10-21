@@ -9,11 +9,11 @@ design:
 ---
 M2PI is a full-time training and work-integrated learning opportunity for
 graduate students and post-doctoral fellows in the mathematical sciences
-(undergraduate students are also eligible to apply). Successful applicants
-will commit to full-time participation from **May 5–23, 2025**, during which
-time they will receive specialized professional and technical training while
-collaborating in teams on industry-specific problems under the guidance of an
-industry mentor.
+(undergraduate students are also eligible to apply). Successful applicants will
+commit to full-time participation within a set duration, typically 2 to 3 weeks,
+during which time they will receive specialized professional and technical
+training while collaborating in teams on industry-specific problems under the
+guidance of an industry mentor.
 
 <!--
 _Registration for students is [now
@@ -34,9 +34,9 @@ intereted in participating._
   * Following the training, teams will convene virtually and work intensively on
     their projects. During this time, they will have access to a mentor for
     guidance.
-  * The program will conclude with an graduation event on
-    May 28 (see the [PIMS Event
-    Page](https://www.pims.math.ca/events/250528-2mtpimge) for registration details). 
+  * The program will conclude with an graduation event on (see the [PIMS Event
+    Page](https://www.pims.math.ca/events/250528-2mtpimge) for registration
+    details). 
 
 Following the workshop, participants' work will be showcased at a virtual graduation
 event and published in the form of a report. At the graduation event,
