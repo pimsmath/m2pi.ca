@@ -2,30 +2,17 @@
 widget: blank
 headless: true
 title: Information for Employers
-active: false
+active: true
 weight: 16
 design:
   columns: '1'
 ---
-From **May 5-23, 2025** PIMS is hosting a virtual workshop called Math to Power
-Industry (M2PI 2025). This program pairs industry problems with mathematical talent,
-benefiting both M2PI participants and our industry partners by tackling real world
-problems. We are currently accepting problem statements for M2PI
-2025.  To see examples of problems from previous years, _and the solutions provided by
-M2PI participants_, please see our [past editions](#editions) pages.  If
-you would like to submit a problem please complete our [problem
-submission form](https://survey.ucalgary.ca/jfe/form/SV_0MVrmUR4gJ6BEpM). 
-
-{{< button-dark
-  url="https://survey.ucalgary.ca/jfe/form/SV_0MVrmUR4gJ6BEpM"
-  text="Submit an M2PI Problem"
->}}
-
-&nbsp;
-
-If you would like to submit a job opportunity to the M2PI community or have
-another questions about the M2PI program, please [contact us](#contact).
-
+M2PI pairs industrial partners who have interesting mathematical problems with
+mathematical talent. This arrangement benefits both M2PI participants and our
+industry partners by tackling real world problems with cutting edge mathematics.
+If you work in industry and have a problem which sounds like it might be a good
+fit for the M2PI program, or if you have any other questions please [contact
+us](#contact).
 
 &nbsp;
 
@@ -46,12 +33,3 @@ another questions about the M2PI program, please [contact us](#contact).
 The intended outcome of M2PI is that partner organizations will have the
 opportunity to engage with highly skilled talent, while also receiving
 innovative solutions to the math challenge submitted to the workshop.
-
-We encourage mentors from your organization to connect with student participants
-at the M2PI graduation event on May 28th (see the [PIMS Event
-Page](https://www.pims.math.ca/events/250528-2mtpimge) for registration details)
-This event will also offer partner organizations the chance to present job
-openings, internships, and other career opportunities to students.  Additionally
-industry partners will be able leverage the M2PI network to help fill internship
-and permanent positions during and after the workshop through M2PI’s
-communication channels.

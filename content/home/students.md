@@ -35,8 +35,7 @@ intereted in participating._
     their projects. During this time, they will have access to a mentor for
     guidance.
   * The program will conclude with an graduation event on (see the [PIMS Event
-    Page](https://www.pims.math.ca/events/250528-2mtpimge) for registration
-    details). 
+    Page](https://www.pims.math.ca/events/250528-2mtpimge) for details). 
 
 Following the workshop, participants' work will be showcased at a virtual graduation
 event and published in the form of a report. At the graduation event,

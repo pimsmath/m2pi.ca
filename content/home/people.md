@@ -5,7 +5,7 @@ active: true
 weight: 20
 year: '2025'
 default_committee: members
-title: Meet the Teams
+title: Meet the Teams - M2PI 2025
 subtitle: ''
 content:
   user_groups:
