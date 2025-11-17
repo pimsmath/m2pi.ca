@@ -34,13 +34,19 @@ intereted in participating._
   * Following the training, teams will convene virtually and work intensively on
     their projects. During this time, they will have access to a mentor for
     guidance.
-  * The program will conclude with an graduation event.
+  * The program will conclude with an graduation event on (see the [PIMS Event
+    Page](https://www.pims.math.ca/events/250528-2mtpimge) for details). 
 
-Following the workshop, participants' work will generally be showcased at a
-virtual graduation event and published in the form of a report. At the
-graduation event, participants will showcase their skills to a large audience
-including potential employers in both academic and non-academic fields.
+Following the workshop, participants' work will be showcased at a virtual graduation
+event and published in the form of a report. At the graduation event,
+participants will showcase their skills to a large audience including potential
+employers in both academic and non-academic fields.
 
+<!--
+Student applications will open in **_March 2025_**. In the
+meantime, please [join our mailing list](https://eepurl.com/hF9Wnf) to stay up
+to date and to be notified as soon as applications are open.
+-->
 {{< button-dark
   url="https://eepurl.com/hF9Wnf"
   text="Join the M2PI mailing list"

@@ -7,14 +7,13 @@ weight: 16
 design:
   columns: '1'
 ---
-M2PI pairs industrial partners who have interesting mathematical problems with
-mathematical talent. This arrangement benefits both M2PI participants and our
-industry partners by tackling real world problems with cutting edge mathematics.
-If you work in industry and have a problem which sounds like it might be a good
-fit for the M2PI program, or if you have any other questions please [contact
-us](#contact).
-
-&nbsp;
+M2PI brings together industrial partners with challenging mathematical problems
+and the mathematical talent needed to tackle them. Partners gain fresh insight
+grounded in cutting-edge mathematics, while trainees gain hands-on experience
+with meaningful industrial projects. If you’re part of an industry, government,
+or non-profit organization in Western Canada and have a problem that could
+benefit from a mathematical perspective, we’d be delighted to [hear from
+you](#contact).
 
 ### How it works
 
@@ -25,11 +24,14 @@ us](#contact).
 * Students complete various training courses in a variety of professional and
   technical skills relevant to STEM careers.
 * Mentors from the organization work closely with the student team for the
-  remainder of the workshop. Mentors typically meet with the students for a
-  minimum of two hours each day during this time.
+  remainder of the workshop, typically meet with the students for a minimum of
+  two hours each day during this time.
 * Participants present the results of their work at a graduation ceremony and
   networking event.
 
-The intended outcome of M2PI is that partner organizations will have the
-opportunity to engage with highly skilled talent, while also receiving
-innovative solutions to the math challenge submitted to the workshop.
+The intended outcomes of M2PI are that partner organizations will have the
+opportunity to engage with highly skilled talent and will receive innovative
+solutions to the mathematical challenges they face.
+
+_If you have any questions about the program, or think you might want to submit a
+problem, please [get in touch](#contact)._

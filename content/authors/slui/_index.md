@@ -41,11 +41,11 @@ social:
   link: https://home.cc.umanitoba.ca/~luish/
 
 user_groups:
-- committee: mentors
-  role: Academic Mentor
+- committee: organizing
 
 highlight_name: true
 
 tags:
 - '2021'
+- '2026'
 ---
