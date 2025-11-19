@@ -14,20 +14,13 @@ design:
     text_color_light: true
 ---
 
-We are pleased to present the 2025-2026 Math to Power Industry: Case Studies
-Virtual Seminar Series. This initiative supports our mandate to foster
-meaningful engagement between the mathematical sciences and sectors beyond
-academia. 
+Join us for Math to (em)Power Industry (M2PI) 2026 **May 25th - June 12th, 2026**. M2PI
+is a virtual workshop which connects industry partners with teams of skilled
+mathematical trainees to tackle real-world problems, spark innovation, and build
+pathways for mathematical talent. Whether you're a student eager to sharpen and
+apply your skills, or an organization looking for fresh insight into mathematical
+problems facing your business, see below for how M2PI can help:
 
-In this series we will highlight collaborative research between members of the
-PIMS academic community—graduate students, postdoctoral fellows, and faculty—and
-partners in industry, government, non-profit organizations, and other sectors
-across western Canada.   Presenters will share case studies that reflect on:
-
- * the research process, outcomes, and lessons learned, including challenges, and unexpected results.
- * key moments of discovery during these collaborations.
-
-<!--
 <div class="row">
 <div class="col">
 {{< button 
@@ -45,9 +38,6 @@ across western Canada.   Presenters will share case studies that reflect on:
 <div class="mt-4"></div>
 <div class="pt-4"></div>
 
-_For examples of previous successful M2PI projects and to get an idea of how
-the
-program operates, please see the [past editions](#editions) section, or see
-our [stories section](#posts) for information about our events, our graduates and our
-partners._
--->
+_Curious about what M2PI projects look like? Explore our [previous
+workshops](#editions) to see industry challenges tackled and the solutions
+developed by our trainees._
