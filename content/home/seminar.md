@@ -48,6 +48,8 @@ across western Canada.   Presenters will share case studies that reflect on:
     Simantov](https://www.pims.math.ca/events/260204-mcsvsms)
   * **March 4th, 2026**: [Keivan
     Monfared](https://www.pims.math.ca/events/260304-mcsvskm)
+  * **March 19th, 2026**: [Kevin
+    Malenfant](https://www.pims.math.ca/events/260319-mcsvskm)
     
 For more details please see the [PIMS Seminar
 listings](https://www.pims.math.ca/programs/industrial/m2pi-case-studies-virtual-seminar)
