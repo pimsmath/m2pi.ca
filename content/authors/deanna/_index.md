@@ -1,42 +1,47 @@
 ---
 # Display name
-title: Mina Aminghafari
+title: Deanna Needell
 
 # Weight
 weight: 1
 
 # Username (this should match the folder name)
 authors:
-- aminghafari
+- deanna
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor of Machine Learning
-
+role: Professor of Mathematics, University of California - Los Angeles and Co-Director Programs PIMS
 Organizations/Affiliations:
 organizations:
-- name: University of Calgary
-  url: "https://ucalgary.ca"
+- name: Pacific Institute for the Mathematical Sciences
+  url: "https://pims.math.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
 
 interests:
-- Clustering/Co-Clustering
-- Statistical/Machine Learning
-- Non-parametric statistics
-- Time series/Functional data
+  - Compressed Sensing
+  - Randomized Algorithms
+  - Functional Analysis,
+  - Computational Mathematics
+  - Probability
+  - Statistics 
 
 education:
   courses:
-    - course: PhD. Mathematics/Statistics
-      institution: Université Paris-Saclay
+    - course: PhD Mathematics
+      institution: University of California - Davis
+    - course: MA Mathematics
+      institution: University of California - Davis
+    - course: BS Mathematics
+      institution: Univertsity of Nevada - Reno
 social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mina.aminghafari@ucalgary.ca"
+email: "co-director-programs@pims.math.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -44,7 +49,5 @@ user_groups:
 - committee: organizing
 
 tags:
-- '2024'
-- '2025'
 - '2026'
 ---
