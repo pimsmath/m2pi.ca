@@ -43,7 +43,8 @@ across western Canada.   Presenters will share case studies that reflect on:
     behind them](https://www.pims.math.ca/events/251126-mcsvsml)
   * **December 10th, 2025**: Emily Au
     * [Exploring a Path from Math to Data](https://www.pims.math.ca/events/251210-mcsvsea)
-  * **January 7th, 2026**: [Ray Spiteri](https://www.pims.math.ca/events/260107-mcsvsrs)
+  * **January 7th, 2026**: Ray Spiteri
+    * [Industrial Mathematics in 12 Relatively Pain-Free Lessons](https://www.pims.math.ca/events/260107-mcsvsrs)
   * **February 4th, 2026**: [Michael
     Simantov](https://www.pims.math.ca/events/260204-mcsvsms)
   * **March 4th, 2026**: [Keivan
