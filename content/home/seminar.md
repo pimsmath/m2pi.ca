@@ -41,6 +41,7 @@ across western Canada.   Presenters will share case studies that reflect on:
   * **November 26th, 2025**: Michael Lamoureux
     * [Math at Scale: Real industrial problems and the mathematics
     behind them](https://www.pims.math.ca/events/251126-mcsvsml)
+    (_[recording](https://www.mathtube.org/lecture/video/math-scale-real-industrial-problems-and-mathematics-behind-them-0)_)
   * **December 10th, 2025**: Emily Au
     * [Exploring a Path from Math to Data](https://www.pims.math.ca/events/251210-mcsvsea)
   * **January 7th, 2026**: Ray Spiteri
