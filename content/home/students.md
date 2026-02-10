@@ -3,50 +3,46 @@ widget: blank
 headless: true
 title: Information for Students
 active: true
-weight: 15
+weight: 17
 design:
   columns: '1'
 ---
 M2PI is a full-time training and work-integrated learning opportunity for
-graduate students and post-doctoral fellows in the mathematical sciences
+graduate students and postdoctoral fellows in the mathematical sciences
 (undergraduate students are also eligible to apply). Successful applicants will
-commit to full-time participation within a set duration, typically 2 to 3 weeks,
-during which time they will receive specialized professional and technical
-training while collaborating in teams on industry-specific problems under the
+commit to full-time participation for the duration of the workshop (3 weeks), during
+which they will receive specialized professional and technical training while
+collaborating in teams on industry-specific problems under the
 guidance of an industry mentor.
 
-<!--
-_Registration for students is [now
-open](https://survey.ucalgary.ca/jfe/form/SV_1IeXNyHc0CDpPMy) and will close on
-**April 11th, 11:59 (MT)**. Please complete the [application
-form](https://survey.ucalgary.ca/jfe/form/SV_1IeXNyHc0CDpPMy) if you are
-intereted in participating._
+During the workshop, you will:
+
+  * Receive training and build professional skills in digital collaboration,
+communication, teamwork, and ethics
+  * Work full-time in a small team on a real-world problem proposed by an industry partner
+  * Apply mathematical and analytical skills to a business or organizational challenge
+  * Collaborate with and receive guidance from mentors outside academia
+  * Present your team’s work to peers and industry representatives
 
 {{< button-dark
-  url="https://survey.ucalgary.ca/jfe/form/SV_1IeXNyHc0CDpPMy"
-  text="Register for M2PI2025"
+  url="https://ubc.ca1.qualtrics.com/jfe/form/SV_ethahN004YSRFjw"
+  text="Register for M2PI2026"
 >}}
--->
 
-  * In the first two weeks, students will receive professional and technical
-    skills training relevant to non-academic STEM careers via virtual
-    courses.
-  * Following the training, teams will convene virtually and work intensively on
-    their projects. During this time, they will have access to a mentor for
-    guidance.
-  * The program will conclude with an graduation event.
+_Registration for students is now
+open and will close on **April 17th, 11:59 (PT)**. Please complete the
+[application form](https://ubc.ca1.qualtrics.com/jfe/form/SV_ethahN004YSRFjw)
+if you are interested in participating._
 
-Following the workshop, participants' work will generally be showcased at a
-virtual graduation event and published in the form of a report. At the
-graduation event, participants will showcase their skills to a large audience
-including potential employers in both academic and non-academic fields.
 
-{{< button-dark
-  url="https://eepurl.com/hF9Wnf"
-  text="Join the M2PI mailing list"
->}}
+Graduate students and postdocs at [PIMS member
+universities](https://www.pims.math.ca/pims-sites) are especially encouraged to
+apply, but applications from other universities and from undergraduates will
+also be considered (space permitting). Space is limited, so register early.
+Students who complete the program will receive a certificate of accomplishment
+as an M2PI Fellow.
 
 &nbsp;
 
 _For examples of previous successful projects and details of the training
-program, please see our [previous editions](/#editions) pages._
+program, please see the pages for [previous editions](/#editions)._

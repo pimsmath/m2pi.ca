@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 active: true
-weight: 11 
+weight: 31 
 title: "Case Studies Virtual Seminar Series"
 #cta:
 #  url: https://survey.ucalgary.ca/jfe/form/SV_41SJsq6pqN7gOzk

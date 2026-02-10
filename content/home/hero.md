@@ -14,30 +14,40 @@ design:
     text_color_light: true
 ---
 
-Join us for Math to (em)Power Industry (M2PI) 2026 **May 25th - June 12th, 2026**. M2PI
-is a virtual workshop which connects industry partners with teams of skilled
-mathematical trainees to tackle real-world problems, spark innovation, and build
-pathways for mathematical talent. Whether you're a student eager to sharpen and
-apply your skills, or an organization looking for fresh insight into mathematical
-problems facing your business, see below for how M2PI can help:
+<h2>Math to (em)Power Industry (M2PI) 2026 — May 25 to June 12</h2>
+<br>
+<p>Math to (em)Power Industry (M2PI) 2026 is a virtual workshop that brings
+together industry partners and talented mathematical trainees to tackle
+real-world challenges, spark innovation, and open pathways for emerging
+mathematical talent.</p>
+
+<p>Whether you’re a graduate student or postdoc looking to sharpen your skills and
+apply them to meaningful problems, or an organization seeking fresh perspectives
+on mathematical challenges in your business, M2PI provides the structure and
+support to make it happen.</p>
 
 <div class="row">
 <div class="col">
 {{< button 
   url="#students"
-  text="Information for Students"
+  text="Students/Postdocs Apply to participate"
 >}}
+<div style="text-align: center"><em>(Deadline April 17)</em></div>
 </div>
 <div class="col">
 {{< button
   url="#employers"
-  text="Information for Employers"
+  text="Industry Partners: Submit a problem"
 >}}
+<div style="text-align: center"><em>(Deadline March 15) </em></div>
 </div>
 </div>
 <div class="mt-4"></div>
 <div class="pt-4"></div>
 
-_Curious about what M2PI projects look like? Explore our [previous
-workshops](#editions) to see industry challenges tackled and the solutions
-developed by our trainees._
+<em>Want to see the kind of impact M2PI creates? Explore our [previous workshops](#editions) to discover the industry challenges our trainees tackled and the solutions they
+ developed.</em>
+<br>
+<br>
+<div style="text-align: center"><b>Don’t miss out — applications are open now, and spaces are limited!</b></div>
+
