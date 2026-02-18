@@ -36,3 +36,7 @@
 [[ redirects ]]
   from = "/authors/mcaoduro/cert"
   to = "/authors/caoduro/cert"
+
+[[ redirects ]]
+  from = "/support-m2pi"
+  to = "https://donate.give.ubc.ca/page/68038/donate/1?transaction.dirgift=Pacific%20Institute%20for%20the%20Mathematical%20Sciences%20(PIMS)%20Donations%20Fund%20T206"
