@@ -16,15 +16,11 @@ design:
 
 <h2>Math to (em)Power Industry (M2PI) 2026 — May 25 to June 12</h2>
 <br>
-<p>Math to (em)Power Industry (M2PI) 2026 is a virtual workshop that brings
-together industry partners and talented mathematical trainees to tackle
-real-world challenges, spark innovation, and open pathways for emerging
-mathematical talent.</p>
+<p>M2PI is a three-week, work-integrated learning program that connects industry, government, and non-profit organizations with highly trained graduate students and postdoctoral researchers to address real-world challenges through advanced mathematical thinking.</p>
 
-<p>Whether you’re a graduate student or postdoc looking to sharpen your skills and
-apply them to meaningful problems, or an organization seeking fresh perspectives
-on mathematical challenges in your business, M2PI provides the structure and
-support to make it happen.</p>
+<p>M2PI bridges research and application—bringing fresh analytical insight to complex organizational problems while preparing emerging mathematical talent to thrive in industry environments.</p>
+
+<p>Whether you are a graduate student or postdoctoral fellow seeking hands-on experience beyond academia, or an organization looking to explore innovative, data-driven approaches to your most pressing challenges, M2PI provides the structure, mentorship, and collaborative environment to turn mathematical expertise into meaningful impact.</p>
 
 <div class="row">
 <div class="col">

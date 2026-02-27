@@ -4,6 +4,5 @@ headless: true
 active: true
 weight: 1
 title: >-
-  **Math to (em)Power Industry 2026 - May 25-June 12**
-  Applications are now open for organizations to participate in M2PI as a partner. [Learn more](#employers) or [submit a problem](https://ubc.ca1.qualtrics.com/jfe/form/SV_daogx5849N5TanA) (deadline **March 15**).
+  M2PI 2026 Applications are now open. organizations may [submit a project](#employers) by **March 15, 2026**; graduate students and postdocs in the mathematical sciences may [apply to participate](/#students) by **April 17, 2026**.
 ---

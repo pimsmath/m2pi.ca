@@ -28,8 +28,8 @@ presentations which you can use directly, or as the foundation to build new
 partnerships and innovations.
 
 {{< button-dark
-  url="https://ubc.ca1.qualtrics.com/jfe/form/SV_ethahN004YSRFjw"
-    text="Partner Enquiry (Submit a problem/contact us)"
+  url="https://ubc.ca1.qualtrics.com/jfe/form/SV_daogx5849N5TanA"
+    text="Submit a problem / Find out More"
 >}}
 
 <br>
