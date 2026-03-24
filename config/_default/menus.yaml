@@ -20,6 +20,9 @@ main:
   - name: Editions
     url: '#editions'
     weight: 70
+  - name: Sponsor
+    url: '/sponsor'
+    weight: 75
   - name: Contact
     url: '/#contact'
     weight: 80
