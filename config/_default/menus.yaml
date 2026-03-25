@@ -8,8 +8,8 @@ main:
   - name: Employers
     url: '#employers'
     weight: 40
-  - name: Seminar
-    url: '#seminar'
+  - name: Projects
+    url: '#projects'
     weight: 45
   - name: Stories
     url: '#posts'
