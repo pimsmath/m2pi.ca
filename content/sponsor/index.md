@@ -31,35 +31,7 @@ some of the benefits of becoming an M2PI sponsor.
   * Support the development of future talent equipped to work across industry, government, and non-profit sectors
   * Increase the reach and impact of a program that helps organizations explore innovative solutions to complex challenges
 
-{{< button-dark
-  text="Support M2PI - Sponsor Here"
-  url="https://donate.give.ubc.ca/page/68038/donate/1?transaction.dirgift=Pacific%20Institute%20for%20the%20Mathematical%20Sciences%20(PIMS)%20Donations%20Fund%20T206%20M2PI Sponsor"
->}}
-M2PI sponsorships are managed by the University of British Columbia on behalf of M2PI and PIMS. The button above will take you to UBC’s secure giving page, where sponsorship donations can be processed providing tax receipts. All funds will directly support the Math to Power Industry (M2PI).
-
-### What Your Support Enables
-* Sponsor contributions help sustain and grow the program by supporting:
-* Trainee Teams — enabling more students and postdoctoral fellows to participate
-* Program Delivery — supporting the professional training, coordination, and mentorship that make the program successful
-* Capstone Experience — strengthening the final project and presentation experience for trainees and partners
-* Additional sponsorship also helps expand participation, increase partner engagement, and broaden the program’s impact across sectors.
-
-### Why It Matters
-Organizations across Canada face increasingly complex challenges involving data,
-uncertainty, optimization, forecasting, risk, and decision-making. M2PI helps
-address these needs by preparing mathematical talent to work beyond academia and
-by creating opportunities for organizations to engage with fresh, analytical
-perspectives.
-
-Your sponsorship supports more than a single program cycle. It helps build
-long-term capacity for innovation, collaboration, and talent development.
-
-### Ways to Engage
-Organizations can support M2PI in different ways:
-* As a sponsor — helping sustain and expand the program
-* As a project partner — submitting a real-world challenge for trainee teams to work on
-* As both — supporting the program while also engaging directly with its talent and project model
-Sponsorship is open to organizations that want to contribute to M2PI’s growth, whether or not they are submitting a project challenge.
+M2PI sponsorships are managed by the University of British Columbia on behalf of M2PI and PIMS. Donations are processed through UBC’s secure giving page and include tax receipts. All funds directly support the Math to Power Industry (M2PI).
 
 <div class="row">
 <div class="col">
@@ -77,8 +49,47 @@ Sponsorship is open to organizations that want to contribute to M2PI’s growth,
 </div>
 <br>
 
-M2PI sponsorships are managed by the University of British Columbia on behalf of M2PI and PIMS. The "online" button above will automatically direct your sponsorship to the M2PI program, but if you are sponsoring by phone/mail, please identify the sponsorship target as **"Pacific Institute for the Mathematical Sciences (PIMS) Donations Fund T206 M2PI Sponsor"**. 
+### What Your Support Enables
+Sponsor contributions sustain and grow the program by supporting:
 
-All sponsorship donations are processed by UBC who will also issue the corresponding
-tax receipts. All funds will directly support the Math to Power Industry (M2PI).
+* **Trainee Teams** - enabling more students and postdoctoral fellows to participate
+* **Program Delivery** - training, coordination, and mentorship
+* **Capstone Experience** - strengthening final projects and presentations
 
+Additional support expands participation, partner engagement, and overall program impact.
+
+### Why It Matters
+Organizations across Canada face complex challenges involving data, uncertainty,
+optimization, forecasting, and decision-making. M2PI addresses these needs by
+preparing mathematical talent for work beyond academia and connecting
+organizations with fresh analytical perspectives.
+
+Your sponsorship helps build long-term capacity for innovation, collaboration,
+and talent development.
+
+### Ways to Engage
+Organizations can participate in several ways:
+
+* **As a sponsor** - supporting program growth
+* **As a project partner** - submitting real-world challenges
+* **As both** - combining sponsorship with direct engagement
+
+Sponsorship is open to organizations regardless of project participation.
+
+<div class="row">
+<div class="col">
+{{< button-dark
+  text="Support M2PI - Online"
+  url="https://donate.give.ubc.ca/page/68038/donate/1?transaction.dirgift=Pacific%20Institute%20for%20the%20Mathematical%20Sciences%20(PIMS)%20Donations%20Fund%20T206%20M2PI Sponsor"
+>}}
+</div>
+<div class="col">
+{{< button-dark
+  text="Support M2PI - Phone/Mail"
+  url="https://give.ubc.ca/how-to-give/ways-to-give/more-ways-to-give/give-by-mail-or-phone/"
+>}}
+</div>
+</div>
+<br>
+
+Sponsorships are administered by UBC on behalf of M2PI and PIMS. If donating by phone or mail, please specify: **"Pacific Institute for the Mathematical Sciences (PIMS) Donations Fund T206 M2PI Sponsor"**. Tax receipts are issued by UBC, and all funds directly support M2PI.
