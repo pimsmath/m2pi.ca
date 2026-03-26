@@ -59,3 +59,15 @@ final_report:
 ---
 ![](TypeOneEnergy.png)
 
+This project will analyze the geometry of magnetic fusion reactors.  The goal
+will optimize the geometry of magnetic fusion reactors to maximize the average
+pressure.
+
+### About Type One Energy
+
+At Type One Energy Group, we are developing optimized stellarator designs to
+provide sustainable, affordable fusion power to the world. We apply proven
+advanced manufacturing methods, modern computational physics and high-field
+superconducting magnets to pursue the lowest-risk, shortest-schedule path to a
+fusion power plant over the coming decade.
+
