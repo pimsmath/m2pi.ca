@@ -10,7 +10,7 @@ summary: |
   analysis](https://invention.si.edu/invention-stories/sports-analytics-moneyball)
   or related mathematical fields can be used to help construct these tools. The
   goal is to leverage public data from legislative bodies to reveal what in the
-  legislative activity is deserving if attention from a policy point of view,
+  legislative activity is deserving of attention from a policy point of view,
   either by connecting with a known policy ontology (such as the [comparative agendas
   codebook](https://www.comparativeagendas.net/pages/master-codebook)), or by
   surfacing issues that _should_ be connected to a known ontology.
