@@ -14,7 +14,7 @@ design:
     text_color_light: true
 ---
 
-<h2>Math to (em)Power Industry (M2PI) 2026 — May 25 to June 12</h2>
+<h2>Math to Power Industry (M2PI) 2026 — May 25 to June 12</h2>
 <br>
 <p>M2PI is a three-week, work-integrated learning program that connects industry, government, and non-profit organizations with highly trained graduate students and postdoctoral researchers to address real-world challenges through advanced mathematical thinking.</p>
 
