@@ -71,3 +71,20 @@ advanced manufacturing methods, modern computational physics and high-field
 superconducting magnets to pursue the lowest-risk, shortest-schedule path to a
 fusion power plant over the coming decade.
 
+### Skillset
+
+The project requires a good command of standard numpy tools and programming
+practices in Python. It also requires a good understanding of elementary partial
+differential equations (e.g. the first 4 chapters of [Evans' PDE
+textbook](https://books.google.ca/books/about/Partial_Differential_Equations.html?id=Xnu0o_EJrCQC)) and a
+good understanding of elementary numerical analysis / scientific computing. No
+prior knowledge of fusion or plasma physics is required. We will be happy to
+teach participants as much about fusion and plasma physics as they would like to
+learn!
+
+To make this project tractable, we will rely on Python-based automated
+frameworks for solving partial differential equations, such as Firedrake or
+FEniCS.
+- [Firedrake](https://www.firedrakeproject.org/) or
+- [FEniCS](https://fenicsproject.org/).
+
