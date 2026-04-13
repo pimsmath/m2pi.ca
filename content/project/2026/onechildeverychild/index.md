@@ -1,6 +1,6 @@
 ---
 title: "One Child Every Child"
-subtitle: "TBA"
+subtitle:
 summary: |
   This project examines how re-identification risk varies within datasets
   (particularly for individuals with unique or complex diagnostic profiles) and
