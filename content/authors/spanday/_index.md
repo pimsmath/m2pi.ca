@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Siqi Wei
+title: Shoyon Panday
 
 # Weight
 weight: 1
 
 # Username (this should match the folder name)
 authors:
-- siqiwei
+- spanday
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,19 +24,17 @@ organizations:
 bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
 
 interests:
-  - Numerical methods
-  - Scientific Machine Learning
 
 education:
   courses:
-    - course: PhD Mathematics
-      institution: University of Saskatchewan
-    - course: MSc Mathematics
-      institution: University of British Columbia
+    - course: PhD Thermofluids
+      institution: Western University
+    - course: BS Mathematics
+      institution: Military Institute of Science and Technology
 social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "siqi.wei@ec.gc.ca"
+email: "Shoyon.Panday@ec.gc.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
