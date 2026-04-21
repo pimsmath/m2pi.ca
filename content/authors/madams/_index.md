@@ -22,10 +22,6 @@ organizations:
 - name: Alberta Children's Hospital Research Institute
   url: "https://research4kids.ucalgary.ca/"
 
-- name: Centre for Health Genmics and Informatics, University of Calgary
-  url: "https://cumming.ucalgary.ca/research/cat/health-genomics"
-
-
 # Short bio (displayed in user profile at end of posts)
 bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
 
