@@ -17,31 +17,31 @@ organizations:
 - name: {{ affiliation }}
   url: {{ affiliation_url }}
 
-education:
-  courses:
-  {% for course in courses -%}
-  - course: {{ course.name }}
-    institution: {{ course.institution }}
-  {% endfor %}
-
-
-interests:
-  {% for interest in interests -%}
-  - {{ interest }}
-  {% endfor %}
-
-social:
-  {% for social in socials -%}
-  - icon: {{ social.icon }}
-    icon_pack: {{ social.icon_pack }}
-    link: '{{ social.link }}'
-  {% endfor %} 
+# education:
+#   courses:
+#   {% for course in courses -%}
+#   - course: {{ course.name }}
+#     institution: {{ course.institution }}
+#   {% endfor %}
+# 
+# 
+# interests:
+#   {% for interest in interests -%}
+#   - {{ interest }}
+#   {% endfor %}
+# 
+# social:
+#   {% for social in socials -%}
+#   - icon: {{ social.icon }}
+#     icon_pack: {{ social.icon_pack }}
+#     link: '{{ social.link }}'
+#   {% endfor %} 
 
 user_groups:
 - committee: members
 
 tags:
-- '2024'
+- '{{ year }}'
 
 outputs:
 - html
@@ -51,11 +51,11 @@ outputs:
 
 {% if certificate %}
 certificates:
-- file: {{ cert.pdf }}
-  img: {{ cert.png }}
+- file: cert2025.pdf
+  img: cert2025.png
   title: {{ m2pi_edition }}
   date: {{ date }}
-  issued: {{ cert.issued }}
+  issued: {{ issued }}
 {% endif %}
 ---
 
