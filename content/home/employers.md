@@ -27,10 +27,15 @@ organization. The project teams distill their work into written reports and
 presentations which you can use directly, or as the foundation to build new
 partnerships and innovations.
 
+<!--
 {{< button-dark
   url="https://ubc.ca1.qualtrics.com/jfe/form/SV_daogx5849N5TanA"
     text="Submit a problem / Find out More"
 >}}
+-->
+_Applications for M2PI2026 are closed, but we will be opening applications for
+M2PI2027 later this year. In the meantime, please contact m2pi@pims.math.ca if
+you have any questions._
 
 <br>
 <h5>More Details</h5>

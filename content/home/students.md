@@ -29,10 +29,10 @@ communication, teamwork, and ethics
   text="Register for M2PI2026"
 >}}
 
-_Registration for students is now
-open and will close on **April 17th, 11:59 (PT)**. Please complete the
-[application form](https://ubc.ca1.qualtrics.com/jfe/form/SV_ethahN004YSRFjw)
-if you are interested in participating._
+_Registration for students 
+closed on **April 17th, 11:59 (PT)**. 
+The button above will let you register your interest in joining a waitlist for
+M2PI2026 and or registering your interest in participating next year._
 
 
 Graduate students and postdocs at [PIMS member

@@ -28,14 +28,14 @@ design:
   url="#students"
   text="Students/Postdocs Apply to participate"
 >}}
-<div style="text-align: center"><em>(Deadline April 17)</em></div>
+<div style="text-align: center"><em>(Now closed - waitlist only)</em></div>
 </div>
 <div class="col">
 {{< button
   url="#employers"
   text="Industry Partners: Submit a problem"
 >}}
-<div style="text-align: center"><em>(Deadline March 15) </em></div>
+<div style="text-align: center"><em>(Closed will reopen for M2PI2027 in late 2027) </em></div>
 </div>
 </div>
 <div class="mt-4"></div>
