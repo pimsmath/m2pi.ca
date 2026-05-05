@@ -45,5 +45,6 @@ design:
  developed.</em>
 <br>
 <br>
+<!--
 <div style="text-align: center"><b>Don’t miss out — applications are open now, and spaces are limited!</b></div>
-
+-->
