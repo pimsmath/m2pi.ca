@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Valentine Dallerit
+title: Valentin Dallerit
 
 # Weight
 weight: 1
@@ -24,6 +24,9 @@ organizations:
 bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
 
 interests:
+  - Scientific Machine Learning
+  - Numerical Methods
+  - High Performance Computing
 
 education:
   courses:

@@ -24,6 +24,9 @@ organizations:
 bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
 
 interests:
+  - Scientific Machine Learning
+  - Numerical Methods
+  - High Performance Computing
 
 education:
   courses:

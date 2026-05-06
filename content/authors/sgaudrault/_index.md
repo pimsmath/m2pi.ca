@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Stéphane Gaudrault
+title: Stéphane Gaudreault
 
 # Weight
 weight: 1
@@ -24,6 +24,9 @@ organizations:
 bio: # James Colliander serves as the Director of the Pacific Institute for the Mathematical Sciences.
 
 interests:
+  - Scientific machine learning
+  - Numerical methods
+  - High performance computing
 
 education:
   courses:
