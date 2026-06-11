@@ -35,7 +35,7 @@ design:
   url="#employers"
   text="Industry Partners: Submit a problem"
 >}}
-<div style="text-align: center"><em>(Closed will reopen for M2PI2027 in late 2027) </em></div>
+<div style="text-align: center"><em>(Closed will reopen for M2PI2027 in late 2026) </em></div>
 </div>
 </div>
 <div class="mt-4"></div>
