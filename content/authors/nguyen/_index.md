@@ -10,29 +10,28 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Graduate Student
 
 Organizations/Affiliations:
 organizations:
 - name: University of British Columbia
   url: https://ubc.ca
 
-# education:
-#   courses:
-#   
-# 
-# 
-# interests:
-#   
-# 
-# social:
-#    
+interests:
+- Number Theory
+- "Mathematical Optimization (Convex Optimization, Linear Programming, Integer Programming, etc.)"
+- Machine Learning and Statistical Inference
+education:
+  courses:
+  - course: PhD in Mathematics
+    institution: University of British Columbia
 
 user_groups:
 - committee: members
-  role: Awesense Project Member
+  role: Qavis
 tags:
 - '2025'
+- '2026'
 
 outputs:
 - html

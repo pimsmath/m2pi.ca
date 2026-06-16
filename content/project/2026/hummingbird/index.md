@@ -9,6 +9,11 @@ summary: |
   mathematics and its formalization. 
 authors:
   - jonathan-gallagher
+  - dteixeira
+  - jhasan
+  - karigbabu
+  - psingh
+  - swati
 
 keywords: 
  - Ai

@@ -12,6 +12,13 @@ authors:
   - vdallerit
   - spanday
   - cpereira
+  - ccurry
+  - amorrison
+  - cballesteros
+  - ltheocharous
+  - lqian
+  - ymao
+  - sadeghian
 
 keywords: 
   - Machine Learning

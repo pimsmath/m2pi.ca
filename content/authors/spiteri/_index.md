@@ -44,6 +44,7 @@ email: "spiteri@cs.usask.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: organizing
+- committee: instructors
 
 tags:
 - '2020'

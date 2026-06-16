@@ -14,17 +14,16 @@ role: Graduate
 
 Organizations/Affiliations:
 organizations:
-- name: University of British Columbia
+- name: University of British Columbia (Alumni)
   url: "https://ubc.ca/"
 
 education:
   courses:
-  - course: Master
+  - course: Masters in Mathematics
     institution: University of British Columbia
 
 interests:
   - Data-Science
-  - MLOps
   - Mathematical Modeling
 
 social:
@@ -41,10 +40,11 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: members
-  role: Multiverse Project Member
+  role: Quantum Advantage Partners
 
 tags:
 - '2023'
+- '2026'
 
 outputs:
 - html
@@ -58,5 +58,8 @@ certificates:
   issued: true
 
 ---
+I have over 8 years of experience in building mathematical solutions to complex mathematical problems, out of which over two years has been in building specific AI solutions in the natural language processing space, particularly large language models and solutions with large language models.
 
-As a data scientist with a master’s degree from university of British Columbia specialized in algebraic statistics and experience in mathematical modeling and data science, I am passionate about the intersection of technology and business. I am eager to use my skills to unlock insights from complex data sets and drive business growth.
+Over the past two years, I have specialized in building AI solutions in the natural language processing (NLP) space, with a particular focus on large language models (LLMs) and LLM-powered applications. As a Data Scientist, I have designed and deployed machine learning and generative AI solutions across enterprise and research domains, including retrieval-augmented generation (RAG) systems, document question-answering platforms, data pipelines, and NLP models that deliver measurable business impact.
+
+My work combines strong mathematical foundations with practical expertise in data processing, model development, AI application design, and scalable deployment using Python, AWS, and modern machine learning frameworks. I am passionate about uncovering patterns in large datasets, communicating insights through effective data storytelling, and making complex systems more understandable and actionable through data.

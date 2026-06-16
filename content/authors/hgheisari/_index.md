@@ -49,10 +49,12 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: members
+- committee: instructors
 
 tags:
 - '2023'
 - '2024'
+- '2026'
 
 certificates:
 - file: './cert2024.pdf'

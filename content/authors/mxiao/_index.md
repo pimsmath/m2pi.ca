@@ -14,7 +14,7 @@ role: Graduate Student
 
 Organizations/Affiliations:
 organizations:
-- name: University of Regina
+- name: University of Regina (Alumni)
   url: "https://uregina.ca"
 
 education:
@@ -23,9 +23,10 @@ education:
     institution: University of Regina
 
 interests:
-  - Mixture Modeling
-  - Statistics and Biostatistics
-  - Machine Learning
+- Statistical Modeling
+- Computational Statistics
+- Machine Learning and Data Science
+- Uncertainty Quantification
 
 social:
 
@@ -36,8 +37,10 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: members
-  role: Big River Analytics Project Member
+  role: Quantum Advantage Partners
 
 tags:
 - '2022'
+- '2026'
 ---
+Mei Xiao is a statistics graduate whose interests include statistical modeling, machine learning, data science, and computational statistics. She is interested in applying quantitative methods to practical problems and in connecting statistical theory with applied research. She plans to continue developing her work at the intersection of statistics, computation, and real-world decision-making.

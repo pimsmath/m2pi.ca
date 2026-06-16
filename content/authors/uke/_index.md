@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Ulviye Karya Ellibeş
+highlight_name: true
 
 # Weight
 weight: 1

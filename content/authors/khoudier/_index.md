@@ -1,6 +1,7 @@
 ---
 # Display name
 title:  Boualem Khouider
+highlight_name: true
 
 # Weight
 weight: 1
@@ -46,6 +47,8 @@ email: "khouider@uvic.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- committee: mentors
+  role: Mentor
 
 tags:
 - '2026'

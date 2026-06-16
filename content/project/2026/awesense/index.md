@@ -11,6 +11,10 @@ summary: |
 authors:
   - elenapopovici
   - afried
+  - asadikov
+  - mmartinez
+  - dbansard
+  - oridwan
 
 keywords: 
   - data analysis
