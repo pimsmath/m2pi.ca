@@ -1,12 +1,15 @@
 ---
-title: University of Victoria
+title: University of Victoria/Jet Propulsion Laboratory
 subtitle: "Quantum computing for climate modeling"
 
 summary: |
   The goal of the project is to develop an interface between quantum and
   classical- binary computing devices for the purpose of climate modelling.
 authors:
-  - khouider
+  - khoudier
+  - aranu
+  - cvalenzuela
+  - dpalma
 tags:
   - '2026'
 

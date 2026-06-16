@@ -2,6 +2,8 @@
 # Display name
 title: Mehdi Bozzo-Rey
 
+highlight_name: true
+
 # Weight
 weight: 1
 

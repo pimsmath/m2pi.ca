@@ -19,30 +19,29 @@ organizations:
 
 education:
   courses:
-  - course: BSc in Mathematics and Statistics (ongoing)
+  - course: BSc in Mathematics and Statistics
     institution: University of Victoria
 
 
 interests:
-  - Mathematical Modeling
-  - Machine Learning/AI
-  - Actuarial Science
-  - Cryptography
+- Optimization Methods
+- Mathematical Biology and Dynamical Systems
+- Data Analysis
+- Scientific Computing and Numerical Simulation in Python
+- Mathematical Modelling and Applied Differential Equations
 
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: 'https://ca.linkedin.com/in/minahil-memon-b349b7352?trk=people-guest_people_search-card'
   - icon: github
     icon_pack: fab
     link: 'https://github.com/minahilmemon'
 
 user_groups:
 - committee: members
-  role: Clause Technology Project Member
+  role: Type One Energy
 
 tags:
 - '2025'
+- '2026'
 
 outputs:
 - html
@@ -58,6 +57,5 @@ certificates:
   issued: true
 
 ---
- Minahil Memon is an undergraduate student at the University of Victoria,
- majoring in mathematics and statistics. She is keen on uncovering how abstract
- mathematical ideas can inform practical, real-life decisions.
+I am an undergraduate Mathematics and Statistics student at the University of Victoria with a strong interest in applied mathematics, optimization, and scientific computing. My recent work through M2PI has focused on plasma shape optimization, where I have explored genetic algorithms and numerical methods for solving industry-driven mathematical problems. I enjoy interdisciplinary research and am especially interested in using mathematics, statistics, and computation to build practical solutions for complex real-world systems.
+

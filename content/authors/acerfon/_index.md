@@ -47,4 +47,5 @@ highlight_name: true
 tags:
   - '2023'
   - '2025'
+  - '2026'
 ---

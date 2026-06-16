@@ -10,7 +10,12 @@ summary: |
   compartmentalization and role-specific decision processes produces measurably
   better collective outcomes than the standard shared-context approach.
 authors:
-  - bozzorey
+ - bozzorey
+ - mxiao
+ - pparida
+ - sghosh
+ - tkargin
+ - rsadoughian
 tags:
   - '2026'
 

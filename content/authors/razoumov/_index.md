@@ -40,7 +40,7 @@ email: "alex.razoumov@westgrid.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - committee: instructors
-  role: Parallel Coding with Julia Instructor
+  role: Parallel Coding with Chapel Instructor
 
 tags:
   - '2021'
@@ -48,5 +48,6 @@ tags:
   - '2023'
   - '2024'
   - '2025'
+  - '2026'
 ---
 Alex Razoumov earned his PhD in computational astrophysics from the University of British Columbia and held postdoctoral positions in Urbana-Champaign, San Diego, Oak Ridge, and Halifax. He spent five years as HPC Analyst in SHARCNET and in 2014 moved back to Vancouver to focus on scientific visualization and training researchers to use advanced computing tools. Alex is currently at Simon Fraser University.

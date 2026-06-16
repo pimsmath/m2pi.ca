@@ -12,6 +12,10 @@ summary: |
 
 authors:
   - madams
+  - ahampton
+  - lyih
+  - oreiter
+  - wenlin
 
 keywords: 
   - data sharing

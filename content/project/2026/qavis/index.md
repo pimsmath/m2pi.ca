@@ -10,6 +10,11 @@ summary: |
   quantum-AI optimization platform from logistics into manufacturing.
 authors:
   - uke
+  - ffiroozi
+  - mwithanachchi
+  - mkaatz
+  - nguyen
+
 tags:
   - '2026'
 

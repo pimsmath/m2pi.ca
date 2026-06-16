@@ -6,6 +6,10 @@ summary: |
   fusion reactor shapes which maximize the average pressure of the fusion fuel.
 authors:
   - acerfon
+  - iolmos
+  - kbu
+  - kchang
+  - mmemon
 
 keywords: 
  - Shape optimization
