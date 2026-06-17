@@ -33,5 +33,18 @@ user_groups:
   role: "Awesense"
 tags:
 - '2026'
+
+outputs:
+- html
+- cert
+
+certificates:
+- file: cert2026.pdf
+  img: cert2026.png
+  title: M2PI2026
+  date: 2026-06-17T09:00:00-08:00
+  issued: true
+
+
 ---
 I am in the last year of my master's degree program in Applied Mathematics. I have experience and have done research in areas related to Data Science and Machine Learning. My current area of research is on Mathematical Modeling of fiber reinforced bioplastics.

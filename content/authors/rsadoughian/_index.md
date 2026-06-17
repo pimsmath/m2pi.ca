@@ -51,6 +51,11 @@ outputs:
 - cert
 
 certificates:
+- file: './cert2026.pdf'
+  img: './cert2026.png'
+  title: 'M2PI2026'
+  date: 2026-06-17T09:00:00-08:00
+  issued: true
 - file: './cert2023.pdf'
   img: './cert2023.png'
   title: 'M2PI2023'

@@ -33,6 +33,18 @@ user_groups:
   role: "Awesense"
 tags:
 - '2026'
+
+outputs:
+- html
+- cert
+
+certificates:
+- file: cert2026.pdf
+  img: cert2026.png
+  title: M2PI2026
+  date: 2026-06-17T09:00:00-08:00
+  issued: true
+
 ---
 Avner is completing his PhD in Mathematics at the University of Regina, specializing in quantum information, operator algebras, and functional analysis. His research investigates the dynamics and structural properties of quantum channels, with a focus on connecting abstract theory to computational practice through numerical experiments based on semidefinite programming.
 
