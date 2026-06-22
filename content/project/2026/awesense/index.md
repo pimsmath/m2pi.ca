@@ -15,6 +15,7 @@ authors:
   - mmartinez
   - dbansard
   - oridwan
+  - tmansoor
 
 keywords: 
   - data analysis
