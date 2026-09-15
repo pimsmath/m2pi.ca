@@ -1,5 +1,5 @@
 ---
-title: Qavis Inc.
+title: Qavis
 subtitle: 
 
 summary: |
